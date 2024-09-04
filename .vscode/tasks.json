@@ -1,0 +1,29 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=733558
+	// for the documentation about the tasks.json format
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Export to HTML",
+			"type": "shell",
+			"command": "marp ${file} --theme slides/themes/teaching.css --html true --lang fr-FR",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "Open in Browser",
+			"type": "shell",
+			"linux": {"command": "brave ${file}"},
+			"osx": {"command": "open -a Brave\\ Browser ${file}"},
+			"group": "test"
+		},
+		{
+			"label": "Create RAW MD",
+			"type": "shell",
+			"linux": {"command": "python3 md-raw.py ${file}"},
+			"osx": {"command": "python3 md-raw.py ${file}"}
+		}
+	]
+}
