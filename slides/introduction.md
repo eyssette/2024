@@ -77,8 +77,8 @@ La philosophie semble avant tout être une activité ………(intellectuelle �
 ---
 <!-- _class: pointmethode fpppppppp -->
 ### Point méthode
-- En philosophie, c'est très utile de partir de ses représentations spontanées ou de lieux communs à propos d'une notion.
-- C'est un premier matériau qu'on peut analyser, avec de l'esprit critique.
+* En philosophie, c'est très utile de partir de ses représentations spontanées ou de lieux communs à propos d'une notion.
+* C'est un premier matériau qu'on peut analyser, avec de l'esprit critique.
 
 ---
 <!-- _class: i1t0  -->
@@ -106,12 +106,12 @@ ol li {margin-top:1px;}
 ---
 <!-- _class: definition pm -->
 <style scoped>
-span {font-size:90%}
+span span {font-size:90%}
 </style>
 
 #### Définition
 
-**Faire de la philosophie**, c'est réfléchir à des questions qui portent sur des **notions générales et fondamentales** de notre existence <span>(la liberté, le bien et le mal, la vérité, …)</span>.
+**Faire de la philosophie**, c'est réfléchir <span data-marpit-fragment="1">à des questions qui portent sur des **notions générales et fondamentales** de notre existence <span>(la liberté, le bien et le mal, la vérité, …)</span>.</span>
 
 <!-- Trouver une question philosophique -->
 
@@ -450,7 +450,7 @@ ol li{margin-left:-1em; margin-bottom:0.75em;}
 </style>
 1) **Une question clef :**<br>Comment approfondir ?
 2) **Réponse :** <br>avec des références théoriques et des exemples concrets
-3) **Qui viennent d'où ? :**<br>1/ du cours, 2/ de votre culture personnelle : cinéma, lectures, … 3/ de votre expérience du monde
+3) **Qui viennent d'où ? :**<br><span data-marpit-fragment="1">1/ du cours,</span><span data-marpit-fragment="2"> 2/ de votre culture personnelle : cinéma, lectures, … </span><span data-marpit-fragment="3">3/ de votre expérience du monde</span>
 
 <!-- Il est difficile de réfléchir tout seul. Pour aller plus loin dans sa réflexion, il va falloir s'efforcer de mobiliser : 
 - des **références théoriques** à des auteur·e·s qui ont déjà réfléchi à la question ;
@@ -475,6 +475,11 @@ ul{text-align:justify!important; padding-left:35px; padding-right:35px;}
 ![Schéma de la digestion](./images/digestion.png)
 
 ![Photo d'une athlète qui court](./images/athlete.png)
+
+
+---
+<!-- _class:  -->
+Il ne faut pas vomir ce qu'on a appris, mais le digérer, c'est-à dire : <span data-marpit-fragment="1">trier ce qui est utile dans ses connaissances</span> <span data-marpit-fragment="2">et l'utiliser pour développer sa réflexion.</span>
 
 <!-- Vomir ce qu'on a appris, ce serait simplement recracher ses connaissances, sans les avoir intégrées, et sans organisation.
 Digérer ce qu'on a appris, c'est s'approprier des connaissances afin de les faire siennes et pouvoir ainsi les mobiliser pour développer sa propre réflexion.
