@@ -479,7 +479,7 @@ ul{text-align:justify!important; padding-left:35px; padding-right:35px;}
 
 ---
 <!-- _class:  -->
-Il ne faut pas vomir ce qu'on a appris, mais le digérer, c'est-à dire : <span data-marpit-fragment="1">trier ce qui est utile dans ses connaissances</span> <span data-marpit-fragment="2">et l'utiliser pour développer sa réflexion.</span>
+Il ne faut pas vomir ce qu'on a appris, mais le digérer (Epictète), c'est-à dire : <span data-marpit-fragment="1">trier ce qui est utile dans ses connaissances</span> <span data-marpit-fragment="2">et l'utiliser pour développer sa réflexion.</span>
 
 <!-- Vomir ce qu'on a appris, ce serait simplement recracher ses connaissances, sans les avoir intégrées, et sans organisation.
 Digérer ce qu'on a appris, c'est s'approprier des connaissances afin de les faire siennes et pouvoir ainsi les mobiliser pour développer sa propre réflexion.
