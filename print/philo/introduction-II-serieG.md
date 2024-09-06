@@ -4,12 +4,12 @@ colonnes: 4
 espacementColonnes: 30px
 copies: 2
 paysage: true
-margesX: 10px
+margesX: 20px
 margesY: 10px
 maths: false
 ---
 
-<style>h1:nth-of-type(2n){margin-top:1em}</style>
+<style>h1:nth-of-type(2n+1){margin-top:0em}h1:nth-of-type(2n){margin-top:1.5em}img{height:100px}td:nth-of-type(2){width:20%}</style>
 
 # A. Le cadre général
 
@@ -49,10 +49,12 @@ _Travail noté :_
 - Contrôles de connaissance
 - Devoirs type bac
 
-### Les notes 
+
+
+### Les notes
 
 - En cas de _retard non justifié_ : retard indiqué dans l'appréciation et pénalité possible au niveau de la note en fonction du retard.
-- En cas de _[plagiat](https://eyssette.github.io/ressources-generales-enseignement-philosophie/remarques-sur-le-plagiat)_ ou de _fraude_ : 0.
+- En cas de _plagiat_ ou de _fraude_ : 0.
 - Possibilité de demander un _travail supplémentaire_ pour remplacer une note.
 - _Travaux facultatifs_ : pris en compte en bonus (seulement si c'est à votre avantage).
 
@@ -76,11 +78,15 @@ Pour discuter avec moi :
 ## 2/ Lectures
 
 * *Obligatoires* : textes distribués régulièrement + une œuvre suivie.
-* *Pour approfondir* : manuels et revue [PhiloMag](https://www.philomag.com/) au CDI, conseils de lecture pour chaque chapitre, conseils de lecture sur un thème qui vous intéresse.
+* *Pour approfondir* : manuels et revue PhiloMag au CDI, conseils de lecture pour chaque chapitre, conseils de lecture sur un thème qui vous intéresse.
 * *À éviter* : les annabacs, les livres de méthode.
 
 ## 3/ Internet
 
-- [Site du cours de philosophie](https://eyssette.forge.apps.education.fr/2024/philo-g)
-- [Sélection de chaînes vidéo intéressantes](https://eyssette.github.io/ressources-generales-enseignement-philosophie/chaines-video-interessantes)
-- [Moteur de recherche “Introduction à la philosophie”](https://cse.forge.apps.education.fr/#intro-philo)
+Site du cours de philosophie : taper "eyssette" dans un moteur de recherche pour le retrouver.
+
+
+||||
+|--:|:--:|:--|
+|Précisions sur le plagiat et comment l'éviter|**&rarr;**|![https://eyssette.github.io/ressources-generales-enseignement-philosophie/remarques-sur-le-plagiat](https://minio.apps.education.fr/codimd-prod/uploads/upload_389c3466e5078a1754a9f08073ad3def.png)|
+|![https://eyssette.forge.apps.education.fr/2024/philo-g/](https://minio.apps.education.fr/codimd-prod/uploads/upload_6f2e4fb3dd4060de73e4983c5a4ac67b.png)|**&larr;**| Site du cours de philosophie|

@@ -533,6 +533,12 @@ p:nth-of-type(1){margin-bottom:0.75em;}
 
 <span data-marpit-fragment="1">:point_right:  **Non** : On juge le travail d'après ces quatre démarches !</span>
 
+
+---
+<!-- _class: partie -->
+# Mise en pratique
+
+
 ---
 <!-- _class: etape -->
 <style scoped>
@@ -545,15 +551,6 @@ Chercher des idées pour répondre à cette question :
 « Réfléchir, est-ce dire non ? »
 
 
-
----
-<!-- _class: pointmethode fpppp -->
-<style scoped>
-span {font-size:0.9em}
-</style>
-### Point méthode
-
-Chercher des idées en philosophie, c'est, le plus souvent, chercher les étapes qui permettent de passer d'une notion du sujet <span>(p.ex. : “réfléchir”)</span> à une autre <span>(p.ex. : “dire non”)</span>.
 
 <!-- 
 Si réfléchir ce n'est pas se laisser aller à ses premières idées, mais plutôt dépasser l'opinion immédiate, les idées trop rapides afin de parvenir à mieux penser, alors réfléchir c'est dire non aux idées reçues et à tout ce que nous avons préjugé avant d'avoir réellement examiner les choses.
@@ -569,6 +566,21 @@ En effet
 <p><span class="fondGris"><strong>Point méthode&nbsp;:</strong> construire un raisonnement en philosophie, c'est, le plus souvent, chercher les étapes qui permettent de passer d'une notion du sujet (p.ex.&nbsp;: “réfléchir”) à une autre (p.ex.&nbsp;: “dire non”)</span></p>
 </div>
  -->
+
+---
+<!-- _class: pointmethode f -->
+<style scoped>
+span {font-size:0.9em}
+</style>
+### Point méthode
+
+Chercher des idées en philosophie, c'est, le plus souvent, chercher les étapes qui permettent de passer d'une notion du sujet <span>(p.ex. : “réfléchir”)</span> à une autre <span>(p.ex. : “dire non”)</span>.
+
+On cherche par soi-même ce qui lie les deux notions.
+On utilise aussi ses connaissances pour trouver des liens.
+
+
+
 
 ---
 <!-- _class: partie -->
