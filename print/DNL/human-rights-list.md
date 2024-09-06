@@ -9,7 +9,7 @@ margesY: 10px
 maths: false
 ---
 
-<style>p{font-weight:bold; text-align:left}style{margin:0}</style>
+<style>p{font-weight:bold; text-align:left}</style>
 
 <!-- Vous pouvez modifier comme vous le souhaitez les paramètres ci-dessus et copier-coller ensuite ci-dessous votre Markdown. -->
 
