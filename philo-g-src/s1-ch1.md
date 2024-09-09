@@ -1,3 +1,5 @@
 # Chapitre 1 : Le bonheur
 
-[diapo:s1-ch1]
+### Contenu de ce chapitre
+
+<script>subPages()</script>

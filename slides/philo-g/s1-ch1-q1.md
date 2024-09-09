@@ -6,7 +6,7 @@ size: 4:3
 ---
 
 <!-- _class: titre -->
-# Chapitre 1 : <br>Le bonheur <!-- fit -->
+# Q1 – <br>Peut-on parvenir<br> au bonheur ?<!-- fit -->
 
 Cédric Eyssette (2024-2025)
 https://eyssette.forge.apps.education.fr/
