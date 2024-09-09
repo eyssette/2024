@@ -2,7 +2,7 @@
 
 ![](https://github.com/eyssette/images/blob/main/img/penseur-rodin.png?raw=true)
 
-[diapo:introduction]
+<a href="https://eyssette.forge.apps.education.fr/2024/slides/introduction.html" class="slidesLink">Lien vers le diaporama</a>
 
 ## Schéma récapitulatif
 
