@@ -31,6 +31,7 @@ ou : la psychologie positive
 ---
 <!-- _class: i1t1 horizontal fppp -->
 <style scoped>
+* {text-align:left!important}
 img {object-position: 100% 0; width:400px!important; margin-left:-70px!important;}
 ol {margin-top:-20px!important}
 ol li {margin-left:-30px!important; padding-right:0px!important; width:405px!important; margin-top:10px!important}
@@ -39,7 +40,7 @@ span {font-size:90%}
 
 [![Photogramme de la vidéo sur Lesly Chief Happiness Officer](../images/lesly-CHO.jpg)](https://drive.google.com/file/d/1tee8gsgxvwIQt8yHLuc22AofNq6BQslh/view?usp=sharing)
 
-1) Que pensez-vous de ce métier ?<br><span>Pensez-vous que c'est bien qu'il y ait une personne responsable du bonheur dans une entreprise ?</span>
+1) Que pensez-vous de ce métier ?<br><span>Est-ce bien qu'il y ait une personne responsable du bonheur dans une entreprise ?</span>
 2) De manière générale, peut-on dire aux autres ce qu'ils doivent faire pour être heureux ?
 
 <!-- Si aucun élève ne voit de problème possible dans ce type de métier : montrer l'extrait de la Mise à mort du travail (/ Carglass)
@@ -48,204 +49,63 @@ https://drive.google.com/file/d/1droEUxvFSiNfFPgkV3190JXhBcVEuHWM/view?usp=shari
 
 ---
 <!-- _class: definition fpppppp-->
-<style scoped>
-p:last-of-type{position:absolute; border:none; top:30px; left:740px; font-size:0.5em}
-</style>
 
-### Définitions
+#### :large_blue_circle:  Définitions
 
 * Une **conception normative du bonheur** prétend qu'il y a une règle à suivre afin de parvenir au bonheur.
 * Le **paternalisme** consiste à imposer ou à faire un choix à la place d'une personne en prétendant savoir ce qui est bien pour elle.
 
-:large_blue_circle:
-
 <!-- Peut-on défendre une conception normative du bonheur ?
 Le paternalisme est-il justifié ? -->
 
----
-<!-- _class:  -->
-<style scoped>
-p {position:absolute}
-p:nth-of-type(1), p:nth-of-type(4) {font-size:2.75em; width:100%; text-align:center; margin:auto;}
-p:nth-of-type(4) {font-size:1.3em; padding-bottom:15px}
-p:nth-of-type(2), p:nth-of-type(3) {color:white; bottom:50px; font-size:1.1em; background-color:black; text-align:center}
-p:nth-of-type(2) {left: 130px; margin-bottom:45px;}
-p:nth-of-type(3) {left:500px}
-</style>
-
-![bg Portrait de Kant](https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg)
-![bg](https://upload.wikimedia.org/wikipedia/commons/0/03/Efez_Celsus_Library_3_RB.jpg?uselang=fr)
-
-:red_circle:
-
-Kant
-
-Les sagesses <br>antiques
-
-vs.
-
-<!-- Distribuer les textes,
-Questions : 
-1/ D'après Kant, peut-on savoir ce qu'est le bonheur ?
-2/ D'après les sagesses antiques, peut-on savoir ce qu'est le bonheur ?
-
-Textes : https://docs.google.com/presentation/d/1PIW6iC90f960AL5U-EVbKIkcbczR1AbqR9U2WDZi-KQ/edit?usp=sharing
- -->
-
 
 ---
-<!-- _class: partie pm -->
-# I – On ne peut pas<br> vraiment définir<br> ce qu'est le<br> bonheur (Kant) <!-- fit -->
+<!-- _class: partie -->
+# I – Critique des “recettes du bonheur” 
 PREMIÈRE PARTIE
-
----
-<!-- _class: pointmethode fpppppppp-->
-<style scoped>
-ul {list-style-type:none; }
-ul li {margin-left:-40px}
-</style>
-### Point Méthode
-* :warning:   Le cours n'est pas organisé comme une dissertation.
-* Dans une dissertation, on ne fait pas une partie sur un auteur.
-* Un auteur doit simplement être un moyen d'approfondir sa réflexion 
-
----
-<!-- _class: pointmethode fppppppppp -->
-<style scoped>
-ul {margin-top:-50px!important}
-</style>
-### Point Méthode
-
-* Il faut **utiliser** la référence pour répondre à la question (:warning: au lien avec le sujet).
-* Il faut **justifier** la référence : ce n'est pas parce que l'auteur l'a dit que c'est vrai.
-
----
-<!-- _class: i1t1 horizontal pp  -->
-<style scoped>
-ul {font-size:140%;}
-ul li {text-align:left!important;}
-p{width:500px;}
-</style>
-
-![](../images/manger-chocolat.png)
-- Manger du chocolat, est-ce le bonheur ?
-
-<!-- Quand j’ai plaisir à manger du chocolat, cela signifie-t-il que tout va bien dans mon existence ? 
-Combien de temps dure le plaisir de manger du chocolat ?
-Qu’est-ce qui me permet de dire que j'ai du plaisir à manger du chocolat ? -->
-
-
----
-<!-- _class: exercice tableau fppppppppppp-->
-<style scoped>
-table {margin-top:-0.5em!important}
-table tbody td {padding:0; font-size:90%}
-</style>
-
-|Le bonheur …|Le plaisir  …|
-|:-:|:-:|
-|?|?|
-|?|?|
-|?|?|
-
-1. fondé sur un jugement général
-2. durable
-3. global<br>
-4. causé par un fait particulier
-5. partiel
-6. éphémère
-
----
-<!-- _class: exercice tableau-r pm  -->
-<style scoped>
-table {font-size:1.32em; }
-table td {padding:0px 0.65em;}
-em {font-size:70%!important;}
-</style>
-|Le bonheur|Le plaisir|
-|:-:|:-:|
-|*3* global|*5* partiel|
-|*2* durable|*6* éphémère|
-|*1* fondé sur<br> un jugement<br> général|*6* causé <br>par un fait<br> particulier|
-
-<!-- Précision sur global ≠ total (point critiquable du texte de Kant).
-Précision sur durable : non pas qui va durer, mais qui peut durer  -->
-
-<!-- Le plaisir dépend d'une expérience : on sait ce qu'est le plaisir, ce qui nous fait plaisir au moment où en a l'expérience.
-Le bonheur exige davantage : ce n'est pas seulement une expérience ici, maintenant, qui peut le définir. -->
-
----
-<!-- _class: pointmethode -->
-### Point méthode
-<style scoped>
-ul{padding-top:10px;}
-</style>
-:large_blue_circle:  Il y a plusieurs **stratégies** pour analyser une notion, notamment :
-* partir d'**exemples**
-* trouver une **opposition** ou une **distinction**
 
 ---
 <!-- _class: citationC -->
 <style scoped>
-blockquote{font-size:114%;}
-blockquote blockquote{font-size:95%;}
+blockquote{font-size:134%;}
+blockquote blockquote{font-size:75%;}
+blockquote p {text-align:left}
 </style>
 
-![bg left:44% Portrait de Kant](https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg)
->« <span>Le bonheur est un idéal, non de la raison, mais de l’imagination ».
+![bg left:44% Portrait de Kant](https://upload.wikimedia.org/wikipedia/commons/7/79/Immanuel_Kant_-_Gemaelde_1.jpg)
+>« <span>Le bonheur est un idéal, non de la raison, mais de l’imagination ».
 >>**Kant**, _Fondements de la Métaphysique des Mœurs_, 2e section
 
+
 ---
-<!-- _class: exercice tableau fmm -->
+<!-- _class: fmm pp -->
 <style scoped>
-ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-left:-15px!important;}
+table{margin-left:-40px!important}
+h4 {margin-left:0}
+aside {position:absolute; font-size:0.8em; color:darkred; border-left:1px solid darkred; padding-left:20px; right:50px;}
+#aside1 {height:100px;padding-top:30px; margin-top:-140px;}
+#aside2 {height:260px;padding-top:30px; margin-top:-310px; right:30px}
 </style>
-|Une conception du bonheur n'est pas …|Une conception du bonheur, c'est …|
+#### :large_blue_circle:  La conception que j'ai du bonheur :
+
+|elle n'est pas …|mais elle est …|
 |:-:|:-:|
-|?|?|
-|?|?|
-|?|?|
+|<span data-marpit-fragment="1">universelle <br>(valable pour tous)</span>|<span data-marpit-fragment="2">particulière <br>(relative à l'individu)</span>|
+|<span data-marpit-fragment="3">objective</span>|<span data-marpit-fragment="4">subjective</span> <aside id="aside1"><span data-marpit-fragment="5">&rArr; le paternalisme <br>n'est pas justifié !</span></aside>|
+|<span data-marpit-fragment="6">un concept <br>parfaitement défini, <br>logique et cohérent</span>|<span data-marpit-fragment="7">une image <br>vague <br>et confuse</span>|
+|<span data-marpit-fragment="8">une méthode infaillible <br>qui me garantit<br> nécessairement <br>d'être heureux</span>|<span data-marpit-fragment="9">un simple espoir <br>qui peut m'exposer <br>à une déception <br>profonde</span><aside id="aside2"><span data-marpit-fragment="10">&rArr; même moi, <br>je ne peux pas<br> prétendre savoir<br> ce qu'est le bonheur<br>  avec certitude</span></aside>|
 
-1. un savoir objectif et universel
-2. une image vague et confuse<br>
-3. une méthode infaillible<br>
-4. une représentation subjective et particulière
-5. un concept précis et clair
-6. une projection incertaine qui n'est pas à l'abri de la déception
-
----
-<!-- _class: exercice tableau-r fp-->
-<style scoped>
-ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-left:-15px!important;}
-</style>
-|Une conception du bonheur n'est pas<br/>…|Une conception du <br>bonheur, c'est <br/>…|
-|:-:|:-:|
-|*1* un savoir objectif<br> et universel|*4* une représentation <br>subjective et particulière|
-|*5* un concept <br>précis et clair|*2* une image <br>vague et confuse|
-|*3* une méthode<br>infaillible|*6* une projection incertaine qui n'est pas<br> à l'abri de la déception|
-
-<!-- 
-Ajouter un PM sur la notion de pertinence ?
-Chercher la spécificité, la radicalité ≠ ce qu'on pense d'ordinaire
--->
-
-
-
----
-<!-- _class:  -->
-Non seulement les autres ne peuvent pas prétendre savoir ce que je dois faire pour être heureux, mais … moi non plus.
-
-<span data-marpit-fragment="1">On ne sait pas vraiment ce qu'on veut. Le bonheur n'est qu'une image qu'on se fait. On croit qu'on obtiendra le bonheur en suivant cette image, mais la déception est toujours possible.</span>
 
 ---
 <!-- _class: i1t1 horizontal pp  -->
 <style scoped>
-blockquote{font-size:72%; width:360px!important;}
+blockquote{font-size:92%; width:360px!important;}
+blockquote p {text-align:left!important}
 </style>
 
 [![Affiche du film Les Noces rebelles](https://fr.web.img2.acsta.net/medias/nmedia/18/65/75/28/19027674.jpg)](https://drive.google.com/file/d/11EKI6SAcNvDRsr2aBIMjQlI-vgQSYeds/view?usp=sharing)
 
->« Au milieu des années 1950, April et Frank Wheeler forment un jeune couple américain qui, en apparence, a tout pour être heureux (enfants, maison, travail...) […] ils finissent par devenir tout ce qu'ils ne voulaient pas être : un homme coincé par son métier et dont la désinvolture peine à cacher le manque d'assurance et une femme au foyer morose rêvant d'une autre vie. » ([source](https://fr.wikipedia.org/wiki/Les_Noces_rebelles)).
+><span data-marpit-fragment="1">« Au milieu des années 1950, April et Frank Wheeler forment un jeune couple américain qui, en apparence, a tout pour être heureux (enfants, maison, travail...) […] ils finissent par devenir tout ce qu'ils ne voulaient pas être : un homme coincé par son métier […] et une femme au foyer morose rêvant d'une autre vie. » ([source](https://fr.wikipedia.org/wiki/Les_Noces_rebelles)).</span>
 
 ---
 <!-- _class: i2t0 pp contain -->
@@ -261,11 +121,11 @@ img{height:670px!important; margin-top:-40px!important}
 ---
 <!-- _class: pm  -->
 <style scoped>
-section {font-size:3.1em}
+section {font-size:4em}
 </style>
-La déception dont il s'agit dans ces exemples n'est pas la déception de ne pas être parvenu à son objectif.
+La déception dont il s'agit ici n'est pas la déception de ne pas être parvenu à son objectif.
 
-Il s'agit d'une déception éprouvée alors qu'on est parvenu à son objectif, qui souligne le fait qu'on ne peut pas savoir véritablement ce qu'est le bonheur.
+<span data-marpit-fragment="1">Il s'agit d'une déception éprouvée alors qu'on est parvenu à son objectif :</span><span data-marpit-fragment="2"> on se rend compte que ce qu'on croyait être le bonheur, ne l'est pas.</span>
 
 ---
 <!-- _class: pointmethode fpppp-->
@@ -276,13 +136,13 @@ ul {margin-top:-50px}
 ### Point méthode
 :yellow_circle:  Il faut mobiliser des exemples  pour ancrer sa réflexion dans la réalité. On peut utiliser :
 
-* un exemple inventé ;
-* ou mieux : un exemple issu de sa culture ;
-* ou mieux encore : un exemple classique.
+* idéalement : un exemple classique ;
+* ou sinon : un exemple issu de sa culture ;
+* ou, au pire : un exemple inventé.
 
 ---
 <!-- _class: partie -->
-# II –  Le bonheur repose sur<br> la connaissance de ce<br>qui trouble notre esprit <br>(les sagesses antiques) <!-- fit -->
+# II –  Défense du bonheur comme <br>art de vivre 
 DEUXIÈME PARTIE
 
 ---
@@ -302,7 +162,7 @@ DEUXIÈME PARTIE
 
 1) La sagesse <br>≠ un savoir théorique abstrait
 1) = une pratique concrète
-1) = 1 art de vivre <br>(≠ science)
+1) = 1 art de vivre <br>(≠ science, ≠ technique)
 
 </div>
 
@@ -346,18 +206,16 @@ Importance de la discussion + d'un modèle -->
 
 1) L'obstacle principal au bonheur se situe dans notre affectivité <span>(émotions, craintes, désirs …)</span>
 1) La sagesse = une vie guidée par la raison (en tant que réflexion sur soi) ≠ soumise à nos affects
-1) = une forme de thérapie de l'âme <span>(rétablir un équilibre intérieur, chasser les troubles de notre esprit)</span>
+1) = une forme de thérapie de l'âme <span>(il s'agit de rétablir un équilibre intérieur, de chasser les troubles de notre esprit)</span>
 
 </div>
 
 <!-- Modèle de la santé : théorie des humeurs, équilibre / saignée pour évacuer le mal … -->
 
 ---
-<!-- _class: i1t1 horizontal contain -->
+<!-- _class: i1t0 pp -->
 
 [![](https://static.wikia.nocookie.net/wikidoublage/images/5/53/Un_jour_sans_fin_-_Affiche_fran%C3%A7aise.jpg/revision/latest?cb=20220804221808&path-prefix=fr)](https://ladigitale.dev/digiview/#/v/65078b5456033)
-
-Le film : <br>_Un jour sans fin_
 
 <!--  https://www.youtube.com/watch?v=75foOdIsRh8 -->
 
@@ -366,7 +224,7 @@ Le film : <br>_Un jour sans fin_
 # Mise en pratique
 
 ---
-<!-- _class: exercice application f pm -->
+<!-- _class: exercice application f -->
 <style scoped>
 h3 {margin-bottom:10px}
 span {font-size:90%}
@@ -380,18 +238,8 @@ span {font-size:90%}
 	- Le bonheur dépend-il de nous ?
 	- Le bonheur peut-il s’apprendre ?
 	- La réflexion est-elle un obstacle au bonheur ?
+	- Peut-il y avoir une science du bonheur ?
 - Quelle serait la réponse de Kant ou des sagesses antiques à cette question ?
-
-
-
----
-<!-- _class: pointmethode fpppp-->
-<style scoped>
-ul {margin-top:-50px}
-</style>
-
-### Point méthode
-Pour réfléchir à un sujet, il faut toujours partir du sujet lui-même mais on peut aussi s'aider du cours pour trouver des idées.
 
 
 <!-- 
