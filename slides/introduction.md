@@ -348,9 +348,9 @@ h4 {font-size:1.6em}
 <!-- _class: citationC fpppp-->
 <style scoped>
 blockquote blockquote{margin-top:-15px}
-blockquote{padding:20px}
+blockquote{padding:20px;}
 </style>
-![bg left:40% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
+![bg left:37% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
 
 >« Voilà le point de départ de la philosophie : prendre conscience des désaccords entre les hommes, […] <span data-marpit-fragment="1">condamner ce qui n'est qu'une simple opinion et s'en méfier</span><span data-marpit-fragment="2">, examiner les idées pour en connaître la justesse. […]</span><span data-marpit-fragment="3"><br>[Quel que soit le sujet sur lequel tu te penches], soumets-le à la règle, place-le sur la balance.</span> »
 >>**Épictète**, _Entretiens_, II, XI 
@@ -365,7 +365,7 @@ p:nth-of-type(1) {font-size:2em; text-align:center;}
 
 Argumenter, c'est comme placer les idées sur la balance, <span data-marpit-fragment="1">c'est-à-dire **évaluer** les arguments en faveur d'une idée et les objections contre cette idée.</span>
 
-<span data-marpit-fragment="2">Tous les arguments ne se valent pas : il y a de bons et de mauvais arguments.</span>
+<span data-marpit-fragment="2">Tous les arguments ne se valent pas : <br>il y a de bons et de mauvais arguments.</span>
 
 
 ---
@@ -457,11 +457,11 @@ ol li{margin-left:-1em; margin-bottom:0.75em;}
 - des **exemples concrets** pour bien ancrer son propos dans la réalité. -->
 
 ---
-<!-- _class: citationC fp-->
+<!-- _class: citationC fpp-->
 
-![bg left:40% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
+![bg left:30% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
 
->« Ceux qui reçoivent simplement les principes veulent les rendre immédiatement, comme les estomacs malades vomissent les aliments. <span data-marpit-fragment="1">Digère-les d'abord et, ensuite, ne vomis pas ainsi ; sinon il advient cette chose sale et répugnante que sont les aliments vomis.</span><span data-marpit-fragment="2"> Mais les principes une fois digérés, montre-nous un changement dans [ton esprit], comme les athlètes montrent leurs épaules qu’élargissent l’exercice et la nourriture […].</span> »
+>« Ceux qui reçoivent simplement les principes veulent les rendre immédiatement, comme les estomacs malades vomissent les aliments. <span data-marpit-fragment="1"><br>Digère-les d'abord et, ensuite, ne vomis pas ainsi ; sinon il advient cette chose sale et répugnante que sont les aliments vomis.</span><span data-marpit-fragment="2"> Mais les principes une fois digérés, montre-nous un changement dans [ton esprit], comme les athlètes montrent leurs épaules qu’élargissent l’exercice et la nourriture […].</span> »
 >>**Épictète**, _Entretiens_, III, XXI
 
 ---
@@ -479,6 +479,9 @@ ul{text-align:justify!important; padding-left:35px; padding-right:35px;}
 
 ---
 <!-- _class:  -->
+<style scoped>
+section {font-size:4.3em}
+</style>
 Il ne faut pas vomir ce qu'on a appris, mais le digérer (Epictète), c'est-à dire : <span data-marpit-fragment="1">trier ce qui est utile dans ses connaissances</span> <span data-marpit-fragment="2">et l'utiliser pour développer sa réflexion.</span>
 
 <!-- Vomir ce qu'on a appris, ce serait simplement recracher ses connaissances, sans les avoir intégrées, et sans organisation.
