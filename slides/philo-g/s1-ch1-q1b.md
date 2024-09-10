@@ -7,9 +7,8 @@ size: 4:3
 
 <!-- _class: titre -->
 <style scoped>
-h1{padding:110px!important}
 </style>
-# Q1b – Le désir <br>nous fait-il<br> nécessairement<br> souffrir ? <!-- fit -->
+# Q1b – Nos désirs <br>nous condamnent-ils<br> à être toujours <br>insatisfaits ? <!-- fit --> 
 Cédric Eyssette (2024-2025)
 https://eyssette.forge.apps.education.fr/
 
@@ -59,7 +58,7 @@ Plusieurs questions se posent :
 
 ---
 <!-- _class: partie -->
-# I – Le désir <br>est un état de <br>manque insatiable <br>(Schopenhauer) <!-- fit -->
+# I – Critique des désirs <br>comme source d'un <br>manque insatiable  <!-- fit -->
 Première partie
 
 
@@ -79,7 +78,9 @@ Première partie
 1. Attention d'ordinaire on distingue : le désir, la volonté, le besoin, qui ne sont pas à confondre
 2. Première analyse : le désir est un manque, car on désire ce qu'on n'a pas
 Désirer quelque chose suppose que cette chose me manque pour que je sois pleinement heureux
- -->
+
+Logique interne, implacable : donc … donc
+-->
 
 ---
 <!-- _class: i1t1 vertical  -->
@@ -93,7 +94,7 @@ Le mythe d'Aristophane
 
 <!--
 Éléments à retenir du mythe :
-1. Au début de l'humanité, nous étions come des sphères avec 2 têtes, 4 bras …
+1. Au début de l'humanité, nous étions comme des sphères avec 2 têtes, 4 bras …
 2. Zeus nous punit de notre orgueil et nous sépare en deux
 3. Dès lors, nous sommes à la recherche de notre moitié.
 
@@ -183,7 +184,7 @@ Le désir : manque existentiel
 ### Exercice facultatif
 
 1. Choisir dans un journal une image publicitaire, la découper et la coller sur une feuille
-2. Faire l'analyse de cette image : comment cette image cherche-t-elle à susciter en nous le désir ?
+2. Faire l'analyse de cette image : comment cette image cherche-t-elle à susciter en nous un état de manque ?
 
 ---
 <!-- _class: souspartie -->
@@ -285,7 +286,7 @@ Aversion à la perte
 
 ---
 <!-- _class: partie -->
-# II – La recherche du <br>plaisir ne nous conduit <br>pas nécessairement à <br>l'insatisfaction (Épicure) <!-- fit -->
+# II – Défense des <br>désirs simples <!-- fit -->
 Deuxième partie
 
 <!-- La recherche du plaisir ne nous conduit pas nécessairement à désirer toujours plus  -->
