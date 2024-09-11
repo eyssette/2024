@@ -120,9 +120,6 @@ img{height:670px!important; margin-top:-40px!important}
 
 ---
 <!-- _class: pm  -->
-<style scoped>
-section {font-size:4em}
-</style>
 La déception dont il s'agit ici n'est pas la déception de ne pas être parvenu à son objectif.
 
 <span data-marpit-fragment="1">Il s'agit d'une déception éprouvée alors qu'on est parvenu à son objectif :</span><span data-marpit-fragment="2"> on se rend compte que ce qu'on croyait être le bonheur, ne l'est pas.</span>
@@ -215,7 +212,7 @@ Importance de la discussion + d'un modèle -->
 ---
 <!-- _class: i1t0 pp -->
 
-[![](https://static.wikia.nocookie.net/wikidoublage/images/5/53/Un_jour_sans_fin_-_Affiche_fran%C3%A7aise.jpg/revision/latest?cb=20220804221808&path-prefix=fr)](https://ladigitale.dev/digiview/#/v/65078b5456033)
+[![](https://fr.web.img5.acsta.net/c_310_420/pictures/22/06/30/15/33/1931558.jpg)](https://ladigitale.dev/digiview/#/v/65078b5456033)
 
 <!--  https://www.youtube.com/watch?v=75foOdIsRh8 -->
 
