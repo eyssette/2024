@@ -1,4 +1,4 @@
-# Méthode de l'explication (en série générale)
+# Méthode de l'explication (en série technologique)
 
 Nous verrons plus tard la méthode de l'explication de texte.
 
