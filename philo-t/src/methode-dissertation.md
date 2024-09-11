@@ -1,4 +1,4 @@
-# Méthode de la dissertation (en série générale)
+# Méthode de la dissertation (en série technologique)
 
 Nous allons voir progressivement au cours du premier trimestre la méthode de la dissertation.
 
