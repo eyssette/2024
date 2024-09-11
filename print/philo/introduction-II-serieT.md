@@ -77,7 +77,7 @@ Pour discuter avec moi :
 
 ## 2/ Lectures
 
-* *Obligatoires* : textes distribués régulièrement + une œuvre suivie.
+* *Obligatoires* : textes distribués régulièrement.
 * *Pour approfondir* : manuels et revue PhiloMag au CDI, conseils de lecture pour chaque chapitre, conseils de lecture sur un thème qui vous intéresse.
 * *À éviter* : les annabacs, les livres de méthode.
 
