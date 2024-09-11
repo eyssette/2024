@@ -2,12 +2,12 @@
 authors = ["Cédric Eyssette"]
 language = "fr"
 multilingual = false
-src = ""
+src = "src"
 title = "Cours de philosophie en série générale (2024-2025) - M. Eyssette"
 description = "Cours de philosophie en série générale (2024-2025) - M. Eyssette"
 
 [build]
-build-dir = "../philo-g/"
+build-dir = "c"
 
 [preprocessor]
 
@@ -17,7 +17,7 @@ assets_version = "3.0.0" # do not edit: managed by `mdbook-admonish install`
 default.collapsible = false
 
 [preprocessor.emojis]
-command = "python3 ../mdbook/emojis.py"
+command = "python3 emojis.py"
 
 [preprocessor.regex-replacer]
 command="mdbook-regex-replacer"
