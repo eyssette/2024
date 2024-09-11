@@ -1,7 +1,7 @@
 ---
 pages: 1
 colonnes: 3
-espacementColonnes: 20px
+espacementColonnes: 30px
 copies: 3
 paysage: true
 margesX: 20px
@@ -17,5 +17,4 @@ maths: false
 
 
 ## Texte 2 : Hadot – La philosophie comme art de vivre
-« [Pour les philosophes de l'Antiquité], la philosophie ne consiste pas dans l'enseignement d'une théorie abstraite, encore moins dans une exégèse de textes, mais dans un art de vivre, dans une attitude concrète, dans un style de vie déterminé, qui engage toute l'existence. L'acte philosophique ne se situe pas seulement dans l'ordre de la connaissance, mais dans l'ordre du “soi” et de l'être : c'est un progrès qui nous fait plus être, qui nous rend meilleurs. C'est une conversion qui bouleverse toute la vie, qui change l'être de celui qui l'accomplit. Elle le fait passer d'un état de vie inauthentique, obscurci par l'inconscience, rongé par le souci, à un état de vie authentique, dans lequel l'homme atteint la conscience de soi, la vision exacte du monde, la paix et la liberté intérieures.
-Pour toutes les écoles philosophiques, la principale cause de souffrance, de désordre, d'inconscience, pour l'homme, ce sont les passions : désirs désordonnés, craintes exagérées. La domination du souci l'empêche de vivre vraiment. La philosophie apparaîtra donc, en premier lieu, comme une thérapeutique des passions. » (Pierre Hadot, _Exercices spirituels et philosophie antique_)
+« [Pour les philosophes de l'Antiquité], la philosophie ne consiste pas dans l'enseignement d'une théorie abstraite, encore moins dans une exégèse de textes, mais dans un art de vivre, dans une attitude concrète, dans un style de vie déterminé, qui engage toute l'existence. L'acte philosophique ne se situe pas seulement dans l'ordre de la connaissance, mais dans l'ordre du “soi” et de l'être : c'est un progrès qui nous fait plus être, qui nous rend meilleurs. C'est une conversion qui bouleverse toute la vie, qui change l'être de celui qui l'accomplit. Elle le fait passer d'un état de vie inauthentique, obscurci par l'inconscience, rongé par le souci, à un état de vie authentique, dans lequel l'homme atteint la conscience de soi, la vision exacte du monde, la paix et la liberté intérieures. Pour toutes les écoles philosophiques, la principale cause de souffrance, de désordre, d'inconscience, pour l'homme, ce sont les passions : désirs désordonnés, craintes exagérées. La domination du souci l'empêche de vivre vraiment. La philosophie apparaîtra donc, en premier lieu, comme une thérapeutique des passions. » (Pierre Hadot, _Exercices spirituels et philosophie antique_)
