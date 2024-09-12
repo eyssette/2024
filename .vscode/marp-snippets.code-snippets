@@ -42,9 +42,9 @@
 		"body": "|$1|$2|\n|:-:|:-:|\n|$3|$4|",
 		"description": "Insertion d'un tableau"
 	},
-	"data-marpit-fragment" : {
-		"prefix": "data-marpit-fragment",
+	"dataMarpitFragment" : {
+		"prefix": "dataMarpitFragment",
 		"body": "<span data-marpit-fragment=\"$1\">",
 		"description": "Affichage progressif"
-	}
+	},
 }
