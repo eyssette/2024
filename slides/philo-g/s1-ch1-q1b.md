@@ -197,17 +197,25 @@ Donc : le désir est une souffrance perpétuelle
  -->
 
 ---
-<!-- _class: citationC fpppppp-->
+<!-- _class: citationC fppppppppppp-->
+<style scoped>
+blockquote blockquote {font-size:0.9em}
+</style>
 
 ![bg left:45% Photographie de Schopenhauer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
 
 >« [L]e sujet du vouloir […] remplit éternellement le tonneau des Danaïdes »
 >>**Schopenhauer**, _Le Monde comme volonté et comme représentation_, Livre III, §38
 
-<!-- Ambiguïté de la formule “le sujet du vouloir”
-1. Désigne la personne qui veut, qui a des préférences personnelles, qui exprime son identité, ce qu'elle est
-2. Désigne la personne assujettie à ses désirs, esclave de ses désirs 
--->
+
+---
+<!-- _class: fppppppp -->
+
+#### Le “sujet du vouloir”
+
+À première vue : c'est la personne qui veut, qui a des préférences personnelles<span data-marpit-fragment="1">, et qui a l'impression d'exprimer son identité, ce qu'elle est, à travers ses choix.</span> <span data-marpit-fragment="2"><br>&rArr; Nos désirs semblent exprimer notre **liberté**.</span>
+
+<span data-marpit-fragment="3">Mais en réalité, cela désigne la personne assujettie à ses désirs, **esclave** de ses désirs.</span>
 
 ---
 <!-- _class: i1t0 pp -->
@@ -250,9 +258,14 @@ p{margin-bottom:5px!important; margin-left:30px; margin-right:30px!important;}
 
 <div class="puces">
 
-[Extrait 1](https://peertube.stream/w/s2oeqpegd6YzY9V6DKB2aG?start=493s) : les techniques de rétention dans Fortnite  <!-- https://youtu.be/uUlJarbHrMU?t=493 -->
+[Extrait 1](https://ladigitale.dev/digiview/#/v/66e40d51ed01d) : les techniques de rétention dans Fortnite  <!-- 
+5 57 / 10 15
+https://youtu.be/uUlJarbHrMU?t=493 -->
 
-[Extrait 2](https://peertube.stream/w/s2oeqpegd6YzY9V6DKB2aG?start=2353s) : les réseaux sociaux et l'économie de l'attention <!-- https://youtu.be/uUlJarbHrMU?t=2353 -->
+[Extrait 2](https://ladigitale.dev/digiview/#/v/66e40e099a850) : les réseaux sociaux et l'économie de l'attention 
+<!--
+39 14 / 42 51
+https://youtu.be/uUlJarbHrMU?t=2353 -->
 </div>
 
 <!--
@@ -273,7 +286,7 @@ Les likes -> Besoin de reconnaissance sociale
 ---
 <!-- _class: i1t0 -->
 
-[![Image de présentation de la série Dopamine ; ici : épisode sur Snapchat](https://i.ibb.co/RbpZRBP/dopamine-t.jpg)](https://tube.ac-lyon.fr/w/d505387e-e89d-46c0-8e5a-d0b7e9b8ee3e)
+[![Image de présentation de la série Dopamine ; ici : épisode sur Snapchat](https://i.ibb.co/RbpZRBP/dopamine-t.jpg)](https://www.arte.tv/fr/videos/085801-006-A/dopamine/)
 
 <!-- 
 Sur quels principes psychologiques repose l'application Snapchat ?
