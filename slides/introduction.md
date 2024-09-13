@@ -741,7 +741,7 @@ Pour discuter avec moi :
 </div>
 
 ---
-<!-- _class: etape fppppppp -->
+<!-- _class: etape fpppp -->
 <style scoped>
 h3{padding-bottom:25px; font-size:130%;}
 ul{margin-top:0;}
