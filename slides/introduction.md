@@ -63,7 +63,7 @@ La philosophie, c'est …
 
 
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: i1t0 pp pm -->
 
 ![affiche du film : Pas son genre](https://fr.web.img6.acsta.net/pictures/14/03/12/15/46/479126.jpg)
 
@@ -162,14 +162,14 @@ table td {width:400px}
 |:-:|:-:|
 |Lunettes|<span data-marpit-fragment="1">Nos idées, nos<br> manières de penser</span>|
 |<span data-marpit-fragment="2">Regarder <br>ses lunettes</span>|<span data-marpit-fragment="3">Prendre du recul,<br> examiner ses idées</span>|
-|<span data-marpit-fragment="4">On regarde ses <br>lunettes, quand <br>elles sont sales,<br> pour les nettoyer</span>|<span data-marpit-fragment="5">Nos idées sont<br> parfois vagues<br> et confuses : <br>il faut les clarifier</span>|
+|<span data-marpit-fragment="4">Lunettes sales <br>&rArr; il faut les nettoyer</span>|<span data-marpit-fragment="5">Nos idées sont<br> parfois vagues<br> et confuses <br>&rArr; il faut les clarifier</span>|
 
 
 ---
 <!-- _class: definition fpppp  -->
 #### Définition
 * **Analyser**, c'est chercher à clarifier et préciser le sens d'une idée
-* Il s'agit de **définir** l'idée en formulant précisément ce qu'elle est et ce qu'elle n'est pas
+* Il s'agit de **définir** l'idée en formulant précisément ce qu'elle est et ce qu'elle n'est pas <span data-marpit-fragment="1">&rArr; faire des **distinctions**</span>
 
 ---
 <!-- _class:  -->
@@ -365,6 +365,8 @@ p:nth-of-type(1) {font-size:2em; text-align:center;}
 
 Argumenter, c'est comme placer les idées sur la balance, <span data-marpit-fragment="1">c'est-à-dire **évaluer** les arguments en faveur d'une idée et les objections contre cette idée.</span>
 
+<!-- Une objection = une critique -->
+
 <span data-marpit-fragment="2">Tous les arguments ne se valent pas : <br>il y a de bons et de mauvais arguments.</span>
 
 
@@ -450,7 +452,7 @@ ol li{margin-left:-1em; margin-bottom:0.75em;}
 </style>
 1) **Une question clef :**<br>Comment approfondir ?
 2) **Réponse :** <br>avec des références théoriques et des exemples concrets
-3) **Qui viennent d'où ? :**<br><span data-marpit-fragment="1">1/ du cours,</span><span data-marpit-fragment="2"> 2/ de votre culture personnelle : cinéma, lectures, … </span><span data-marpit-fragment="3">3/ de votre expérience du monde</span>
+3) **Qui viennent d'où ? :**<br><span data-marpit-fragment="1">1/ du cours,</span><span data-marpit-fragment="2"> 2/ de votre culture personnelle : cinéma, lectures, … </span><span data-marpit-fragment="3"><br>3/ de votre expérience du monde</span>
 
 <!-- Il est difficile de réfléchir tout seul. Pour aller plus loin dans sa réflexion, il va falloir s'efforcer de mobiliser : 
 - des **références théoriques** à des auteur·e·s qui ont déjà réfléchi à la question ;
@@ -756,7 +758,7 @@ ul li{margin-top:5px!important;}
 
 <div class="puces">
 
-- [Site du cours de philosophie](https://eyssette.forge.apps.education.fr/2024/philo-g)
+- Site du cours de philosophie : [terminale générale](https://eyssette.forge.apps.education.fr/2024/philo-g), [terminale technologique](https://eyssette.forge.apps.education.fr/2024/philo-t)
 - [Sélection de chaînes vidéo intéressantes](https://eyssette.github.io/ressources-generales-enseignement-philosophie/chaines-video-interessantes)
 - [Moteur de recherche “Introduction à la philosophie”](https://cse.forge.apps.education.fr/#intro-philo)
 </div>

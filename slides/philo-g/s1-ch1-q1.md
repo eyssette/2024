@@ -101,3 +101,14 @@ ul{padding-top:10px;}
 :large_blue_circle:  Il y a plusieurs **stratégies** pour analyser une notion, notamment :
 * partir d'**exemples**
 * trouver des **oppositions** ou des **distinctions**
+
+
+
+---
+<!-- _class:  -->
+
+Le plaisir est une expérience immédiate : on peut facilement savoir ce qui nous fait plaisir.
+
+<span data-marpit-fragment="1">Le bonheur est en revanche un état plus complexe.</span>
+
+<span data-marpit-fragment="2">&rArr; peut-on savoir ce qu'est le bonheur ?</span>

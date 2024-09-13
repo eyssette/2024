@@ -53,7 +53,7 @@ https://drive.google.com/file/d/1droEUxvFSiNfFPgkV3190JXhBcVEuHWM/view?usp=shari
 #### :large_blue_circle:  Définitions
 
 * Une **conception normative du bonheur** prétend qu'il y a une règle à suivre afin de parvenir au bonheur.
-* Le **paternalisme** consiste à imposer ou à faire un choix à la place d'une personne en prétendant savoir ce qui est bien pour elle.
+* Le **paternalisme** consiste à prétendre savoir mieux qu'une personne ce qui est bien pour elle.
 
 <!-- Peut-on défendre une conception normative du bonheur ?
 Le paternalisme est-il justifié ? -->
@@ -63,6 +63,8 @@ Le paternalisme est-il justifié ? -->
 <!-- _class: partie -->
 # I – Critique des “recettes du bonheur” 
 PREMIÈRE PARTIE
+
+<!-- Texte 1 distribué + consigne -->
 
 ---
 <!-- _class: citationC -->
@@ -76,6 +78,17 @@ blockquote p {text-align:left}
 >« <span>Le bonheur est un idéal, non de la raison, mais de l’imagination ».
 >>**Kant**, _Fondements de la Métaphysique des Mœurs_, 2e section
 
+
+---
+<!-- _class:  -->
+<style scoped>
+ul ul {font-size:0.9em; margin-left:-30px}
+</style>
+Il n'y a pas de science, pas de formule mathématique du bonheur.
+
+* Qu'en pensez-vous ?
+* Que pensez-vous des “mesures du bonheur” que proposent certains économistes contemporains ?
+	* Par exemple, le _BNB_ : Bonheur National Brut, ou les scores de bonheur du _World Happiness Report_
 
 ---
 <!-- _class: fmm pp -->
@@ -122,7 +135,9 @@ img{height:670px!important; margin-top:-40px!important}
 <!-- _class: pm  -->
 La déception dont il s'agit ici n'est pas la déception de ne pas être parvenu à son objectif.
 
-<span data-marpit-fragment="1">Il s'agit d'une déception éprouvée alors qu'on est parvenu à son objectif :</span><span data-marpit-fragment="2"> on se rend compte que ce qu'on croyait être le bonheur, ne l'est pas.</span>
+<span data-marpit-fragment="1">C'est une déception éprouvée alors qu'on est parvenu à son objectif :</span><span data-marpit-fragment="2"> on se rend compte que ce qu'on croyait être le bonheur, ne l'est pas.</span>
+
+<span data-marpit-fragment="3">C'est une forme de désillusion.</span>
 
 ---
 <!-- _class: pointmethode fpppp-->
@@ -207,7 +222,11 @@ Importance de la discussion + d'un modèle -->
 
 </div>
 
+<!-- raison / émotions, passion -->
+
 <!-- Modèle de la santé : théorie des humeurs, équilibre / saignée pour évacuer le mal … -->
+
+<!-- passion : étymologie pathos => souffrance, maladie (“pathologie”)-->
 
 ---
 <!-- _class: i1t0 pp -->
@@ -221,7 +240,7 @@ Importance de la discussion + d'un modèle -->
 # Mise en pratique
 
 ---
-<!-- _class: exercice application f -->
+<!-- _class: exercice application fmmmmm -->
 <style scoped>
 h3 {margin-bottom:10px}
 span {font-size:90%}
@@ -236,7 +255,9 @@ span {font-size:90%}
 	- Le bonheur peut-il s’apprendre ?
 	- La réflexion est-elle un obstacle au bonheur ?
 	- Peut-il y avoir une science du bonheur ?
-- Quelle serait la réponse de Kant ou des sagesses antiques à cette question ?
+- Choisir une référence théorique : Kant ou les sagesses antiques
+- D'après cette référence, quelle réponse peut-on formuler à la question ?
+	- Développez cette réponse en au moins 150 mots sur une feuille à part)
 
 
 <!-- 
