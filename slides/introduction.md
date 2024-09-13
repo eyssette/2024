@@ -558,8 +558,17 @@ Chercher des idées pour répondre à cette question :
 
 
 <!-- 
-Si réfléchir ce n'est pas se laisser aller à ses premières idées, mais plutôt dépasser l'opinion immédiate, les idées trop rapides afin de parvenir à mieux penser, alors réfléchir c'est dire non aux idées reçues et à tout ce que nous avons préjugé avant d'avoir réellement examiner les choses.
-En effet
+Réfléchir
+=> prendre du recul, se questionner
+=> ne pas se laisser aller à ses premières idées et dépasser l'opinion immédiate, les idées trop rapides.
+=> dire non aux idées reçues et à tout ce que nous avons préjugé avant d'avoir réellement examiner les choses.
+-->
+
+<!-- 
+Réfléchir
+=> Analyser => Chercher des idées claires => Dire non aux idées vagues et confuses
+=> Problématiser => Comprendre la complexité d'un débat => Dire non aux idées simplistes
+=> Argumenter => Chercher les raisons qui fondent une idée => Dire non aux idées affirmées sans justification
  -->
 
 <!-- Critères d'évaluation : 1/ Clarté et pertinence du raisonnement ; 2/ Compréhension et usage du cours
@@ -741,7 +750,7 @@ ul{margin-top:0;}
 
 <div class="puces">
 
-* *Obligatoires* : textes distribués régulièrement + une œuvre suivie.
+* *Obligatoires* : textes distribués régulièrement (+ une œuvre suivie en série générale).
 * *Pour approfondir* : manuels et revue [PhiloMag](https://www.philomag.com/) au CDI, conseils de lecture pour chaque chapitre, conseils de lecture sur un thème qui vous intéresse.
 * *À éviter* : les annabacs, les livres de méthode.
 </div>
