@@ -2,6 +2,8 @@
 
 [Accueil](README.md)
 - [Introduction](intro.md)
+- [Séquence 1 : Philosophie morale et politique](s1.md)
+	- [Chapitre 1 : La liberté](s1-ch1.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
