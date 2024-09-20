@@ -1,0 +1,18 @@
+---
+pages: 1
+colonnes: 3
+espacementColonnes: 30px
+copies: 3
+paysage: true
+margesX: 10px
+margesY: 10px
+maths: false
+---
+
+<style>strong{color:darkred}span{color:saddlebrown}p{text-indent:2em}blockquote p, h2{text-indent:0em; text-align:center}</style>
+
+## Rédaction d'un paragraphe : méthode ARES
+> Exemple de sujet : «  Le bonheur n'est-il qu'un idéal ? »
+
+
+**(A : ++a++rgument fondé sur une ++a++nalyse)** <span>[on construit un raisonnement avec des étapes claires et logiques, sans aller trop vite, en partant de l'analyse des notions : on utilise des définitions, des distinctions ; on fait un alinéa en début de paragraphe]</span> Le bonheur semble être un idéal impossible, en raison tout d'abord de la nature même du bonheur. L'objectif que nous poursuivons lorsque nous sommes en quête du bonheur n'est pas clairement défini. Nous voulons tous être heureux, mais nous ne savons pas vraiment ce que nous recherchons, car le bonheur n'est pas un simple moment de plaisir facile à identifier, mais un état global de satisfaction. **(R : ++r++éférence théorique)** <span>[on introduit une référence (une seule), c'est-à-dire des connaissances philosophiques précises issues du cours, de la pensée d'un·e philosophe ou d'un courant philosophique ; on approfondit, sans perdre de vue notre idée directrice]</span> C'est justement ce que montre Kant lorsqu'il affirme que « le bonheur est un idéal, non de la raison, mais de l'imagination » <span>[une référence n'est pas nécessairement une citation : c'est l'idée qui compte ; si on fait une citation, elle doit être courte et on doit l'expliquer]</span>. Si le bonheur relève de l'imagination et non de la raison, [on explique en détail la référence, on utilise du vocabulaire philosophique précis, des distinctions] cela signifie que nous ne pouvons pas former une conception précise, claire et cohérente du bonheur : nous avons seulement une image vague, confuse et potentiellement contradictoire de la vie heureuse. On ne sait pas trop ce qu'on veut. Rechercher le bonheur, ce n'est pas, en effet, rechercher un objet précisément délimité. Nous nous projetons dans le futur avec l'espoir d'avoir compris ce qui fait notre bonheur, mais il n'y a pas de méthode infaillible en ce domaine et nous pouvons toujours faire l'expérience d'une déception profonde. **(E : ++e++xemple concret)** <span>[on donne un exemple (un seul), en restant concret sans trop de détails qui seraient inutiles]</span> Prenons par exemple le film _Les Noces rebelles_ <span>[on souligne les titres]</span>. Dans ce film, un jeune couple américain a réussi à obtenir tout ce qu'ils souhaitaient : une situation économique confortable, une maison agréable, des enfants, et pourtant ils ne sont pas heureux <span>[on commence par décrire rapidement l'exemple, puis on l'analyse]</span>. La déception qu'ils ressentent n'est pas un sentiment d'échec de ne pas avoir trouvé les moyens de parvenir à leur objectif. C'est une désillusion sur la finalité elle-même qu'ils poursuivaient : ils se rendent compte qu'ils se sont trompés dans l'idée qu'ils se faisaient du bonheur. **(S : ++s++ynthèse)** <span>[on répond clairement à la question posée en reprenant les termes qui sont dans le sujet, et en leur donnant un sens précis]</span> Le bonheur n'est ainsi qu'un idéal, c'est-à-dire le produit de l'imagination façonné par une certaine image du bonheur toujours potentiellement trompeuse.
