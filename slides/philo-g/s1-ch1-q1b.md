@@ -530,10 +530,10 @@ img {height:300px; float:left; margin-right:80px; margin-left:25px; margin-top:2
 
 Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
 ![Dessin qui représente le dieu de la guerre Arès](../images/ares-greek-god.jpg)
-–  A : Argumentation-Analyse
-–  R : Référence théorique
-–  E : Exemple concret
-–  S : Synthèse
+<span data-marpit-fragment="1">–  A : Argumentation fondée sur l'Analyse des notions</span>
+<span data-marpit-fragment="2">–  R : Référence théorique</span>
+<span data-marpit-fragment="3">–  E : Exemple concret</span>
+<span data-marpit-fragment="4">–  S : Synthèse</span>
 
 ---
 <!-- _class: exercice application fmmmm -->
