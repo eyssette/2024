@@ -4,6 +4,7 @@
 - [Introduction](intro.md)
 - [Séquence 1 : Philosophie morale et politique](s1.md)
 	- [Chapitre 1 : La liberté](s1-ch1.md)
+		- [Q1 – La liberté de la volonté est-elle une illusion ?](s1-ch1-q1.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
