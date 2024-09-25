@@ -7,6 +7,7 @@
 		- [Q1 – Peut-on parvenir au bonheur ?](s1-ch1-q1.md)
 			- [Q1a – Peut-on savoir ce qu'est le bonheur ?](s1-ch1-q1a.md)
 			- [Q1b – Nos désirs nous condamnent-ils à être toujours insatisfaits ?](s1-ch1-q1b.md)
+			- [Q1c – Que pouvons-nous face au tragique de l'existence ?](s1-ch1-q1c.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
