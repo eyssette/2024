@@ -7,7 +7,7 @@ size: 4:3
 
 <!-- _class: titre -->
 
-# Q1c  –<br> Que pouvons-nous<br> face au tragique<br> de l'existence ? <!-- fit -->
+# Q1c  –<br> Pouvons-nous faire<br> face au tragique<br> de l'existence ? <!-- fit -->
 Cédric Eyssette (2023-2024)
 https://eyssette.github.io/
 
@@ -344,8 +344,8 @@ Deuxième partie
 <!-- _class: pointmethode -->
 ### Point méthode
 Une partie de dissertation, c'est toujours :
-<span data-marpit-fragment="1">– soit la défense d'une idée</span>
-<span data-marpit-fragment="2">– soit la critique d'une idée</span>
+<span data-marpit-fragment="1">– la défense d'une idée …</span>
+<span data-marpit-fragment="2">– ou la critique d'une idée</span>
 
 ---
 <!-- _class: citationC -->
