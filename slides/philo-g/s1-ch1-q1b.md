@@ -197,7 +197,7 @@ Donc : le désir est une souffrance perpétuelle
  -->
 
 ---
-<!-- _class: citationC fppppppppppp-->
+<!-- _class: citationC fpppppppppp-->
 <style scoped>
 blockquote blockquote {font-size:0.9em}
 </style>
