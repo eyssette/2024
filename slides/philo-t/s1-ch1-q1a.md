@@ -82,6 +82,20 @@ Désirer quelque chose suppose que cette chose me manque pour que je sois pleine
 Logique interne, implacable : donc … donc
 -->
 
+
+<!-- 
+Analyse de différentes formes de manque :
+
+- Manque ressenti directement dans le corps
+- Manque par comparaison, produit par l'esprit
+  - Comparaison avec un modèle idéal
+  - Comparaison avec les autres
+
+Plus profondément le désir n'est-il pas l'expression d'un manque d'être ?
+Le désir : manque existentiel
+
+-->
+
 ---
 <!-- _class: i1t1 vertical  -->
 <style scoped>
@@ -109,7 +123,12 @@ d'incomplétude.
 Mais : 1/ On ne peut jamais avoir la certitude d'avoir trouvé notre “moitié”.
 2/ La fusion est impossible : nous restons à jamais des individus séparés.
 => Le désir amoureux est une souffrance
- -->
+
+une souffrance existentielle
+un manque d'être
+on souffre d'être soi, de n'être que soi.
+
+-->
 
 
 ---
@@ -164,21 +183,6 @@ Cette publicité repose sur … :
 2) La représentation d'un univers idéal ou du moins supérieur <span><br>&rarr; L'or (signe de luxe, de richesse), une image retouchée sous Photoshop, le terme “_absolu_.”, les signes de distinction (“Paris”, “Dior”, la posture), la disposition dans l'espace : espace éthéré + verticalité + séparation marquée par le bras </span>
 3) La mise en scène du désir pour l'objet (le désir mimétique) <span><br>&rarr; “J'adore”, l'objet touché par une mannequin</span>
 4) La prétendue transformation de l'individu grâce à l'objet <span><br>&rarr; L'ambivalence du “Je” dans “J'adore”, “_le féminin absolu_”, l'analogie entre la forme du parfum et le corps de la femme, la référence inversée au mythe de Midas</span>
-
-
-<!-- 
-Analyse de différentes formes de manque :
-
-- Manque ressenti directement dans le corps
-- Manque par comparaison, produit par l'esprit
-  - Comparaison avec un modèle idéal
-  - Comparaison avec les autres
-
-Plus profondément le désir n'est-il pas l'expression d'un manque d'être ?
-Le désir : manque existentiel
-
--->
-
 
 ---
 <!-- _class:  -->
@@ -296,4 +300,59 @@ Effet Ikea
 Principe du don / contre-don
 Désinhibition
 Aversion à la perte
- -->
+-->
+
+
+---
+<!-- _class: partie -->
+# II – Défense de <br>notre capacité à<br> maîtriser nos désirs <!-- fit -->
+Deuxième partie
+
+
+
+---
+<!-- _class: souspartie -->
+## A. Tous les désirs ne nous rendent pas esclaves
+
+---
+<!-- _class: citationC -->
+
+![Buste d'Épicure bg left:44%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
+
+>« [P]armi nos désirs les uns sont naturels les autres vains »
+>>**Épicure**, _Lettre à Ménécée_
+
+
+---
+<!-- _class: cinema -->
+
+[![Affiche du film Scarface](../images/scarface.png)](https://ladigitale.dev/digiplay/#/v/614c0b0e88d6a)
+
+> « Antonio “Tony” Montana (Al Pacino) […] est un petit malfrat cubain qui migre vers Miami dans l'espoir de faire fortune. Il trouve au départ un petit boulot dans une baraque à frites de Miami. Mais travailler pour quelques dollars ne correspond pas à l'idée qu'il se fait du « rêve américain ». Il se fait alors embaucher par un malfrat local puis par Frank Lopez, son patron]. […] Tony apprend vite le métier de mafioso de la drogue : il monte en grade […] Il a les dents beaucoup plus longues que ses collègues, il est mégalomane, ambitieux et d'une intelligence plus perverse. Il prend pour adage : _The World is Yours_ (Le monde est à toi) [...] Mais il commence à faire des erreurs dans ce monde qui ne pardonne pas, où l'on est vite remplacé. Il prend conscience que d'être arrivé au sommet de la mafia ne le rend pas aussi heureux qu'il l'avait espéré, qu'il n'est pas capable de rendre heureuses les personnes qu'il aime&nbsp;» (source : [wikipedia](https://fr.wikipedia.org/wiki/American_History_X))
+
+
+---
+<!-- _class: -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
+</style>
+
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part3.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part4.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part5.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot.svg)
+
+
+
+---
+<!-- _class:  -->
+Les désirs naturels au contraire sont l'expression de besoins plus fondamentaux de l'être humain.
+
+<span data-marpit-fragment="1">Satisfaire ces désirs plus simples nous permet de nous libérer des troubles que produit le désir d'avoir toujours plus.</span>
+
+
+---
+<!-- _class: souspartie -->
+## B. Notre volonté permet de maîtriser nos désirs
