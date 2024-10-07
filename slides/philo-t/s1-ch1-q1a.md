@@ -6,8 +6,10 @@ size: 4:3
 ---
 
 <!-- _class: titre -->
-
-# Sommes-nous <br>esclaves de<br> nos désirs ? <!-- fit -->
+<style scoped>
+h1 {margin:0 70px}
+</style>
+# Q1a –<br>Sommes-nous<br>esclaves de<br>nos désirs ? <!-- fit -->
 Cédric Eyssette (2024-2025)
 https://eyssette.forge.apps.education.fr/
 
@@ -227,11 +229,9 @@ blockquote blockquote {font-size:0.9em}
 
 ![Tableau qui représente les Danaïdes qui remplissent un tonneau sans fond](https://upload.wikimedia.org/wikipedia/commons/3/3e/Danaides_Waterhouse_1903.jpg)
 
+
 ---
-<!-- _class: fmm pp -->
-<style scoped>
-table {padding:0px 15px!important; }
-</style>
+<!-- _class: fmmm pp -->
 
 <div data-marpit-fragment>
 
@@ -240,9 +240,9 @@ table {padding:0px 15px!important; }
 |Le tonneau plein|<span data-marpit-fragment="1">Le bonheur comme <br>état de plénitude</span>|
 |<span data-marpit-fragment="2">Le vide dans le tonneau</span>|<span data-marpit-fragment="3">Un état de manque en nous, <br>un état d'insatisfaction</span>|
 |<span data-marpit-fragment="4">Remplir le tonneau</span>|<span data-marpit-fragment="5">Chercher à combler ce manque <br>en satisfaisant nos désirs</span>|
-|<span data-marpit-fragment="6">Le tonneau est percé</span>|<span data-marpit-fragment="7">Nous désirons toujours plus (= la pléonexie)</span>|
-|<span data-marpit-fragment="8">Le tonneau se <br>vide rapidement</span>|<span data-marpit-fragment="9">La satisfaction est temporaire : <br>nous retombons vite dans l'insatisfaction</span>|
-|<span data-marpit-fragment="10">Le tonneau ne sera<br> jamais plein</span>|<span data-marpit-fragment="11">Nous ne parviendrons pas au bonheur</span>|
+|<span data-marpit-fragment="6">Le tonneau est percé</span>|<span data-marpit-fragment="7">Nous désirons toujours plus</span>|
+|<span data-marpit-fragment="8">Le tonneau se vide rapidement</span>|<span data-marpit-fragment="9">La satisfaction est temporaire : nous retombons vite dans l'insatisfaction</span>|
+|<span data-marpit-fragment="10">Le tonneau ne sera<br> jamais plein</span>|<span data-marpit-fragment="11">Nous ne parviendrons <br>pas au bonheur</span>|
 
 </div>
 
@@ -251,6 +251,13 @@ table {padding:0px 15px!important; }
 2. Fortnite
 3. Snapchat -->
 
+---
+<!-- _class: fppp -->
+Dans la mythologie grecque, les Danaïdes sont cinquante femmes, condamnées aux Enfers à remplir éternellement un tonneau percé.
+
+<span data-marpit-fragment="1">De la même manière, nous cherchons sans cesse à combler un manque en nous, mais nos désirs, une fois satisfaits, sont rapidement remplacés par de nouveaux.</span>
+
+<span data-marpit-fragment="2">Le désir d'avoir toujours plus nous condamne à rester dans l'insatisfaction.</span>
 
 ---
 <!-- _class: i1t1 pp fpppppp-->
@@ -356,3 +363,71 @@ Les désirs naturels au contraire sont l'expression de besoins plus fondamentaux
 ---
 <!-- _class: souspartie -->
 ## B. Notre volonté permet de maîtriser nos désirs
+
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:437px; margin-left:2px!important}
+p {font-size:1.3em}
+</style>
+
+[![](https://i.ibb.co/gSkGBbG/experience-chamallow3-t.jpg)](https://ladigitale.dev/digiplay/#/v/615aec3d70284)
+
+L'expérience du chamallow
+
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:600px}
+p {font-size:36px}
+</style>
+![](https://i.ibb.co/QC00NSZ/chariot-allegory-t.jpg)
+
+Platon : la métaphore du char tiré par 2 chevaux
+
+
+---
+<!-- _class: fpppppppp -->
+<style scoped>
+p:nth-of-type(2) {
+  margin-left:2em!important;
+  font-size:0.92em;
+}
+</style>
+
+Platon compare l'âme à un char tiré par deux chevaux et dirigé par un cocher.
+
+<span data-marpit-fragment="1">– *Le cocher*</span> <span data-marpit-fragment="2">représente la **raison**, qui nous guide</span>
+<span data-marpit-fragment="3">– *Le cheval difficile à contrôler :*</span> <span data-marpit-fragment="4">les **désirs**, souvent en lien avec le plaisir immédiat</span>
+<span data-marpit-fragment="5">– *Le cheval bien dressé :*</span> <span data-marpit-fragment="6">la **volonté**, qui nous aide à maîtriser nos impulsions.</span>
+
+---
+<!-- _class: i1t0  -->
+![](https://i.ibb.co/fXrwFPB/stop-cigarettes-t.jpg)
+
+---
+<!-- _class: partie -->
+# Mise en pratique
+
+
+
+---
+<!-- _class: exercice application fmmmm -->
+<style scoped>
+h3 {margin-bottom:10px}
+ul ul {font-size:100%; margin-left:-30px}
+span {font-size:90%}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+  - Le progrès technique nous rend-il esclaves ?
+  - La liberté n'est-elle qu'une illusion ?
+  - Être libre, est-ce satisfaire tous ses désirs ?
+  - Faut-il apprendre à être maître de soi pour être libre ?
+  - La liberté peut-elle s’apprendre ?
+  - Être libre est-ce agir spontanément ?
+- Rédiger un paragraphe <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse et mobiliser le cours en utilisant une (et une seule) référence (Schopenhauer, Épicure ou Platon)</span>
