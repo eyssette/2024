@@ -109,30 +109,6 @@ On peut construire un raisonnement à partir d'une expérience de pensée : on 
 
 
 ---
-<!-- _class:  -->
-<style scoped>
-p {position:absolute}
-p:nth-of-type(1), p:nth-of-type(4) {font-size:2.75em; width:100%; text-align:center; margin:auto;}
-p:nth-of-type(4) {font-size:1.3em; padding-bottom:15px}
-p:nth-of-type(2), p:nth-of-type(3) {color:white; bottom:50px; font-size:0.85em; background-color:black; text-align:center}
-p:nth-of-type(2) {left: 50px; bottom:38px}
-p:nth-of-type(3) {left:580px; bottom:38px }
-</style>
-
-![bg](https://upload.wikimedia.org/wikipedia/commons/c/c1/Simone_de_Beauvoir2.png)
-![bg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg/477px-John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg)
-
-:red_circle:
-
-Simone <br>de Beauvoir
-
-John<br>Stuart Mill
-
-vs.
-
-<!-- Textes : https://docs.google.com/presentation/d/1wzsd4qpdOzgx7kR-WoUVf5-SerCetPMH4Ob0QXW6cro/edit?usp=sharing -->
-
----
 <!-- _class: partie -->
 <style scoped>
 span span {font-weight:normal; font-size:0.9em}
