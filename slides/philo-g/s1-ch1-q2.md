@@ -113,7 +113,7 @@ On peut construire un raisonnement à partir d'une expérience de pensée : on 
 <style scoped>
 span span {font-weight:normal; font-size:0.9em}
 </style>
-# I – <br>Le but de l'existence<br> n'est pas le bonheur,<br> mais la liberté <br><span>(Simone de Beauvoir)</span> <!-- fit -->
+# I – <br>Le but de l'existence<br> n'est pas le bonheur,<br> mais la liberté</span> <!-- fit -->
 Première partie
 
 
@@ -180,6 +180,19 @@ ul {font-size:1.4em; padding-right:1em}
 ### Définition
 Les **préférences adaptatives** désignent la tendance à se résigner à son sort et à adapter ses désirs et ses ambitions au contexte dans lequel on vit
 
+<!-- 
+Fable de La Fontaine : Le renard et les raisins
+
+Certain Renard Gascon, d'autres disent Normand,
+Mourant presque de faim, vit au haut d'une treille
+Des raisins mûrs apparemment,
+Et couverts d'une peau vermeille.
+Le galant en eût fait volontiers un repas ;
+Mais comme il n'y pouvait atteindre :
+"Ils sont trop verts, dit-il, et bons pour des goujats. "
+Fit-il pas mieux que de se plaindre ?
+-->
+
 
 ---
 <!-- _class: entete approfondissement -->
@@ -218,7 +231,7 @@ https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/18792/Lemay_Marie-P
 h1 {padding:40px}
 span span {font-weight:normal; font-size:0.9em}
 </style>
-# II –  <br>Si on conçoit le bonheur <br> comme la quête d'une vie<br> accomplie, alors le bonheur <br>est bien le but de l'existence<br> <span>(John Stuart Mill)</span> <!-- fit -->
+# II –  <br>Si on conçoit le bonheur <br> comme la quête d'une vie<br> accomplie, alors le bonheur <br>est bien le but de l'existence</span> <!-- fit -->
 Deuxième partie
 
 ---
