@@ -4,12 +4,12 @@ colonnes: 2
 espacementColonnes: 30px
 copies: 2
 paysage: false
-margesX: 10px
+margesX: 20px
 margesY: 10px
 maths: false
 ---
 
-# Three generation of human rights
+# Three generations of human rights
 
 The world is made up of many different countries, cultures and peoples. Yet despite all these differences, they all have one important thing in common: “All human beings are born free and equal in dignity and rights.” This is what it says in the very first Article of the *Universal Declaration of Human Rights* of 10 December 1948\. The notion of human rights has become one of the most important in the history of humankind.
 
