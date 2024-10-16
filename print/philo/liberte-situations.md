@@ -1,3 +1,4 @@
+1. Camille glisse sur une peau de banane et tombe
 1. Camille a commis des agressions sexuelles et prétend qu'il a agi simplement de manière impulsive.
 1. Camille a coupé les liens avec toute sa famille et ses amis. Il est dans une secte qui explique que le monde est corrompu et il adhère totalement aux idées de cette secte pour laquelle il donne tout.
 1. Camille a sacrifié sa carrière pour s'occuper de ses enfants et des tâches ménagères tandis que son mari travaille, mais elle considère que c'est tout à fait normal et que c'est son rôle de femme.
