@@ -6,7 +6,7 @@
 	- [Chapitre 1 : La liberté](s1-ch1.md)
 		- [Q1 – La liberté de la volonté est-elle une illusion ?](s1-ch1-q1.md)
 			- [Q1a – Sommes-nous esclaves de nos désirs ?](s1-ch1-q1a.md)
-			<!-- - [Q1b - Nos choix sont-ils déterminés par des facteurs que nous ne maîtrisons pas ?](s1-ch1-q1b.md) -->
+			- [Q1b - Nos choix sont-ils déterminés par des facteurs que nous ne maîtrisons pas ?](s1-ch1-q1b.md)
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
 - [Méthode de l'explication](methode-explication.md)
