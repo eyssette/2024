@@ -297,3 +297,30 @@ Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce d
 Si nos choix étaient totalement déterminés, ils suivraient un chemin fixe, sans possibilité de déviation.
 
 <span data-marpit-fragment="1">L'idée de contingence signifie que plusieurs options sont ouvertes :</span> <span data-marpit-fragment="2">nous sommes capable de décider, et cette décision engage notre responsabilité.</span>
+
+
+---
+<!-- _class: partie -->
+# Mise en<br> pratique <!-- fit -->
+
+---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+h3 {margin-bottom:15px}
+ul {margin-left:24px;}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%;}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+	- Le libre arbitre est-il une illusion ?
+	- Un être humain est-il responsable de tout ce qu'il fait ?
+	- L’idée d’une liberté totale a-t-elle un sens ?
+	- Sommes-nous déterminés par notre passé ?
+  	- Les humains sont-ils des êtres à part dans la nature ?
+  	- L'explication scientifique de l'être humain est-elle incompatible avec l'affirmation de la liberté humaine ?
+  	- L'idée d'inconscient remet-elle en cause la liberté ?
+  	- La conscience est-elle ce qui me rend libre ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>
