@@ -142,6 +142,14 @@ Il faut explorer les profondeurs de l'esprit humain :
 Nous ne sommes pas transparents à nous-mêmes : il faut explorer les profondeurs de l'esprit humain pour nous comprendre. L'essentiel de notre vie psychique   -->
 
 
+
+---
+<!-- _class: i1t1 vertical -->
+[![](https://fr.web.img6.acsta.net/r_1920_1080/pictures/15/04/28/12/21/346872.jpg)](https://ladigitale.dev/digiview/#/v/672b01f02b7bc)
+
+Un film : _La tête haute_
+
+
 ---
 <!-- _class: souspartie -->
 ## B. Les facteurs<br>sociaux <!-- fit -->
@@ -186,3 +194,106 @@ Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une c
 [![](../images/homogamie-sociale.png)](https://www.inegalites.fr/Couples-qui-se-ressemble-s-assemble)
 
 
+
+---
+<!-- _class: partie -->
+# II - <br>Défense d'une certaine<br> autonomie face aux<br> facteurs d'influence <!-- fit -->
+Première partie
+
+
+---
+<!-- _class: citationC fp-->
+<style scoped>
+figure {margin-left:-2em!important}
+</style>
+
+![bg left:38%](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
+
+>« Pour établir la preuve de la liberté, considérons d’abord que certains êtres agissent sans aucun jugement, comme la pierre qui tombe vers le bas […] D’autres êtres agissent d’après un certain jugement, mais qui n’est pas libre. Ainsi les animaux telle la brebis qui, voyant le loup, juge qu’il faut le fuir […] par un instinct naturel. […] Mais l’homme agit d'après […] un rapprochement de données opéré par la raison. »
+>>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-child(1){font-size:80%; padding:0; margin-top:-20px!important;}
+p:nth-child(2){padding:0}
+img{height:550px; }
+</style>
+
+Exemple 1 : le roulement des œufs chez l'oie cendrée
+
+[![](https://i.ibb.co/KGcWZ88/egg-rolling.jpg)](https://video.link/w/Ej9mb)
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-child(1){font-size:100%; text-align:center; padding:0; margin-top:-20px!important;}
+p:nth-child(2){padding:0}
+img{height:550px; }
+</style>
+
+Exemple 2 : l'agressivité de l’épinoche
+
+[![](https://i.ibb.co/7g2vvBq/epinoches.png)](https://video.link/w/Nj9mb)
+
+---
+<!-- _class: exercice tableau colonnes fmm-->
+<style scoped>
+td {font-size:80%}
+</style>
+
+|Agir par instinct|Agir après réflexion|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+
+1. Point de départ : une situation qui est analysée et examinée
+2. Conséquence : un comportement flexible et inventif …
+3. Point de départ : un stimulus qui déclenche immédiatement une réaction
+4. Conséquence : un mécanisme rigide et automatique … 
+5. … qui est toujours le même pour tous les individus de la même espèce
+6. … qui peut être différent selon l'individu et la situation
+
+---
+<!-- _class: exercice tableau-r fm-->
+
+|Agir par instinct|Agir après réflexion|
+|:-:|:-:|
+|_3_ Point de départ : un stimulus qui déclenche immédiatement une réaction|_1_ Point de départ : une situation qui est analysée et examinée|
+|_4_ Conséquence : un mécanisme rigide et automatique … |_2_ Conséquence : un comportement flexible et inventif …|
+|_5_… qui est toujours le même pour tous les individus de la même espèce|_6_ … qui peut être différent selon l'individu et la situation|
+
+
+---
+<!-- _class: i1t0 -->
+
+[![](https://upload.wikimedia.org/wikipedia/commons/3/33/Jumping-spider.jpg)](https://video.link/w/Tx9mb)
+
+
+
+---
+<!-- _class: citationC f-->
+<style scoped>
+figure {margin-left:-2em!important}
+</style>
+
+![bg left:38%](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
+
+>« [C]’est pourquoi l’homme agit selon un jugement libre, car il a la faculté de se porter à divers objets. En effet, dans le domaine du contingent, la raison peut suivre des directions opposées […]. Or, les actions particulières sont contingentes ; par suite le jugement rationnel qui porte sur elles peut aller dans un sens ou dans l’autre, et n’est pas déterminé à une seule chose. En conséquence, il est nécessaire que l’homme ait le libre arbitre, par le fait même qu’il est doué de raison. »
+>>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
+
+
+---
+<!-- _class: definition fppppppppp -->
+
+### Définition
+
+Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible.<br>Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible.
+
+
+---
+<!-- _class:  -->
+Si nos choix étaient totalement déterminés, ils suivraient un chemin fixe, sans possibilité de déviation.
+
+<span data-marpit-fragment="1">L'idée de contingence signifie que plusieurs options sont ouvertes :</span> <span data-marpit-fragment="2">nous sommes capable de décider, et cette décision engage notre responsabilité.</span>
