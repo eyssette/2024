@@ -63,6 +63,16 @@ li {padding-left:0.3em; margin-left:0.25em}
 [![](https://raw.githubusercontent.com/eyssette/mindmap/refs/heads/main/trois-usages-IA.svg)](https://markpage.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/module/concevoir-ressources-avec-IA.md)
 
 
+---
+<!-- _class: i1t1 -->
+<style scoped>
+p{margin:0.25em auto}
+img {height:500px}
+</style>
+
+![](image.png)
+
+https://url.forge.apps.education.fr/#7
 
 ---
 <!-- _class: souspartie -->
@@ -206,15 +216,20 @@ Deuxième partie
 # III - Création d'un chatbot pédagogique
 Troisième partie
 
-
----
-
 <!-- À partir d'un travail collectif de réflexion mené dans l'académie de Lyon sur une typologie des usages pédagogiques possibles des IA génératives, l'atelier proposera de tester des techniques de prompt et des applications concrètes pour la philosophie. Il s'agira d'examiner concrètement dans quelle mesure ces IA peuvent véritablement apporter quelque chose à notre pratique. Cependant, les IA génératives posent plusieurs problèmes importants d'un point de vue économique, juridique, écologique et moral : il est nécessaire de développer au minimum un usage le plus sobre possible de l'IA. L'atelier ne rentrera pas dans le détail de ces problématiques, mais fera tout de même un point sur ces questions. Quelles sont les perspectives possibles ? Après avoir exposé différentes solutions actuellement envisagées, l'atelier proposera d'expérimenter l'utilisation d'un outil libre et gratuit : ChatMD, qui permet de créer un chatbot sans IA générative ou bien avec un usage très sobre de ce type d'IA. À partir d'exemples de chatbots créés pour la philosophie, les participant·e·s réaliseront, en groupe, avec cet outil, un chatbot pédagogique à destination des élèves.lycée -->
 
 
 ---
 <!-- _class: souspartie -->
 ## A. ChatMD
+
+---
+<!-- _class: i1t1 vertical -->
+
+[![](https://pbs.twimg.com/media/GTHkNToW4AA_LWb.jpg:large)](https://nuage03.apps.education.fr/index.php/s/BEY3BWZMnGsMqGg)
+
+https://chatmd.forge.apps.education.fr/
+
 
 
 ---
