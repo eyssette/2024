@@ -57,10 +57,10 @@ li {padding-left:0.3em; margin-left:0.25em}
 ---
 <!-- _class: i2t0 vertical contain pp -->
 
-[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/trois-gestes-professionnels.png)](https://markpage.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/module/concevoir-ressources-avec-IA.md)
+[![](https://raw.githubusercontent.com/eyssette/mindmap/refs/heads/main/trois-gestes-professionnels.svg)](https://markpage.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/module/concevoir-ressources-avec-IA.md)
 
 
-[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/trois-usages-IA.png)](https://markpage.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/module/concevoir-ressources-avec-IA.md)
+[![](https://raw.githubusercontent.com/eyssette/mindmap/refs/heads/main/trois-usages-IA.svg)](https://markpage.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/module/concevoir-ressources-avec-IA.md)
 
 
 
@@ -77,10 +77,12 @@ li {padding-left:0.3em; margin-left:0.25em}
 3) 🗄️ Utilisation de données structurées
 
 
+<!-- 
+évoquer modèles plus compliqués
 
----
-<!-- _class: souspartie -->
-## À vous de tester !
+Parallèle avec l'enseignement avec les élèves !
+
+-->
 
 <!-- itératif
 
@@ -119,7 +121,22 @@ mots clés
 Retrieval Augmented Generation -->
 
 
+---
+<!-- _class: souspartie -->
+## À vous de tester !
 
+
+---
+<!-- _class: fmm -->
+### Quelques pistes possibles
+1) Trouver des idées pour un nouveau cours sur une notion ou sur un⋅e philosophe
+1) Trouver des idées pour faire l'analyse d'un texte
+1) Dégager les enjeux ou les implications contemporaines d'une idée
+1) Faire une liste d'exemples ou de cas concrets
+1) Créer un exercice sur un cours ou un texte
+1) Adapter, reformuler un passage de son cours
+faire une liste de concepts et de définitions sur un thème
+1) Agrémenter un support avec des images ou des emojis (double codage)
 
 
 
@@ -179,7 +196,7 @@ Deuxième partie
 
 1) LLM Open source
 2) LLM en local
-3) RAG
+3) RAG et assistants personnalisés
 4) SLM
 5) Usages ciblés
 
@@ -192,4 +209,34 @@ Troisième partie
 
 ---
 
-À partir d'un travail collectif de réflexion mené dans l'académie de Lyon sur une typologie des usages pédagogiques possibles des IA génératives, l'atelier proposera de tester des techniques de prompt et des applications concrètes pour la philosophie. Il s'agira d'examiner concrètement dans quelle mesure ces IA peuvent véritablement apporter quelque chose à notre pratique. Cependant, les IA génératives posent plusieurs problèmes importants d'un point de vue économique, juridique, écologique et moral : il est nécessaire de développer au minimum un usage le plus sobre possible de l'IA. L'atelier ne rentrera pas dans le détail de ces problématiques, mais fera tout de même un point sur ces questions. Quelles sont les perspectives possibles ? Après avoir exposé différentes solutions actuellement envisagées, l'atelier proposera d'expérimenter l'utilisation d'un outil libre et gratuit : ChatMD, qui permet de créer un chatbot sans IA générative ou bien avec un usage très sobre de ce type d'IA. À partir d'exemples de chatbots créés pour la philosophie, les participant·e·s réaliseront, en groupe, avec cet outil, un chatbot pédagogique à destination des élèves.lycée
+<!-- À partir d'un travail collectif de réflexion mené dans l'académie de Lyon sur une typologie des usages pédagogiques possibles des IA génératives, l'atelier proposera de tester des techniques de prompt et des applications concrètes pour la philosophie. Il s'agira d'examiner concrètement dans quelle mesure ces IA peuvent véritablement apporter quelque chose à notre pratique. Cependant, les IA génératives posent plusieurs problèmes importants d'un point de vue économique, juridique, écologique et moral : il est nécessaire de développer au minimum un usage le plus sobre possible de l'IA. L'atelier ne rentrera pas dans le détail de ces problématiques, mais fera tout de même un point sur ces questions. Quelles sont les perspectives possibles ? Après avoir exposé différentes solutions actuellement envisagées, l'atelier proposera d'expérimenter l'utilisation d'un outil libre et gratuit : ChatMD, qui permet de créer un chatbot sans IA générative ou bien avec un usage très sobre de ce type d'IA. À partir d'exemples de chatbots créés pour la philosophie, les participant·e·s réaliseront, en groupe, avec cet outil, un chatbot pédagogique à destination des élèves.lycée -->
+
+
+---
+<!-- _class: souspartie -->
+## A. ChatMD
+
+
+---
+<!-- _class: souspartie -->
+## B. Créer un chatbot <br>en philosophie
+
+
+---
+<!-- _class: fp -->
+<style scoped>
+ol {margin-top:0.05em;}
+ul {margin-top:0em;}
+ul li {text-align:center}
+</style>
+### Des pistes possibles
+
+1) Discussion avec une philosophe
+2) Rappel de la méthode
+3) Guidage dans l'exploration d'un texte ou d'une œuvre, ou dans l'exploration d'une notion
+4) Confrontation à un dilemme éthique ou à une expérience de pensée avec des choix à faire et une analyse de ces choix
+5) Révision d'un cours
+
+* D'autres idées ?
+
+<!-- possibilité de créer un scénario où on demande aux élèves de créer un chatbot -->
