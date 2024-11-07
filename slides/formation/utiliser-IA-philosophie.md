@@ -143,11 +143,11 @@ https://duckduckgo.com/chat
 ### Quelques pistes possibles
 1) Trouver des idées pour un nouveau cours sur une notion ou sur un⋅e philosophe
 1) Trouver des idées pour faire l'analyse d'un texte
-1) Dégager les enjeux ou les implications contemporaines d'une idée
+1) Faire une liste de concepts et de définitions sur un thème
 1) Faire une liste d'exemples ou de cas concrets
+1) Dégager les enjeux ou les implications contemporaines d'une idée
 1) Créer un exercice sur un cours ou un texte
 1) Adapter, reformuler un passage de son cours
-faire une liste de concepts et de définitions sur un thème
 1) Agrémenter un support avec des images ou des emojis (double codage)
 
 
