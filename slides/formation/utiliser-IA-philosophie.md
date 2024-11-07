@@ -231,6 +231,13 @@ Troisième partie
 https://chatmd.forge.apps.education.fr/
 
 
+---
+<!-- _class: fppppppp -->
+1) Se connecter au portail Apps Education
+https://portail.apps.education.fr/
+2) Créer un nouveau fichier sur CodiMD
+https://chatmd.forge.apps.education.fr/
+3) Copiez l'URL de votre nouveau fichier, allez sur ChatMD, ajoutez un # à la fin de l'URL et collez l'adresse de votre fichier CodiMD
 
 ---
 <!-- _class: souspartie -->
