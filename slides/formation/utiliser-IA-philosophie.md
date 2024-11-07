@@ -135,6 +135,8 @@ Retrieval Augmented Generation -->
 <!-- _class: souspartie -->
 ## À vous de tester !
 
+https://duckduckgo.com/chat
+
 
 ---
 <!-- _class: fmm -->
