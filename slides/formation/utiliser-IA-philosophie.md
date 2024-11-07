@@ -84,8 +84,9 @@ https://url.forge.apps.education.fr/#7
 
 1) ✍️ Consignes claires, précises et directes
 2) 🪜 Guidage et affinement progressif 
-3) 🗄️ Utilisation de données structurées
+3) 🗄️ Utilisation d'exemples et de données structurées
 
+<!-- TODO: ajouter des exemples pour chaque point : avec prompt de base et amélioration en suivant le conseil -->
 
 <!-- 
 évoquer modèles plus compliqués
@@ -167,7 +168,7 @@ Deuxième partie
 ### Problèmes économiques
 1) Automatisation du travail
 2) Monopole et inégalités
-3) Coût énergétique des infrastructures
+3) Coût des infrastructures
 
 
 ---
@@ -184,7 +185,7 @@ Deuxième partie
 ### Problèmes sociaux et politiques
 1) Reproduction et renforcement des biais et discriminations
 2) Surveillance des individus
-3) Transformation des relations humaines
+3) Transformation des relations humaines : déshumanisation
 4) Désinformation en masse et effets d'influence
 5) Inégalités géopolitiques, domination et dépendances
 
@@ -206,9 +207,9 @@ Deuxième partie
 <!-- _class:  -->
 ### Quelques pistes actuelles
 
-1) LLM Open source
-2) LLM en local
-3) RAG et assistants personnalisés
+1) RAG et assistants personnalisés
+2) LLM Open source
+3) LLM en local
 4) SLM
 5) Usages ciblés
 
@@ -217,9 +218,6 @@ Deuxième partie
 <!-- _class: partie -->
 # III - Création d'un chatbot pédagogique
 Troisième partie
-
-<!-- À partir d'un travail collectif de réflexion mené dans l'académie de Lyon sur une typologie des usages pédagogiques possibles des IA génératives, l'atelier proposera de tester des techniques de prompt et des applications concrètes pour la philosophie. Il s'agira d'examiner concrètement dans quelle mesure ces IA peuvent véritablement apporter quelque chose à notre pratique. Cependant, les IA génératives posent plusieurs problèmes importants d'un point de vue économique, juridique, écologique et moral : il est nécessaire de développer au minimum un usage le plus sobre possible de l'IA. L'atelier ne rentrera pas dans le détail de ces problématiques, mais fera tout de même un point sur ces questions. Quelles sont les perspectives possibles ? Après avoir exposé différentes solutions actuellement envisagées, l'atelier proposera d'expérimenter l'utilisation d'un outil libre et gratuit : ChatMD, qui permet de créer un chatbot sans IA générative ou bien avec un usage très sobre de ce type d'IA. À partir d'exemples de chatbots créés pour la philosophie, les participant·e·s réaliseront, en groupe, avec cet outil, un chatbot pédagogique à destination des élèves.lycée -->
-
 
 ---
 <!-- _class: souspartie -->
@@ -233,17 +231,11 @@ Troisième partie
 https://chatmd.forge.apps.education.fr/
 
 
----
-<!-- _class: fppppppp -->
-1) Se connecter au portail Apps Education
-https://portail.apps.education.fr/
-2) Créer un nouveau fichier sur CodiMD
-https://chatmd.forge.apps.education.fr/
-3) Copiez l'URL de votre nouveau fichier, allez sur ChatMD, ajoutez un # à la fin de l'URL et collez l'adresse de votre fichier CodiMD
+<!-- Ajouter slide sur "le principe de base" -->
 
 ---
 <!-- _class: souspartie -->
-## B. Créer un chatbot <br>en philosophie
+## B. Des idées <br>de chatbot en<br>philosophie
 
 
 ---
@@ -253,9 +245,9 @@ ol {margin-top:0.05em;}
 ul {margin-top:0em;}
 ul li {text-align:center}
 </style>
-### Des pistes possibles
+### Pistes possibles
 
-1) Discussion avec une philosophe
+1) Discussion avec un⋅e philosophe
 2) Rappel de la méthode
 3) Guidage dans l'exploration d'un texte ou d'une œuvre, ou dans l'exploration d'une notion
 4) Confrontation à un dilemme éthique ou à une expérience de pensée avec des choix à faire et une analyse de ces choix
@@ -264,3 +256,19 @@ ul li {text-align:center}
 * D'autres idées ?
 
 <!-- possibilité de créer un scénario où on demande aux élèves de créer un chatbot -->
+
+<!-- Idéal à viser : 
+un usage ciblé d'un SLM installé en local (ordinateur perso ou serveur local au niveau d'un lycée ou d'une académie), opensource et capable de faire du RAG -->
+
+---
+<!-- _class: souspartie -->
+## C. Créer votre propre chatbot
+
+---
+<!-- _class: fppppppp -->
+1) Se connecter au portail Apps Education
+https://portail.apps.education.fr/
+2) Créer un nouveau fichier sur CodiMD
+https://codimd.apps.education.fr/
+3) Respectez la syntaxe de ChatMD
+4) Copiez l'URL de votre nouveau fichier, allez sur ChatMD, ajoutez un # à la fin de l'URL et collez l'adresse de votre fichier CodiMD
