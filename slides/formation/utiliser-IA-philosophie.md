@@ -135,15 +135,48 @@ Deuxième partie
 
 ---
 <!-- _class:  -->
+### Problèmes économiques
+1) Automatisation du travail
+2) Monopole et inégalités
+3) Coût énergétique des infrastructures
 
+
+---
+<!-- _class:  -->
+### Problèmes légaux
+1) Droit d'auteur
+2) Données personnelles
+3) Contrôle des algorithmes
+4) Responsabilité
+
+
+---
+<!-- _class: fpppppp -->
+### Problèmes sociaux et politiques
+1) Reproduction et renforcement des biais et discriminations
+2) Surveillance des individus
+3) Transformation des relations humaines
+4) Désinformation en masse et effets d'influence
+5) Inégalités géopolitiques, domination et dépendances
+
+
+---
+<!-- _class: fppp -->
+### Problèmes éthiques et environnementaux
+1) Consommation énergétique pour l'entraînement des LLM et pour le maintien des serveurs
+2) Course dans l'exploitation des ressources rares, obsolescence programmée du matériel informatique
+3) Délégation de la décision et de l'exercice du jugement
+
+<!-- éthique du numérique -->
 
 ---
 <!-- _class: souspartie -->
 ## B. Perspectives
 
-
 ---
 <!-- _class:  -->
+### Quelques pistes actuelles
+
 1) LLM Open source
 2) LLM en local
 3) RAG
