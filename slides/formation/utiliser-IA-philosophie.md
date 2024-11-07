@@ -266,9 +266,11 @@ un usage ciblé d'un SLM installé en local (ordinateur perso ou serveur local a
 
 ---
 <!-- _class: fppppppp -->
+### Comment faire ?
+
 1) Se connecter au portail Apps Education
 https://portail.apps.education.fr/
 2) Créer un nouveau fichier sur CodiMD
 https://codimd.apps.education.fr/
-3) Respectez la syntaxe de ChatMD
-4) Copiez l'URL de votre nouveau fichier, allez sur ChatMD, ajoutez un # à la fin de l'URL et collez l'adresse de votre fichier CodiMD
+3) Respecter la syntaxe de ChatMD
+4) Copier l'URL du nouveau fichier, aller sur ChatMD, ajouter un # à la fin de l'URL et coller l'adresse du fichier CodiMD
