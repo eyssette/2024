@@ -268,9 +268,17 @@ un usage ciblé d'un SLM installé en local (ordinateur perso ou serveur local a
 <!-- _class: fppppppp -->
 ### Comment faire ?
 
-1) Se connecter au portail Apps Education
+1) Se **connecter** au portail Apps Education
 https://portail.apps.education.fr/
 2) Créer un nouveau fichier sur CodiMD
 https://codimd.apps.education.fr/
 3) Respecter la syntaxe de ChatMD
 4) Copier l'URL du nouveau fichier, aller sur ChatMD, ajouter un # à la fin de l'URL et coller l'adresse du fichier CodiMD
+
+
+---
+<!-- _class:  -->
+
+Si vous souhaitez trouver de l'aide pour créer votre chatbot : n'hésitez pas à rejoindre le [salon Tchap dédié à ChatMD](https://www.tchap.gouv.fr/#/room/!BLAbHlkynUkpyIfNvT:agent.education.tchap.gouv.fr)
+
+N'hésitez pas également à me contacter par [mail](mailto:cedric.eyssette@acTIRETlyon.fr) !
