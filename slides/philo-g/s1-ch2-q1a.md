@@ -212,6 +212,9 @@ Il y a deux stratégies essentielles pour critiquer un raisonnement :
 2) **“Et alors ?”** = montrer que même si les prémisses sont vraies, cela ne justifie pas pour autant la conclusion
 3) Une 3e stratégie possible : **“Euh, c'est quoi l'argument ?”** = montrer qu'il y a une prémisse qui n'a pas de sens, qui est hors sujet, ou bien qui ne fait que répéter ou supposer la conclusion.
 
+<!-- supprimer 3e stratégie : trop compliqué -->
+
+
 <!-- _class: citationC fppp 
 ![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Malebranche_-_Versailles_MV_2929.jpg)
 >« Lorsqu'un homme préfère la vie de son cheval à celle de son cocher, il a ses raisons, mais ce sont des raisons particulières dont tout homme raisonnable a horreur. Ce sont des raisons qui dans le fond ne sont pas raisonnables, parce qu'elles ne sont pas conformes à la souveraine raison, ou à la raison universelle que tous les hommes consultent. »

@@ -85,7 +85,7 @@ Au sens descriptif, le relativisme culturel soutient que nous avons une tendance
 p {text-align:justify!important}
 </style>
 ### 2/ Sens normatif
-<span data-marpit-fragment="1">Au sens normatif, le relativisme culturel soutient qu'il n'y a pas de vérité morale universelle et que penser le contraire est une forme d'ethnocentrisme au sens fort</span>
+<span data-marpit-fragment="1">Au sens normatif, le relativisme culturel soutient qu'on doit rejeter l'idée d'une morale universelle.</span> <br><span data-marpit-fragment="2">Croire en une morale universelle nous conduirait à une forme d'ethnocentrisme au sens fort.</span>
 
 
 ---
@@ -131,18 +131,26 @@ img{height:700px!important;}
 
 ---
 <!-- _class:  -->
-Le relativisme culturel affirme que la croyance à la vérité en morale consiste en fait souvent à croire en la supériorité de sa propre culture<span data-marpit-fragment="1">, et que cela peut nous conduire à de l'intolérance face à d'autres manières de penser.</span>
+Le relativisme culturel affirme que croire en des vérités morales revient en fait à croire en la supériorité de sa propre culture.
+
+<span data-marpit-fragment="1">Cela nous rend intolérants face à d'autres manières de penser.</span>
 
 
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: i1t1 vertical -->
 <style scoped>
-img {height:570px;}
+img {height:770px;}
+p {font-size:0.7em}
 </style>
 
-![Dévoilement des femmes à Alger en 1958 : une photographie](https://i.ibb.co/QmDhsH4/devoilement-femmes-Alger-1958.jpg)
+[![Dévoilement des femmes à Alger en 1958 : une photographie](https://i.ibb.co/QmDhsH4/devoilement-femmes-Alger-1958.jpg)](https://ladigitale.dev/digiview/#/v/673426f01b736)
+Dévoilement de femmes musulmannes à Alger en 1958
 
-<!-- En mai 1958 à Alger, des femmes européennes dévoilent publiquement des algériennes, recrutées par la contrainte pour participer à une manifestation de soutien à la France, et les forcent à retirer leur voile. -->
+
+<!-- En mai 1958 à Alger, des femmes européennes dévoilent publiquement des algériennes, recrutées par la contrainte pour participer à une manifestation de soutien à la France, et les forcent à retirer leur voile.
+
+https://www.youtube.com/watch?v=MvUxXVM2JAw
+ -->
 
 
 ---
