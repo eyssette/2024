@@ -43,7 +43,7 @@ span {font-size:0.97em}
 <span data-marpit-fragment="3">⚡ Accès **immédiat**, disponibilité **continue**</span>
 
 <span data-marpit-fragment="4" class="but">Mais</span>
-<span data-marpit-fragment="5">🤯 Risque d'“**hallucinations**”</span>
+<span data-marpit-fragment="5">🤯 Risque d'**“hallucinations”** et de **biais**</span>
 <span data-marpit-fragment="6">⚖️ **Problématiques** économiques, </span><span data-marpit-fragment="7">juridiques, <span data-marpit-fragment="8">sociales, morales et écologiques</span>
 
 
