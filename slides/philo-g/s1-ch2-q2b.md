@@ -201,6 +201,16 @@ La défense d'un devoir de donner de l'argent à des associations humanitaire
 # II – La morale requiert une réflexion sur les principes
 Deuxième partie
 
+
+---
+<!-- _class: fppp -->
+### Deux objections contre le conséquentialisme <!-- fit -->
+
+1) Le calcul des conséquences est complexe <span data-marpit-fragment="1"><br>&rArr; il rend la décision difficile, voire impossible.</span>
+	* Ne faut-il pas plutôt des principes clairs ?
+2) Le calcul des conséquences considère l'individu comme un simple paramètre (ce qui compte c'est seulement le bilan général) <span data-marpit-fragment="1"><br>&rArr; il peut conduire à sacrifier l'individu.</span> 
+	* Ne faut-il pas plutôt poser comme principe le respect de certains droits ?
+
 <!-- Ajouter objections contre le conséquentialisme
 calcul : trop complexe, voire impossible
 calcul : néglige les personnes particulières au profit d'un bilan général
@@ -241,12 +251,12 @@ impératif hypothétique / impératif catégorique -->
 
 
 ---
-<!-- _class: fp -->
+<!-- _class: f -->
 
 Quelques exemples d'actions qui semblent morales, mais qui sont guidées par l'intérêt :
 1) Être honnête pour garder ses clients
 2) Agir par crainte du regard d'autrui, agir par crainte de la sanction 
-3) Agir par désir de reconnaissance sociale, agir pour avoir une bonne réputation
+3) Agir par désir de reconnaissance sociale, agir pour avoir une bonne réputation (ex. : _greenwashing_)
 4) Agir comme Valmont, dans _Les liaisons dangereuses_ ([lettres 21 et 22](https://docs.google.com/document/d/178hLNAjuEX5eUXoIM88Hy3RqXbbVJPJx6SDuK5Aao24/edit)), qui se donne l'apparence de la vertu pour séduire une femme sensible aux actions morales.
 
 <!--
@@ -412,11 +422,27 @@ Respecter l'autonomie de la personne
 
 -->
 
-
 ---
 <!-- _class: i1t0 pp -->
 
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot.svg)
+
+
+---
+<!-- _class: souspartie -->
+## C. Les limites <br>du déontologisme
+
+
+---
+<!-- _class: fppppp -->
+<style scoped>
+ul {margin-left:-1.5em}
+</style>
+1) Une théorie abstraite et générale,<br>qui néglige l'ancrage de la morale dans le sentiment et des situations concrètes
+2) Une théorie ambigüe
+	* dignité = ne pas considérer une personne comme un objet <span data-marpit-fragment="1"><br>&rArr; le “lancer de nain” n'est pas acceptable</span>
+	* dignité = respecter l'autonomie de l'individu, <span data-marpit-fragment="1"><br>&rArr; le “lancer de nain” est acceptable (si vraiment consenti)</span>
+
 
 ---
 <!-- _class: partie -->
