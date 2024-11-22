@@ -65,7 +65,23 @@ ul li {margin-top:0.1em}
 <!-- 
 Lien avec : enseignement explicite
 mettre un haut parleur sur sa pensée
- -->
+-->
+
+<!-- 
+Obstacles à la problématisation :
+- côté prof : topo / cours fleuve : noie les élèves
+- côté élèves :
+	- sensibilité aux problèmes, aux enjeux : suppose une expérience, vécue (but : pas blâmer le manque de maturité, le manque )
+	- tout est opinion : donc pas de problème
+
+Obstacles à la conceptualisation / l'argumentation :
+côté prof : savoir ce qui marche (ce qui passe bien avec les élèves, ce que les élèves arrivent à remobiliser)
+côté élève : difficultés en étages
+1ère difficulté : passer des cas particuliers à l'abstraction/
+2e difficulté : identifier les caractéristiques pertinentes et les mobiliser pour analyser une question ou une idée
+
+
+-->
 
 ---
 <!-- _class: partie -->
