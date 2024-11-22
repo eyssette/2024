@@ -438,7 +438,7 @@ Respecter l'autonomie de la personne
 <style scoped>
 ul {margin-left:-1.5em}
 </style>
-1) Une théorie abstraite et générale,<br>qui néglige l'ancrage de la morale dans le sentiment et des situations concrètes
+1) Une théorie abstraite et générale,<span data-marpit-fragment="1"><br>qui néglige l'ancrage de la morale dans le sentiment et des situations concrètes</span>
 2) Une théorie ambigüe
 	* dignité = ne pas considérer une personne comme un objet <span data-marpit-fragment="1"><br>&rArr; le “lancer de nain” n'est pas acceptable</span>
 	* dignité = respecter l'autonomie de l'individu, <span data-marpit-fragment="1"><br>&rArr; le “lancer de nain” est acceptable (si vraiment consenti)</span>
