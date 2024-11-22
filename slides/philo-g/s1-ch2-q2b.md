@@ -201,6 +201,12 @@ La défense d'un devoir de donner de l'argent à des associations humanitaire
 # II – La morale requiert une réflexion sur les principes
 Deuxième partie
 
+<!-- Ajouter objections contre le conséquentialisme
+calcul : trop complexe, voire impossible
+calcul : néglige les personnes particulières au profit d'un bilan général
+peut conduire à un sacrifice
+-->
+
 ---
 <!-- _class:  -->
 <style scoped>
