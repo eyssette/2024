@@ -7,7 +7,7 @@ size: 4:3
 
 <!-- _class: titre -->
 
-# Problématiser, conceptualiser, argumenter
+# Problématiser, <br>conceptualiser,<br> argumenter <!-- fit -->
 <style scoped>
 p {font-size:0.82em}
 </style>
@@ -17,7 +17,22 @@ https://philosophie.enseigne.ac-lyon.fr/
 
 
 ---
+<!-- _class: i1t1 vertical pp -->
+<style scoped>
+img{height:600px; display:block;}
+</style>
+
+![alt text](qrCode-problematiser-conceptualiser-argumenter.png)
+
+https://url.forge.apps.education.fr/#12
+
+
+
+---
 <!-- _class:  -->
+<style scoped>
+section {font-size:4.5em}
+</style>
 Deux formations précédentes :
 
 ‑ sur la [problématisation](https://eyssette.forge.apps.education.fr/marp-slides/slides/2022-2023/formation-problematiser.html)
@@ -59,17 +74,18 @@ Deuxième partie
 
 
 ---
-<!-- _class: f -->
+<!-- _class: fmm -->
 <style scoped>
-h3{margin-top:0.5em!important; margin-bottom:0em}
-ol {margin-top:0.25em}
-ul {font-size:0.9em}
+h3{margin-top:0.5em!important; margin-bottom:0em; font-size:1.15em}
+ol {margin-top:-0.25em}
+ol > li {margin-top:1em}
+ul {font-size:0.925em; list-style-type:none; margin-left:-1em}
 </style>
 ### Pistes possibles
 
-1) Pour **engager les élèves dans le travail** :
-	* partir d'une situation concrète qui implique les élèves
-2) Pour **structurer les connaissances** :
-	* utiliser des organisateurs graphiques et des outils de synthèse et de schématisation
-3) Pour permettre aux élèves de **s'approprier le cours**
-	* faire régulièrement des exercices ciblés, <span data-marpit-fragment="1">avec une méthode et des consignes précises</span><span data-marpit-fragment="2">, une exigence de travail en profondeur</span><span data-marpit-fragment="3">, et un feedback centré sur la tâche (but & processus)</span>
+1) 🚀 Pour **engager les élèves dans le travail** :
+	* ✨   partir d'une situation concrète qui implique les élèves
+2) 🗂️  Pour **structurer les connaissances** :
+	* 🕸️   utiliser des organisateurs graphiques et des outils de synthèse et de schématisation
+3) 🧠 Pour permettre aux élèves de **s'approprier le cours**
+	* ✍️   faire régulièrement des exercices ciblés, <span data-marpit-fragment="1">avec une méthode et des consignes précises</span><span data-marpit-fragment="2">, une exigence de travail en profondeur</span><span data-marpit-fragment="3">, et un feedback centré sur la tâche (but & processus)</span>
