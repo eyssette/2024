@@ -6,8 +6,8 @@
 		{
 			"label": "Export to HTML",
 			"type": "shell",
-			"command": "marp ${file} --html true --lang fr-FR",
-			//"command": "marp ${file} --theme slides/themes/teaching.css --html true --lang fr-FR",
+			//s"command": "marp ${file} --html true --lang fr-FR",
+			"command": "marp ${file} --theme slides/themes/teaching.css --html true --lang fr-FR",
 			"group": {
 				"kind": "build",
 				"isDefault": true
