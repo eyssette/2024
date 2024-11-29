@@ -58,9 +58,9 @@ Première partie
 
 <span data-marpit-fragment="1">C'est ce qu'on appelle : **l'autorité de la première personne**.</span>
 
-<span data-marpit-fragment="2">La conscience de soi permet un **accès direct** à son propre esprit, alors que nous n'avons accès à l'esprit des autres que par l'**intermédiaire** de leur comportement et de leurs paroles.</span>
+<span data-marpit-fragment="2">La conscience de soi permet un **accès direct** à son propre esprit,</span><span data-marpit-fragment="3"> alors que nous avons accès à l'esprit des autres de manière **indirecte** par l'intermédiaire de leur comportement et de leurs paroles.</span>
 
-<span data-marpit-fragment="3">&rArr; la conscience de soi semble permettre une **connaissance plus fiable** que l'interprétation des actes d'autrui</span>
+<span data-marpit-fragment="4">&rArr; la conscience de soi semble permettre une **connaissance plus fiable** que l'interprétation des actes d'autrui</span>
 
 
 ---
@@ -76,30 +76,38 @@ Première partie
 <!-- _class:  -->
 Descartes soutient que la conscience de soi est la forme de connaissance la plus certaine.
 
-<span data-marpit-fragment="1">Descartes montre que l'affirmation : « je pense, j'existe » est une certitude absolue.</span> <span data-marpit-fragment="2">C'est ce qu'on appelle le **_cogito_**</span>
+<span data-marpit-fragment="1">L'affirmation : « je pense, j'existe » est une certitude absolue.</span> <span data-marpit-fragment="2">C'est ce qu'on appelle le **_cogito_**</span>
+
 
 ---
-<!-- _class: fmmm -->
+<!-- _class: fppppppp -->
 <style scoped>
-ol {margin-top:-0.25em}
+h3 {margin-bottom:0.25em}
 </style>
-#### Explications possibles du cogito
-
-1. <span data-marpit-fragment="1">**Une asymétrie** entre le cogito et les autres affirmations</span>
-
-<span data-marpit-fragment="2">Si je pense que _je marche_, il est possible qu'en fait je rêve que je marche et donc que je ne marche pas véritablement.</span>
-
-<span data-marpit-fragment="3">Mais si je pense que _je pense_ : le fait de rêver que je pense ne peut pas me conduire à l'idée que je ne pense pas véritablement. Le fait même de rêver prouve que je suis en train de penser.</span>
-<span data-marpit-fragment="4">Même si un malin génie essaie de me faire croire que je pense, croire que je pense prouve que je pense.</span>
-
-<span data-marpit-fragment="5">Le cogito est le seul cas où **l'acte de penser** (<u>je pense</u> que …) prouve **le contenu de ma pensée** (je pense que <u>je pense</u>).</span>
+### La démarche de Descartes
+1) Beaucoup de choses peuvent être trompeuses (nos sens, nos rêves).
+2) Si on veut savoir quelque chose avec certitude : il faut soumettre nos croyances à un doute radical <span data-marpit-fragment="1">(s'il y a la moindre raison de douter : il faut douter).</span>
+3) L'affirmation « je pense » résiste au doute radical.
 
 ---
-<!-- _class:  -->
-2. Une **contradiction interne**
+<!-- _class: fppppp -->
+### Explication 1
 
-Douter que je pense, c'est penser que peut-être je ne pense pas<span data-marpit-fragment="1">, mais ce serait contradictoire : il n'y a donc pas de sens à douter qu'on pense.</span>
+Si je doute que je pense, cela signifie que je pense que peut-être je ne pense pas.
 
+<span data-marpit-fragment="1">Mais ce serait contradictoire ! Donc il n'est pas possible de penser que je ne pense pas.</span>
+
+* « Je pense que je ne pense pas » <br>= contradiction
+
+---
+<!-- _class: fpppppppp -->
+### Explication 2
+
+Le fait de penser que je marche ne prouve pas que je suis en train de marche.
+
+<span data-marpit-fragment="1">Mais : le fait de penser que je pense prouve que je suis en train de penser.</span>
+
+* « Je pense que je pense » <br>= évidence immédiate
 
 ---
 <!-- _class: fp -->
