@@ -51,7 +51,7 @@ Locke affirme que l'identité personnelle ne repose pas sur la permanence d'une 
 <span data-marpit-fragment="3">Ce qui fait que je suis la même personne, ce n'est pas qu'il y a quelque chose en moi qui reste identique</span>
 
 ---
-<!-- _class: fppp  -->
+<!-- _class: f  -->
 <style scoped>
 h4 {margin-top:0}
 </style>
