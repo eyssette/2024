@@ -9,8 +9,8 @@ size: 4:3
 <style scoped>
 </style>
 # Q2 – <br>Puis-je choisir <br>qui je suis ? <!-- fit -->
-Cédric Eyssette (2023-2024)
-https://eyssette.github.io
+Cédric Eyssette (2024-2025)
+https://eyssette.forge.apps.education.fr/
 
 
 
