@@ -5,6 +5,8 @@ paginate: false
 size: 4:3
 ---
 
+<style>blockquote p{text-align:justify!important}</style>
+
 <!-- _class: citationL pp-->
 <style scoped>
 blockquote{text-indent:1.5em; font-size:20px;  background-color:white; margin:0px 129px; padding:0}
