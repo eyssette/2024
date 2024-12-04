@@ -80,7 +80,7 @@ Il est important de donner un sens concret à la question posée. Il faut cherch
 
 ---
 <!-- _class: partie -->
-# I – Il n'y a pas de limites<br> morales objectives :<br> <span>les jugements moraux<br> semblent dépendre<br> de l'individu</span> <!-- fit -->
+# I – Il semble difficile <br>d'établir des limites<br> morales claires <!-- fit -->
 Première partie
 
 
