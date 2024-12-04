@@ -8,8 +8,8 @@ size: 4:3
 <!-- _class: titre -->
 
 # Q1a – <br>Peut-on saisir ce<br>qu'est le Moi ? <!-- fit -->
-Cédric Eyssette (2023-2024)
-https://eyssette.github.io/
+Cédric Eyssette (2024-2025)
+https://eyssette.forge.apps.education.fr/
 
 
 ---

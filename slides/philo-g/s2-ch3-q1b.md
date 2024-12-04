@@ -9,8 +9,8 @@ size: 4:3
 
 # Q1b – <br>L'identité personnelle<br>repose-t-elle sur<br>la mémoire ? <!-- fit -->
 
-Cédric Eyssette (2023-2024)
-https://eyssette.github.io/
+Cédric Eyssette (2024-2025)
+https://eyssette.forge.apps.education.fr/
 
 
 ---
