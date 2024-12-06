@@ -378,7 +378,7 @@ Un être humain est :
 ---
 <!-- _class: cinema fmmmm-->
 
-[![Couverture du film Le Loup de Wall Street](https://fr.web.img6.acsta.net/pictures/210/604/21060483_20131125114549726.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFX0ZtUGFpaGR6UlE/edit?usp=sharing)
+[![Couverture du film Le Loup de Wall Street](https://fr.web.img6.acsta.net/pictures/210/604/21060483_20131125114549726.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFX0ZtUGFpaGR6UlE/view?usp=sharing&resourcekey=0-iz4h8Dv8kEC7Y19DloyaOg)
 
 >Dans le film _Le Loup de Wall-Street_, Jordan Belfort, un trader, téléphone à des personnes peu aisées qui veulent placer leurs maigres économies, et leur ment sur la valeur des actions qu'il leur propose (« _I was selling them shit_ »). Ces personnes ne sont pour lui qu'un simple moyen de gagner plus d'argent : il les méprise et les considére comme de vulgaires bouseux. Vers la fin du film, quand sa femme lui annonce qu'elle veut divorcer, il ne la voit plus que comme un obstacle entre lui et ses enfants qu'il veut garder avec lui. Il devient violent jusqu'à la frapper dans l'estomac.
 
