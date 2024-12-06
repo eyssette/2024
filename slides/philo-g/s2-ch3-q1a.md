@@ -240,3 +240,31 @@ https://plato.stanford.edu/entries/buddha/#NonSel
 https://www.youtube.com/watch?v=XeZDt43Pij8
 
  -->
+
+
+
+---
+<!-- _class: partie -->
+# Mise en<br> pratique <!-- fit -->
+
+
+---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+h3 {margin-bottom:15px}
+ul {margin-left:24px;}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%;}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+	- Le moi est-il une fiction ?
+	- Le regard des autres m'empêche-t-il d'être moi-même ?
+	- Peut-on se connaître soi-même ?
+	- Le moi est-il le produit de la société ?
+	- Le moi est-il en perpétuel changement ?
+	- Le moi peut-il se réduire au corps ?
+	- La recherche du moi est-elle essentielle au bonheur ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>

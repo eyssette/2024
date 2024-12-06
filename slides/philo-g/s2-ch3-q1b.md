@@ -26,14 +26,19 @@ Première partie
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fppp -->
 ### Différents types de mémoire
 
-1) Mémoire de travail
-2) Mémoire sensorielle et mémoire perceptive
-3) Mémoire sémantique
-4) Mémoire procédurale
-5) **Mémoire épisodique**
+<!-- :warning: “mémoire visuelle” / “mémoire auditive” / “mémoire kinesthésique” = 1 neuromythe -->
+
+**À court terme**
+1) Mémoire sensorielle et mémoire perceptive
+2) Mémoire de travail
+
+**À long terme**
+1) Mémoire sémantique
+2) Mémoire procédurale
+3) **Mémoire épisodique**
 
 
 ---
@@ -45,10 +50,17 @@ Première partie
 
 
 ---
-<!-- _class:  -->
-Locke affirme que l'identité personnelle ne repose pas sur la permanence d'une substance <span data-marpit-fragment="1">(physique, matérielle : le corps</span><span data-marpit-fragment="2"> ou psychique : l'âme).</span>
+<!-- _class: fppp -->
+<style scoped>
+p:last-of-type{font-size:0.85em; background:#EEE; padding:15px 40px; margin-top:0.45em}
+</style>
+Locke affirme que l'identité personnelle ne repose pas sur la permanence d'une **substance** <span data-marpit-fragment="1">(physique, matérielle : le corps</span><span data-marpit-fragment="2"> ou psychique : l'âme).</span>
+<!-- Contre Descartes -->
 
-<span data-marpit-fragment="3">Ce qui fait que je suis la même personne, ce n'est pas qu'il y a quelque chose en moi qui reste identique</span>
+L'identité personnelle repose sur la **conscience** <span data-marpit-fragment="3">dans la mesure où notre conscience parvient à retenir les souvenirs du passé.</span>
+<!-- Contre Hume qui affirme que la conscience n'est qu'un flux de perceptions multiples -->
+
+<span data-marpit-fragment="4">L'identité personnelle = une identité de conscience<br>≠ une identité de substance.</span>
 
 ---
 <!-- _class: f  -->
@@ -67,12 +79,12 @@ Locke imagine deux scénarios fictifs.
 <span data-marpit-fragment="5">= 2 consciences dans un même corps, qui ne communiquent pas entre elles.</span>
 <span data-marpit-fragment="6">→ Même si c'est le même corps, il y a deux personnes</span><span data-marpit-fragment="7"> (autre cas : l'amnésie totale).</span>
 
-<span data-marpit-fragment="8">&rArr; Ce n'est pas la permanence du corps qui fait l'identité, mais la conscience.</span>
-
 
 ---
 <!-- _class:  -->
 Un problème : l'objection du brave officier, de Thomas Reid.
+
+<!-- faire dessin au format numérique avec affichage progressif -->
 
 <span data-marpit-fragment="1">Cas similaire : la photo de soi à 2 ans (aucun souvenir de cette période).</span>
 
@@ -129,9 +141,9 @@ le syndrome de la main étrangère
 
 ---
 <!-- _class:  -->
-Le Soi autobiographique lui-même ne semble pas seulement reposer sur la mémoire.
+Le Soi autobiographique lui-même ne repose pas seulement sur la mémoire et sur le passé.
 
-<span data-marpit-fragment="1">Il intègre d'autres formes de connexions psychiques : notamment tout ce qui relève de notre caractère, de nos manières de réagir, de nos projets, de nos valeurs.</span>
+<span data-marpit-fragment="1">Il intègre d'autres formes de connexions psychiques : notre caractère, nos manières de réagir, nos projets, nos valeurs.</span>
 
 ---
 <!-- _class: souspartie -->
@@ -189,3 +201,30 @@ Conscience de soi : partielle et partiale.
 Ne pouvons-nous pas apprendre des autres des vérités sur nous-mêmes ?
 
 -->
+
+
+---
+<!-- _class: partie -->
+# Mise en<br> pratique <!-- fit -->
+
+
+---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+h3 {margin-bottom:15px}
+ul {margin-left:24px;}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%;}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+	- Est-ce le corps qui définit l'identité personelle ?
+	- Peut-on cesser d’être soi-même ?
+	- Le passé est-il ce qui nous définit ?
+	- Peut-on être soi-même sans mémoire ?
+	- Peut-on être sûr d’être soi-même ?
+	- La perception que l'on a de soi est-elle fiable ?
+	- La connaissance de soi passe-t-elle par les autres ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>
