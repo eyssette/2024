@@ -362,7 +362,7 @@ Les autres ne sont pas des êtres inférieurs à moi.
 
 ---
 <!-- _class: cinema fmmmm-->
-[![Couverture du film Mesure d'urgence](https://i.ibb.co/yYCc3f6/Mesure-d-urgence.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFTWJrNTBEcXZVQ0U/view?usp=sharing)
+[![Couverture du film Mesure d'urgence](https://i.ibb.co/yYCc3f6/Mesure-d-urgence.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFTWJrNTBEcXZVQ0U/view?usp=sharing&resourcekey=0-FgGtXIk4S6GjKU2FRAM2tw)
 
 >Dans le film _Mesure d'urgence_, un médecin kidnappe des personnes sans abri afin de faire des expérimentations médicales sur eux, dans le but de trouver un remède contre des maladies pour le moment incurables. Il affirme que la vie de ces individus n'a pas beaucoup de sens : leur mort était de toute façon prévisible ; autant faire en sorte qu'elle soit utile ! Un grand médecin a, selon lui, le courage d'outrepasser les règles ordinaires : il serait légitime de sacrifier quelques vies sans significations, si cela permet d'améliorer de manière importante la vie d'un grand nombre de personnes.
 
