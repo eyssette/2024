@@ -104,7 +104,7 @@ Deuxième partie
 ## A. La conscience <br>de soi ne se réduit pas à la mémoire
 
 ---
-<!-- _class: fppppppppp -->
+<!-- _class: fpppppp -->
 Trois formes de conscience de soi (une distinction de Damasio) :
 1) la conscience de son corps (le proto&#8209;soi) ;
 2) la conscience d'être la source de ses pensées et de ses actes (le soi central) ;
@@ -140,7 +140,7 @@ le syndrome de la main étrangère
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fpppp -->
 Le Soi autobiographique lui-même ne repose pas seulement sur la mémoire et sur le passé.
 
 <span data-marpit-fragment="1">Il intègre d'autres formes de connexions psychiques : notre caractère, nos manières de réagir, nos projets, nos valeurs.</span>
