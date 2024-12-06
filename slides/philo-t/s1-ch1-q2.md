@@ -179,7 +179,7 @@ Deuxième partie
 <!-- _class: definition fppppppp -->
 #### Définition
 - Le **relativisme moral**, c'est l'idée que la morale est relative au point de vue de l'individu et de sa culture.
-- Il n'y aurait pas de vérité universelle à propos du bien et du mal.
+- <span data-marpit-fragment="1">Il n'y aurait pas de vérité universelle à propos du bien et du mal.</span>
 
 
 ---
@@ -237,8 +237,8 @@ img {height:600px}
 img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
 ol li:nth-of-type(2) img {width:445px!important; padding-left:210px; padding-right:210px; background-color:rgba(0, 0, 0, 0.5);}
 </style>
-1) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fried_spiders_Skuon_Cambodia.jpg/2880px-Fried_spiders_Skuon_Cambodia.jpg)
-2) ![](https://i.ibb.co/Z8L5nq5/eating-a-spider-t.jpg)
+1. ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fried_spiders_Skuon_Cambodia.jpg/2880px-Fried_spiders_Skuon_Cambodia.jpg)
+2. <span data-marpit-fragment="1">![](https://i.ibb.co/Z8L5nq5/eating-a-spider-t.jpg)</span>
 
 
 <!-- Le dégoût ressenti face à l'idée de manger une tarentule frite ≠ le dégoût ressenti face à des actes de pédophilie -->
@@ -298,7 +298,7 @@ Pour justifier la consommation de viande, on entend parfois ce type d'arguments 
 
 La morale ne consiste pas à suivre une <mark>**autorité**</mark> extérieure qui me dit ce que je dois faire. <span data-marpit-fragment="1">On peut **réfléchir par soi-même** pour saisir notre devoir moral.</span> <span data-marpit-fragment="2">Le devoir moral est une expression de notre <mark>**autonomie**</mark>.</span>
 
-<span data-marpit-fragment="3">Les limites morales de notre liberté ne sont pas des **<mark>contraintes</mark> extérieures**, mais des **<mark>obligations</mark> intérieures**.</span>
+<span data-marpit-fragment="3">Les limites morales de notre liberté ne sont pas des **<mark>contraintes</mark> extérieures**,</span><span data-marpit-fragment="4"> mais des **<mark>obligations</mark> intérieures**.</span>
 
 
 ---
@@ -308,9 +308,9 @@ La morale ne consiste pas à suivre une <mark>**autorité**</mark> extérieure q
 ---
 <!-- _class: definition fp -->
 #### Définition
-* L'**utilitarisme** soutient que les conséquences de nos choix doivent être les plus utiles possibles pour le plus grand nombre.
-* But visé : un minimum de souffrances et un maximum de bonheur.
-* Moyen : faire un calcul des conséquences le plus objectif et le plus global possible
+- L'**utilitarisme** soutient que les conséquences de nos choix doivent être les plus utiles possibles pour le plus grand nombre.
+- <span data-marpit-fragment="1">But visé : un minimum de souffrances et un maximum de bonheur.</span>
+- <span data-marpit-fragment="2">Moyen : faire un calcul des conséquences le plus **objectif** et le plus **global** possible</span>
 
 
 ---
@@ -361,12 +361,12 @@ Les autres ne sont pas des êtres inférieurs à moi.
 
 
 ---
-<!-- _class: i1t0-->
+<!-- _class: cinema fmmmm-->
+[![Couverture du film Mesure d'urgence](https://i.ibb.co/yYCc3f6/Mesure-d-urgence.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFTWJrNTBEcXZVQ0U/view?usp=sharing)
 
-[![Couverture du film Le Loup de Wall Street](https://fr.web.img6.acsta.net/pictures/210/604/21060483_20131125114549726.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFX0ZtUGFpaGR6UlE/edit?usp=sharing)
+>Dans le film _Mesure d'urgence_, un médecin kidnappe des personnes sans abri afin de faire des expérimentations médicales sur eux, dans le but de trouver un remède contre des maladies pour le moment incurables. Il affirme que la vie de ces individus n'a pas beaucoup de sens : leur mort était de toute façon prévisible ; autant faire en sorte qu'elle soit utile ! Un grand médecin a, selon lui, le courage d'outrepasser les règles ordinaires : il serait légitime de sacrifier quelques vies sans significations, si cela permet d'améliorer de manière importante la vie d'un grand nombre de personnes.
 
-<!-- Dans le film _Le Loup de Wall-Street_, Jordan Belfort, un trader, téléphone à des personnes peu aisées qui veulent placer leurs maigres économies, et leur ment sur la valeur des actions qu'il leur propose (« _I was selling them shit_ »). Ces personnes ne sont pour lui qu'un simple moyen de gagner plus d'argent : il les méprise et les considére comme de vulgaires bouseux. Vers la fin du film, quand sa femme lui annonce qu'elle veut divorcer, il ne la voit plus que comme un obstacle entre lui et ses enfants qu'il veut garder avec lui. Il devient violent jusqu'à la frapper dans l'estomac.
--->
+
 
 ---
 <!-- _class: exercice application fmmmmmm -->
