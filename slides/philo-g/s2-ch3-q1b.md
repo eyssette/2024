@@ -158,50 +158,52 @@ La mémoire peut produire des faux-souvenirs.
 
 <span data-marpit-fragment="2">[Mind Field (Ep 8): Do You Know Yourself?](https://ladigitale.dev/digiview/#/v/6396d7de3decd)</span>
 
+<!-- 
+2 extraits : faux jeu télévisé + choice blindness
+TODO : découper les extraits
+
+confabulation : 
+https://encyclo-philo.fr/introspection-a
+-->
 
 ---
-<!-- _class: fp -->
+<!-- _class: fpppp -->
 La mémoire est sélective.
 <span data-marpit-fragment="1">– elle est partielle (je ne retiens pas tout)</span>
 <span data-marpit-fragment="2">– elle est partiale (je ne retiens que ce qui m'arrange)</span>
 
 <span data-marpit-fragment="3">La mémoire semble participer à la construction d'une image de soi</span> <span data-marpit-fragment="4">≠ représentation fidèle de la réalité</span>
 
-<span data-marpit-fragment="5">Exemple : construction d'une image de soi sur les réseaux sociaux (Instagram)</span>
+<span data-marpit-fragment="5">Un parallèle : l'image de soi que l'on donne sur les réseaux sociaux (p.ex. Instagram)</span>
 
-<span data-marpit-fragment="6">Plus précisément, la notion d'identité est en partie narrative : elle repose sur un récit que l'on fait à propos de soi, et ce récit n'est pas une garantie de vérité.</span>
+<!-- 
+illusion sur soi
+question de la vérité
+place de sautres
+-->
+
+---
+<!-- _class:  -->
+### Le concept d'identité narrative
+<span data-marpit-fragment="1">L'identité repose sur un récit que l'on fait à propos de soi</span>
+
+<span data-marpit-fragment="2">En effet, pour parler d'identité, il faut être capable d'organiser ses expériences passées, son vécu présent, ses valeurs et de leur donner un sens.</span>
+
+<!-- ce n'est pas un simple lien fait par la mémoire entre différents éléments, sans organisation, sans signification -->
+
+---
+
+On pourrait croire que se raconter, c'est “se la raconter”, c'est-à-dire donner une image fausse de ce qu'on est véritablement.
+
+<span data-marpit-fragment="1">Mais l'idée ici, c'est que se raconter est un élément essentiel dans la construction de soi et l'affirmation de son identité.</span>
 
 
 ---
 <!-- _class:  -->
-Notre identité réelle ne correspond pas toujours à la conscience que nous en avons. 
 
-Ce que nous sommes véritablement nous échappe en partie.
+On a pensé jusqu'ici que le moi était une **donnée** déjà existante, à retrouver quelque part.
 
-<!-- 
-Progression dans la connaissance de soi possible : grâce à autrui ? quête de soi ?
--->
-
-
-<!-- 
-L'identité réelle déborde la conscience que nous en avons. On ne peut pas assimiler l'identité à la conscience.
-Ce que nous sommes véritablement échappe en partie à notre conscience.
-
-Question de la vérité, place du témoignage d'autrui ; récit de soi (identité narrative), image de soi : illusions sur soi
-
-Exemples dans la science-fiction : faux souvenirs
-
-Faut-il rejeter jusqu'à la notion même d'identité ?
-
-Science-fiction / Westworld, Blade Runner, Dark City …
-Shutter Island 
-
-Conscience de soi : partielle et partiale.
-
-Ne pouvons-nous pas apprendre des autres des vérités sur nous-mêmes ?
-
--->
-
+<span data-marpit-fragment="1">N'est-il pas plutôt un **processus** ? Une construction qui se fait par des choix ?</span>
 
 ---
 <!-- _class: partie -->
