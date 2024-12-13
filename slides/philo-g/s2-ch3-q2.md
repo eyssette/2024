@@ -181,7 +181,7 @@ blockquote{text-indent:1.5em; font-size:20px;  background-color:white; margin:0p
 
 ---
 <!-- _class: fppppp -->
-#### Question directrice :
+#### Question directrice
 Qu'est-ce qui constitue l'essence d'un être humain ?
 
 <span data-marpit-fragment="1">La question n'est pas de savoir ce qui fait l'essence d'un être humain en général, mais de déterminer ce qui définit un être humain en particulier, c'est-à-dire son identité personnelle</span>
@@ -213,9 +213,9 @@ blockquote{text-indent:1.5em; font-size:20px;  background-color:white; margin:0p
 <!-- _class:  -->
 
 
-#### Thèse :
+#### Thèse
 
-Ce que je suis n'est pas défini à l'avance, c'est, à travers mon existence, par mes choix, par mes actes que je me définis.
+Ce que je suis n'est pas défini à l'avance : c'est, à travers mon existence, par mes choix et par mes actes que je me définis.
 
 
 ---
