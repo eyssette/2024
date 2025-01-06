@@ -605,7 +605,7 @@ L'**essentialisation** est le processus consistant à réduire une personne ou u
 <!-- _class:  -->
 Exemples d'essentialisation :
 1) L'essentialisation sexiste
-2) L'essentialisation raciste (rappel: notion d'ethnocentrisme)
+2) L'essentialisation raciste <br>(rappel: notion d'ethnocentrisme)
 
 <!-- Essentialisation : / sexisme, racisme
 (stéréotypes sexistes, racistes)
@@ -619,7 +619,9 @@ Lien avec l'ethnocentrisme
 	blockquote {margin-top:0.75em}
 blockquote p {text-align:center; margin:0.25em}
 </style>
-Sartre s'oppose à **l'essentialisme et** à toute essentialisation et défend au contraire une conception **existentialiste** de l'identité.
+Sartre s'oppose à **l'essentialisme et** à toute essentialisation.
+
+Il défend au contraire une conception **existentialiste** de l'identité.
 
 > « L'existence précède l'essence »
 
@@ -651,9 +653,13 @@ Dans le cas des êtres humains, **l'existence précède l'essence**.
 
 <span data-marpit-fragment="2">&rArr; **Pas de fatalité**, mais au contraire une **liberté** fondamentale dans la définition de notre identité.</span>
 
-<!-- 
-L'homme n'est d'abord rien : Le "rien" dont parle Sartre est l'absence d'une essence prédéfinie ou d'une nature fixe chez l'homme.
--->
+
+---
+<!-- _class:  -->
+
+« L'homme n'est d'abord rien »
+
+<span data-marpit-fragment="1">Le "rien" dont parle Sartre est l'absence d'une essence prédéfinie ou d'une nature fixe chez l'homme</span>
 
 ---
 <!-- _class:  -->
@@ -689,14 +695,13 @@ La **responsabilité d'avoir à choisir qui je suis** est source d'angoisse.
 
 ---
 <!-- _class:  -->
-**La peur** : une réaction à une menace précise ou à un danger imminent.
+**La peur** : <span data-marpit-fragment="1">une réaction à une menace précise ou à un danger imminent.</span>
+<span data-marpit-fragment="2">Exemple : la peur des araignées.</span>
 
-<span data-marpit-fragment="1">**La crainte** : une préoccupation face à certains événements qui risquent d'arriver dans le futur.</span>
+<span data-marpit-fragment="2">**La crainte** :</span> <span data-marpit-fragment="3">une préoccupation face à certains événements qui risquent d'arriver dans le futur.</span>
+<span data-marpit-fragment="4">Exemple : la crainte de l'échec dans ses études supérieures.</span>
 
-<!-- Ajouter exemples :
-peur des serpents
-crainte de l'échec à un examen
-
+<!-- 
 Peur, crainte : pas forcément justifiées ; il peut y avoir des peurs ou des craintes imaginaires
 
 Distinction : sentiment de peur / disposition à ressentir ce sentiment de peur
@@ -705,18 +710,24 @@ Distinction : sentiment de peur / disposition à ressentir ce sentiment de peur
 ---
 <!-- _class:  -->
 
-**L'angoisse** : sans objet précis. Ce qui nous angoisse, c'est la **conscience de notre propre liberté**.
+**L'angoisse** : sans objet précis. <span data-marpit-fragment="1">Un sentiment de vide, de gouffre intérieur.</span>
 
-<span data-marpit-fragment="1">Il faut faire un choix, mais il n'y a **pas de chemin déjà tracé** : nous faisons l'expérience d'un **vide de repères** intérieurs.</span>
+<span data-marpit-fragment="2">Il n'y a **pas de chemin déjà tracé** : nous faisons l'expérience d'un **vide de repères** intérieurs.</span>
+
+<span data-marpit-fragment="3">L'angoisse provient de la **conscience de notre propre liberté** et du vertige de la responsabilité des choix que nous avons à faire</span>
+
+<!-- ex - istence : être jeté dans le monde (débrouille toi) // Pascal sur le tragique de l'insignifiance -->
+
+<!-- 
+https://eyssette.forge.apps.education.fr/2024/slides/philo-g/s1-ch1-q1c.html#22
+
+« [E]n regardant l’univers muet et l’homme sans lumière, abandonné à lui-même, et comme égaré dans ce recoin de l’univers, sans savoir qui l’y a mis, ce qu’il y est venu faire, ce qu’il deviendra en mourant, incapable de toute connaissance, j’entre en effroi comme un homme qu’on aurait porté endormi dans une île déserte et effroyable, et qui s’éveillerait sans connaître où il est, et sans moyen d’en sortir »
+Pascal, Pensées, L.198 - B.693
+ -->
 
 <!--
-Exemples : peur du vide, crise d'angoisse, angoisse du passage à l'adolescence ...
+Exemples : "peur" du vide, crise d'angoisse, angoisse du passage à l'adolescence ...
 L'angoisse est existentielle
-
-Angoisse / vide
-/ sa propre liberté : la liberté est angoissante
-Un vide de repères intérieurs.
-Il faut faire un choix, mais il n'y a pas de chemin déjà tracé.
 -->
 
 ---
@@ -726,43 +737,27 @@ Pour ne pas avoir à ressentir cette angoisse, nous avons tendance à être de *
 
 - Qu'est-ce que la mauvaise foi ?
 
+---
+<!-- _class:  -->
+**Être de mauvaise foi**
+
+<span data-marpit-fragment="1">= se laisser définir par son rôle, par les regards extérieurs, par les attentes sociales</span>
+
+<span data-marpit-fragment="2">= se donner une consistance pour éviter le vide de l'angoisse existentielle</span>
+
+<span data-marpit-fragment="3">= se refugier derrière une identité toute faite et nier ainsi notre liberté et notre responsabilité</span>
+
+<!-- Exemple du garçon de café
+(bof) => exemple du contrôleur de train …
+ -->
 
 ---
 <!-- _class:  -->
-**Sens ordinaire** = soutenir qu'on a raison alors qu'on sait pertinemment qu'on a tort.
+**Lien avec le sens ordinaire**
 
-<span data-marpit-fragment="1">**Sens sartrien** = refuser sa liberté, alors qu'on sait qu'on est libre</span>
+<span data-marpit-fragment="1">_Sens ordinaire_ = soutenir qu'on a raison alors qu'on sait qu'on a tort.</span>
 
-<span data-marpit-fragment="2">→ Exemple du **garçon de café**.</span>
-
-
----
-<!-- _class:  -->
-Le garçon de café incarne son rôle **sans distance critique** : il se laisse définir par son rôle.
-
-<span data-marpit-fragment="1">Être de mauvaise foi, c'est **se donner un être, une consistance** (refuser le vide de l'angoisse existentielle)</span>
-
-
-<!--
-Autre exemple : rôle de pouvoir, "c'est la loi" (croire qu'on n'exerce pas un jugement), se réfugier derrière un rôle, une position sociale, un statut
-
-Notion de chosification
-
-
-Sens ordinaire : "Indécence caractérisée par une volonté d'affirmer un propos que l'on sait foncièrement faux ou injustifié"
-
-"Couramment, on dit de mauvaise foi celui qui, par amour-propre ou par intérêt, s'obstine contre toute évidence à soutenir qu'il a raison, alors qu'il sait pertinemment qu'il a tort. Sourd à l'argumentation rationnelle, il échafaude de fausses bonnes raisons, s'enfermant dans un système de défense absurde."
-http://pierre.campion2.free.fr/mornej_sartre.htm
-
-Exemple du garçon de café
-refuser sa liberté, tentative d'échapper à la responsabilité de soi
-face à angoisse du néant, se donner un certain être
-chosification de soi-même réconfortante
-(pour soi / en soi)
-
-Chercher à se masquer à soi-même sa liberté
-
--->
+<span data-marpit-fragment="2">_Sens sartrien_ = refuser sa liberté, alors qu'on sait qu'on est libre.</span>
 
 ---
 <!-- _class: etape -->
@@ -770,12 +765,15 @@ Chercher à se masquer à soi-même sa liberté
 
 ### 3) L'être humain <br>comme projet
 
-<!-- L'être humain est projet
-et non "a des projets"
 
-Projet // projection, projectile
-L'être humain est projeté, lancé dans le monde, en mouvement et défini par la manière dont il se réalise par ses actes -->
 
+---
+<!-- _class:  -->
+
+Cela veut dire que l'être humain est projet et non pas qu'il a des projets.
+
+<span data-marpit-fragment="1">= notre existence n’est pas une donnée fixe ou préétablie, nous sommes en perpetuel devenir</span>
+<span data-marpit-fragment="2">= exister signifie être jeté dans le monde sans rôle prédéfini : nous devons construire qui nous sommes</span>
 
 ---
 <!-- _class:  -->
@@ -784,14 +782,7 @@ Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être.
 
 <span data-marpit-fragment="1">Il peut y avoir un écart entre ce que je crois être et ce que je suis &rArr; **illusion possible sur soi**.</span>
 
-<!-- actes ≠ paroles, croyances, velléités, rêves
-Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être
-rapport au monde / ce que je fais dans le monde
-Illusion possible : je crois être ceci / mais que suis-je réellement ?
-
-
-Exemple : croire être féministe, se dire féministe
--->
+<span data-marpit-fragment="2">Exemple : se croire féministe / être féministe</span>
 
 
 ---
@@ -818,7 +809,7 @@ Se croire artiste
 
 <span data-marpit-fragment="2">**L'être humain se définit “sur la route”**.</span>
 
-<span data-marpit-fragment="3">→ Exemples : Le _Bildungsroman_</span><span data-marpit-fragment="4">, les _road movies_</span><span data-marpit-fragment="5"> (p.ex. : [La vie rêvée de Walter Mitty](https://ladigitale.dev/digiview/#/v/63c4fcaec47a3))</span>
+<span data-marpit-fragment="3">→ Exemples : le _Bildungsroman_ (= le roman d'apprentissage)</span><span data-marpit-fragment="4">, les _road movies_</span><span data-marpit-fragment="5"> (p.ex. : [La vie rêvée de Walter Mitty](https://ladigitale.dev/digiview/#/v/63c4fcaec47a3))</span>
 
 <!-- 
 Angoisse fondamentale : on ne peut pas d'abord chercher à se connaître, puis faire des choix en fonction de qui on est.
