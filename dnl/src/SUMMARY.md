@@ -5,7 +5,7 @@
 - [Secondes : Human Rights](2ndes.md)
 	- [I — What are Human Rights](2ndes-I-whatAreHumanRights.md)
 		- [A. Introduction to the topic](2ndes-I-A-introduction.md)
-		- [B. Characteristics of Human Rights](2ndes-I-B-characteristicsOfHumanRights.md)
+		- [B. Defining Human Rights](2ndes-I-B-definingHumanRights.md)
 		- [C. The History of Human Rights](2ndes-I-C-historyOfHumanRights.md)
 	- [II — Specific Human Rights](2ndes-II.md)
 		- [A. Women's Right To Vote](2ndes-II-A-womensRightToVote.md)
@@ -62,6 +62,7 @@
 		- [A. Dualism](term-II-A-dualism.md)
 		- [B. Personal Identity](term-II-B-personalIdentity.md)
 	<!-- 
+		Locke vs. Iris Marion Young
 	- [III – Philosophy of Culture](term-III-philosophyOfCulture.md)
 		- [A. Art](term-III-A-Art.md)
 		- [B. Sport](term-III-B-Sport.md)
