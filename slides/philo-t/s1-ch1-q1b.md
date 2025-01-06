@@ -163,6 +163,11 @@ Un film : _La tête haute_
 >« Ce n’est pas la conscience des hommes qui détermine leur existence, c’est au contraire leur existence sociale qui détermine leur conscience. »
 >>Karl **Marx**, *Contribution à la critique de l’économie politique*, préface
 
+<!-- 
+La place de l'individu dans la société (les conditions de vie matérielles, le niveau économique de richesse) influence profondément nos pensées (croyances, valeurs, positions politiques), nos désirs et nos choix.
+
+La conscience intérieure est déterminée par la réalité matérielle et sociale extérieure
+ -->
 
 ---
 <!-- _class: i1t1  vertical -->
