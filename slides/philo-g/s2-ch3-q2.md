@@ -532,10 +532,17 @@ ul li {}
 * L'**essence** : du latin _esse_ (verbe être)
 * Désigne l'être d'une chose, ce qu'est cette chose, ce qui la définit
 * On distingue ainsi : **l'essence** (les propriétés fondamentales sans lesquelles la chose ne peut pas être ce qu'elle est)<span data-marpit-fragment="1"> et **les “accidents”** (les propriétés secondaires, non-essentielles, sans lesquelles la chose peut malgré tout être ce qu'elle est)</span>
- 
-<!-- Exemple : L'essence d'un triangle est d'être une figure géométrique avec trois côtés.
-Autrement dit : avoir trois côté fait partie de l'essence d'un triangle.
-Être de couleur rouge ne fait pas partie de l'essence d'un triangle -->
+
+
+---
+<!-- _class:  -->
+Exemple : l'essence d'un triangle est d'être <span data-marpit-fragment="1">une figure géométrique avec trois côtés.</span>
+
+<span data-marpit-fragment="2">Être de couleur rouge ne fait pas partie de l'essence d'un triangle.</span>
+
+
+<!-- 
+Autrement dit : avoir trois côté fait partie de l'essence d'un triangle. -->
 
 ---
 <!-- _class:  -->
@@ -561,17 +568,20 @@ Schopenhauer défend une conception **essentialiste** et **fixiste** de l'identi
 
 <span data-marpit-fragment="1">&rArr; une forme de **fatalité** : nous ne pouvons pas choisir qui nous sommes, nous héritons d'un caractère.</span>
 
-<!-- !TODO: Au lieu de l'extrait de Mommy, mettre la bande annonce
+<!-- 
+le caractère : des traits stables qui caractérisent notre personnalité.
+
+proverbe : "Chassez le naturel, il revient au galop"
+-->
+
+---
+<!-- _class: i1t1 vertical -->
 
 [![](https://i.ytimg.com/vi/p9R4xDF-Q6A/maxresdefault.jpg)](https://ladigitale.dev/digiplay/#/v/61a63a401e300)
 
-Un film de Xavier Dolan : _Mommy_ (2014)
+Xavier Dolan, _Mommy_ (2014)
 
--->
 
-<!-- 
-le caractère : des traits stables qui caractérisent notre personnalité.
--->
 
 ---
 <!-- _class:  -->
@@ -589,6 +599,13 @@ De manière plus générale, nous avons parfois tendance à **essentialiser** l
 
 ### Définition
 L'**essentialisation** est le processus consistant à réduire une personne ou un groupe à une identité présupposée, fondée sur des stéréotypes ou des préjugés.
+
+
+---
+<!-- _class:  -->
+Exemples d'essentialisation :
+1) L'essentialisation sexiste
+2) L'essentialisation raciste (rappel: notion d'ethnocentrisme)
 
 <!-- Essentialisation : / sexisme, racisme
 (stéréotypes sexistes, racistes)
@@ -721,16 +738,12 @@ Pour ne pas avoir à ressentir cette angoisse, nous avons tendance à être de *
 
 ---
 <!-- _class:  -->
-Être de mauvaise foi, c'est **se donner un être, une consistance** (refuser le vide de l'angoisse existentielle)
+Le garçon de café incarne son rôle **sans distance critique** : il se laisse définir par son rôle.
 
-Le garçon de café incarne son rôle **sans distance critique** : il est défini par son rôle
+<span data-marpit-fragment="1">Être de mauvaise foi, c'est **se donner un être, une consistance** (refuser le vide de l'angoisse existentielle)</span>
 
 
 <!--
-Se donner un être, une consistance
-(refuser le vide de l'angoisse existentielle)
-Le garçon de café incarne son rôle sans distance critique : il est défini par son rôle
-
 Autre exemple : rôle de pouvoir, "c'est la loi" (croire qu'on n'exerce pas un jugement), se réfugier derrière un rôle, une position sociale, un statut
 
 Notion de chosification
