@@ -7,11 +7,11 @@
 		- [Q1 – La liberté de la volonté est-elle une illusion ?](s1-ch1-q1.md)
 			- [Q1a – Sommes-nous esclaves de nos désirs ?](s1-ch1-q1a.md)
 			- [Q1b - Nos choix sont-ils déterminés par des facteurs que nous ne maîtrisons pas ?](s1-ch1-q1b.md)
-		- [Q2 – Y a-t-il une limite morale à la liberté ?](s1-ch1-q2.md)
-	<!-- 
+		- [Q2 – Y a-t-il des limites morales à la liberté ?](s1-ch1-q2.md)
 	- [Chapitre 2 : La politique](s1-ch2.md)
 		- [Q1 – De quel droit l'État exerce-t-il un pouvoir sur nous ?](s1-ch2-q1.md)
 			- [Q1a – L’État n'est-il qu'un moyen de domination ?](s1-ch2-q1a.md)
+	<!--
 			- [Q1b – Quels droits accordons-nous à l'État ?](s1-ch2-q1b.md)
 		- [Q2 – Qu'est-ce que la justice sociale ?](s1-ch2-q2.md)
 			- [Q2a – La politique doit-elle être guidée par un idéal moral ?](s1-ch2-q2a.md)
