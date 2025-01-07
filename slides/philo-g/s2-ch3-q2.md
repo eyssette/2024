@@ -809,7 +809,14 @@ Se croire artiste
 
 <span data-marpit-fragment="2">**L'être humain se définit “sur la route”**.</span>
 
-<span data-marpit-fragment="3">→ Exemples : le _Bildungsroman_ (= le roman d'apprentissage)</span><span data-marpit-fragment="4">, les _road movies_</span><span data-marpit-fragment="5"> (p.ex. : [La vie rêvée de Walter Mitty](https://ladigitale.dev/digiview/#/v/63c4fcaec47a3))</span>
+<span data-marpit-fragment="3">Exemples : le _Bildungsroman_ (= roman d'apprentissage)</span><span data-marpit-fragment="4">, les _road movies_</span>
+
+---
+<!-- _class: i1t1 horizontal -->
+
+[![](https://m.media-amazon.com/images/I/6149qAb1+tL._AC_SL1000_.jpg)](https://ladigitale.dev/digiview/#/v/63c4fcaec47a3)
+
+Ben Stiller, _La vie rêvée de Walter Mitty_
 
 <!-- 
 Angoisse fondamentale : on ne peut pas d'abord chercher à se connaître, puis faire des choix en fonction de qui on est.
@@ -868,11 +875,9 @@ https://journals.openedition.org/teth/615
 
 ---
 <!-- _class:  -->
-Autrui est aussi **condition de mon existence**.
+Autrui est aussi **condition de mon existence** : Sartre souligne l'**importance de la reconnaissance de soi** par autrui.
 
-Sartre souligne l'**importance de la reconnaissance de soi** par autrui.
-
-<span data-marpit-fragment="1">→ Idée développée par les **théories de la reconnaissance**, notamment par Axel Honneth [:link:](https://mymarkmap.netlify.app/#https://github.com/eyssette/mindmap/blob/main/importance-reconnaissance-Honneth.md).</span>
+<span data-marpit-fragment="1">→ Idée développée par les **théories de la reconnaissance**, notamment par Axel Honneth [:link:](https://mymarkmap.netlify.app/#https://github.com/eyssette/mindmap/blob/main/importance-reconnaissance-Honneth-2-HIDE.md).</span>
 
 <!-- 
 
@@ -889,3 +894,11 @@ https://theses.univ-lyon2.fr/documents/getpart.php?id=lyon2.2008.sey-buhrig_am&p
 
 
 -->
+
+---
+<!-- _class: i1t0 pp-->
+<style scoped>
+img{margin-left:17px}
+</style>
+
+[![](https://forge.apps.education.fr/eyssette/mindmap/-/raw/main/importance-reconnaissance-Honneth-2.svg?ref_type=heads)](https://mymarkmap.netlify.app/#https://github.com/eyssette/mindmap/blob/main/importance-reconnaissance-Honneth-2.md)
