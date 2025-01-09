@@ -129,13 +129,39 @@ Première partie
 <!-- _class: souspartie -->
 ## A. <br>Le bien commun
 
+
+---
+<!-- _class: etape -->
+### 1/ Le bien commun : fondement de<br> la philosophie politique classique <!-- fit -->
+
+---
+<!-- _class: etape -->
+### 2/ La philosophie politique moderne : <br>une éclipse du bien commun ? <!-- fit -->
+
 ---
 <!-- _class: souspartie -->
 ## B. <br>Les biens communs <!-- fit -->
 
 ---
+<!-- _class: etape -->
+### 1/ Une redécouverte de l'importance des biens communs
+
+---
+<!-- _class: etape -->
+### 2/ La tragédie des biens communs <!-- fit -->
+
+---
 <!-- _class: souspartie -->
 ## C. <br>Les communs
+
+---
+<!-- _class: etape -->
+### 1/ L'approche théorique d'Olstrom
+
+---
+<!-- _class: etape -->
+### 2/ Les approches politiques <br>plus radicales
+
 
 ---
 <!-- _class: partie -->
@@ -148,5 +174,27 @@ Deuxième partie
 ## A. <br>Les communs numériques <!-- fit -->
 
 ---
+<!-- _class: etape -->
+### 1/ Du point de vue <br>des ressources
+
+---
+<!-- _class: etape -->
+### 2/ Du point de vue <br>des communautés 
+
+
+---
+<!-- _class: etape -->
+### 3/ Du point de vue <br>de la gouvernance
+
+
+---
 <!-- _class: souspartie -->
 ## B. <br>Les communs <br>numériques éducatifs<!-- fit -->
+
+---
+<!-- _class: etape -->
+### 1/ Une chronologie <br>(non exhaustive)
+
+---
+<!-- _class: etape -->
+### 2/ Une cartographie<br>(non exhaustive)
