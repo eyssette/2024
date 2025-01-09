@@ -102,12 +102,12 @@ p:nth-of-type(2) {right:2.5%}
 
 ![bg ](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Naomi_Klein_-_Brainwash_Festival_2017.jpg/260px-Naomi_Klein_-_Brainwash_Festival_2017.jpg)
 
-Elinor Olstrom, _Governing the Commons_ (1990)
+Elinor Ostrom, _Governing the Commons_ (1990)
 
 Naomi Klein, “Reclaiming the commons” (2001)
 
 <!-- 
-théorie : Elinor Olstrom () Prix Nobel Economie en 2009 : Governing the Commons (1990)
+théorie : Elinor Ostrom () Prix Nobel Economie en 2009 : Governing the Commons (1990)
 pratique/politique : Naomi Klein, "Reclaiming the commons" (2001)
 -->
 
@@ -193,9 +193,9 @@ h3 {padding-bottom:0.5em;}
 
 ---
 <!-- _class: etape f-->
-### 1/ L'approche théorique d'Olstrom
+### 1/ L'approche théorique d'Ostrom
 
-* Elinor Olstrom, _Governing the Commons_ (1990). Prix Nobel d'économie en 2009.
+* Elinor Ostrom, _Governing the Commons_ (1990). Prix Nobel d'économie en 2009.
 * 3 dimensions caractéristiques des communs : <span data-marpit-fragment="1">une ressource partagée</span><span data-marpit-fragment="2">, une communauté</span><span data-marpit-fragment="3">, des règles et une gouvernance
 * Les communs reposent sur des innovations juridiques <span data-marpit-fragment="1">(une nouvelle conception de la propriété : des faisceaux de droits)</span><span data-marpit-fragment="2"> et des innovations organisationnelles</span>
 
