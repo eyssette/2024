@@ -5,6 +5,12 @@ paginate: true
 size: 4:3
 ---
 
+<style>
+ul {background:none; list-style-type:disc}
+ul li {padding-left:0.25em; margin-left:1em}
+ul li:before{content:none;}
+</style>
+
 <!-- _class: titre -->
 <style scoped>
 h1{padding:30px}
@@ -133,6 +139,12 @@ Première partie
 ---
 <!-- _class: etape -->
 ### 1/ Le bien commun : fondement de<br> la philosophie politique classique <!-- fit -->
+
+
+---
+<!-- _class:  -->
+- test
+- test
 
 ---
 <!-- _class: etape -->
