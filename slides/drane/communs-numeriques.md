@@ -9,6 +9,7 @@ size: 4:3
 ul {background:none; list-style-type:disc}
 ul li {padding-left:0.25em; margin-left:1em}
 ul li:before{content:none;}
+.small {font-size:0.75em; line-height:1.25em; display:inline-block}
 </style>
 
 <!-- _class: titre -->
@@ -137,43 +138,79 @@ Première partie
 
 
 ---
-<!-- _class: etape -->
-### 1/ Le bien commun : fondement de<br> la philosophie politique classique <!-- fit -->
+<!-- _class: etape fppppppp-->
+<style scoped>
+h3 {padding-bottom:0.5em;}
+</style>
+
+### 1/ Le bien commun : fondement de<br> la philosophie politique classique
+* Une finalité suprême<br><span data-marpit-fragment="1" class="small">Aristote : « La fin de la politique sera le bien proprement humain » <span class="small">(_Éthique_ I, 1, 1094b)</span></span>
+* L'importance de la vertu
+* La figure du tyran<br><span data-marpit-fragment="1" class="small">Thomas d'Aquin : «Un gouvernement est […] d'autant plus injuste qu'il s'éloigne davantage du bien commun […] Le gouvernement du tyran est donc le plus injuste qui soit »<span class="small">(_Du royaume_, livre I, chapitre 3)</span></span>
+
+---
+<!-- _class: etape fpp -->
+### 2/ La philosophie politique moderne : <br>une éclipse du bien commun ? <!-- fit -->
+
+* Le bien commun : une notion problématique
+* Rawls : une société ordonnée par des principes de justice plutôt que par une conception du bien
+* Égalité des droits (1ère génération des droits humains) <span data-marpit-fragment="1">et égalité des chances (2e génération des droits humains)</span>
 
 
 ---
 <!-- _class:  -->
-- test
-- test
+Évidemment, ce n'est pas si simple.
 
----
-<!-- _class: etape -->
-### 2/ La philosophie politique moderne : <br>une éclipse du bien commun ? <!-- fit -->
+* Les communautariens et la critique de l'individualisme libéral
+* Le républicanisme et la défense des vertus civiques
+
+Il y a cependant une certaine éclipse de la notion de bien commun dans la modernité.
 
 ---
 <!-- _class: souspartie -->
 ## B. <br>Les biens communs <!-- fit -->
 
 ---
-<!-- _class: etape -->
-### 1/ Une redécouverte de l'importance des biens communs
+<!-- _class: etape fpp -->
+### 1/ Une redécouverte de <br>l'importance des biens communs
+
+* Un retour de l'idée de biens communs : <span data-marpit-fragment="1">principalement dans le contexte de l'écologie</span>
+* Extension ensuite aux biens communs de l'information et de la connaissance
+* Une troisième génération de droits humains
+* C'est une redécouverte car l'idée de biens communs est en fait plus ancienne (sociétés premières, Antiquité, Moyen-Âge …)
 
 ---
-<!-- _class: etape -->
+<!-- _class: etape fm -->
 ### 2/ La tragédie des biens communs <!-- fit -->
+
+* Du bien commun aux biens communs : <span data-marpit-fragment="1">focalisation sur des ressources existantes (≠ un idéal)</span><span data-marpit-fragment="2"> et sur les moyens de les préserver</span>
+* Garrett Hardin, _The Tragedy of the Commons_ (1968) : gestion en commun &rArr; risque de surexploitation et risque de sous-investissement
+* Deux solutions : la propriété privée ou la gestion publique par l'État.
 
 ---
 <!-- _class: souspartie -->
 ## C. <br>Les communs
 
 ---
-<!-- _class: etape -->
+<!-- _class: etape f-->
 ### 1/ L'approche théorique d'Olstrom
+
+* Elinor Olstrom, _Governing the Commons_ (1990). Prix Nobel d'économie en 2009.
+* 3 dimensions caractéristiques des communs : <span data-marpit-fragment="1">une ressource partagée</span><span data-marpit-fragment="2">, une communauté</span><span data-marpit-fragment="3">, des règles et une gouvernance
+* Les communs reposent sur des innovations juridiques <span data-marpit-fragment="1">(une nouvelle conception de la propriété : des faisceaux de droits)</span><span data-marpit-fragment="2"> et des innovations organisationnelle</span>
+
 
 ---
 <!-- _class: etape -->
 ### 2/ Les approches politiques <br>plus radicales
 
+* Naomi Klein, “Reclaiming the commons” (2001)
+* Michael Hardt et Antonio Negri, Pierre Dardot et Christian Laval, Benjamin Coriat
+
+<!--
+altermondialisme
+anticapitalisme
+-->
 
 ---
 <!-- _class: partie -->
@@ -187,26 +224,45 @@ Deuxième partie
 
 ---
 <!-- _class: etape -->
-### 1/ Du point de vue <br>des ressources
+### 1/ Du point de vue des ressources <!-- fit -->
+
+* Des biens non-rivaux, des ressources “additives” et non pas “soustractives”
+* Des biens non-excluables ?
 
 ---
 <!-- _class: etape -->
-### 2/ Du point de vue <br>des communautés 
-
+### 2/ Du point de vue des communautés  <!-- fit -->
+* Le numérique favorise la mise en place de communauté, le partage
+* Mais ces communautés restent fragiles
 
 ---
-<!-- _class: etape -->
-### 3/ Du point de vue <br>de la gouvernance
-
+<!-- _class: etape fm -->
+### 3/ Du point de vue de la gouvernance
+* Une problématique commune : comment préserver la ressource ?
+* Mais le problème principal est différent : <span data-marpit-fragment="1">ce n'est pas la surexploitation de la ressource</span><span data-marpit-fragment="2">, c'est plutôt le sous-investissement dans le développement de la ressource</span>
+* Comment inciter à la contribution aux communs numériques ?
+* La question de la place du public par rapport aux communs : <span data-marpit-fragment="1">trois attitudes possibles (Valérie Peugeot)</span>
 
 ---
 <!-- _class: souspartie -->
 ## B. <br>Les communs <br>numériques éducatifs<!-- fit -->
 
 ---
-<!-- _class: etape -->
-### 1/ Une chronologie <br>(non exhaustive)
+<!-- _class: etape fm-->
+### 1/ Une chronologie (non exhaustive) <!-- fit -->
+
+- Référentiel Général d'Interopérabilité (2006)
+- Création du groupe Mutualisation Interministérielle pour un environnement de travail ouvert (2015)
+- La loi Lemaire : [Loi pour une République numérique](https://www.economie.gouv.fr/files/files/PDF/DP_LoiNumerique.pdf) (2016)
+- La [Stratégie du numérique pour l'éducation 2023-2027](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263)
+- La [Charte pour l’éducation à la culture et à la citoyenneté numériques](https://eduscol.education.fr/3730/charte-pour-l-education-la-culture-et-la-citoyennete-numeriques) (novembre 2024)
 
 ---
 <!-- _class: etape -->
-### 2/ Une cartographie<br>(non exhaustive)
+### 2/ Une cartographie (à faire !) <!-- fit -->
+
+- Le portail Apps
+- Elea
+- Capytale
+- La Forge
+- …
