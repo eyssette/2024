@@ -164,7 +164,7 @@ h3 {padding-bottom:0.5em;}
 * Les communautariens et la critique de l'individualisme libéral
 * Le républicanisme et la défense des vertus civiques
 
-Il y a cependant une certaine éclipse de la notion de bien commun dans la modernité.
+<span data-marpit-fragment="1">Il y a cependant une certaine éclipse de la notion de bien commun dans la modernité.</span>
 
 ---
 <!-- _class: souspartie -->
@@ -197,7 +197,7 @@ Il y a cependant une certaine éclipse de la notion de bien commun dans la moder
 
 * Elinor Olstrom, _Governing the Commons_ (1990). Prix Nobel d'économie en 2009.
 * 3 dimensions caractéristiques des communs : <span data-marpit-fragment="1">une ressource partagée</span><span data-marpit-fragment="2">, une communauté</span><span data-marpit-fragment="3">, des règles et une gouvernance
-* Les communs reposent sur des innovations juridiques <span data-marpit-fragment="1">(une nouvelle conception de la propriété : des faisceaux de droits)</span><span data-marpit-fragment="2"> et des innovations organisationnelle</span>
+* Les communs reposent sur des innovations juridiques <span data-marpit-fragment="1">(une nouvelle conception de la propriété : des faisceaux de droits)</span><span data-marpit-fragment="2"> et des innovations organisationnelles</span>
 
 
 ---
