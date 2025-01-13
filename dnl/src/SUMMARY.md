@@ -3,9 +3,9 @@
 [Accueil](README.md)
 <!-- [Introduction](intro.md) -->
 - [Secondes : Human Rights](2ndes.md)
-	- [I — What are Human Rights](2ndes-I-whatAreHumanRights.md)
+	- [I — What are Human Rights?](2ndes-I-whatAreHumanRights.md)
 		- [A. Defining Human Rights](2ndes-I-A-definingHumanRights.md)
-		- [B. Three Generation of Human Rights](2ndes-I-B-threeGenerationsOfHumanRights.md)
+		- [B. Three Generations of Human Rights](2ndes-I-B-threeGenerationsOfHumanRights.md)
 		- [C. The History of Human Rights](2ndes-I-C-historyOfHumanRights.md)
 	- [II — Specific Human Rights](2ndes-II.md)
 		- [A. Women's Right To Vote](2ndes-II-A-womensRightToVote.md)
