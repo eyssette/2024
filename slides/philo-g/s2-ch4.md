@@ -5,33 +5,6 @@ paginate: true
 size: 4:3
 ---
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leader-line/1.0.3/leader-line.min.js" integrity="sha512-aFBNsI3+D6ObLLtyKwdZPZzDbcCC6+Bh+2UNV8HC0R95BpcBT+dmmZ5NMpJi/Ic8uO0W7FGcg33IfuHg+7Ryew==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<script>
-const lastPage=4
-let currentSlide = 1;
-let slideHandlers = [];
-function updateCurrentSlide() {
-    currentSlide = Number(window.location.hash.substring(1));
-    slideHandlers[currentSlide]();
-}
-document.addEventListener("DOMContentLoaded", updateCurrentSlide)
-function handleKeydown(event) {
-    if (event.key === "ArrowRight") {
-            currentSlide = currentSlide==lastPage ? currentSlide : currentSlide + 1;
-        } else if (event.key === "ArrowLeft") {
-            currentSlide = currentSlide == 1 ? 1 : currentSlide-1;
-        }
-
-    if (slideHandlers[currentSlide]) {
-            slideHandlers[currentSlide]();
-        }
-}
-document.addEventListener("keydown", handleKeydown);
-</script>
-
-
-
 <!-- _class: titre -->
 # Chapitre 4 :<br>Le libre arbitre <!-- fit -->
 Cédric Eyssette (2024-2025)
@@ -40,80 +13,56 @@ https://eyssette.forge.apps.education.fr/
 
 
 ---
-<!-- _class: pp -->
+<!-- _class: pp fppppppp -->
 <style scoped>
+section {font-family: cursive;}
 section section{display:flex;}
-section section div{margin-top:0.4em
+section section div{margin-top:2em
 }
 section section div:nth-of-type(1) {width:110%;}
 section section div p {margin-top:1em; font-size:0.8em;color:#4a47b1}
-p strong{color:black}
+p:nth-of-type(2){color:black}
+u{text-decoration:none!important; border-bottom: 2px solid black;
+padding-bottom:10px;color:black!important}
+.arrow{position:absolute;top:200px;color:black;}
+div:nth-of-type(1) .arrow{left:300px;transform: rotate(150deg) scale(4,0.9);}
+div:nth-of-type(2) .arrow{left:700px;transform: rotate(110deg) scale(2.6,0.9);top:205px}
 </style>
 
-<script>
-    function drawLinesSlide2() {
-    new LeaderLine(
-  document.getElementById('a1e1'),
-  document.getElementById('a1e2'));
-    }
-    slideHandlers[2] = drawLinesSlide2
-</script>
-
-La liberté = <span id="a1e1">pouvoir faire</span> ce que je veux
+La liberté = <u>pouvoir faire</u> ce que <u>je veux</u>
 
 <section>
 
 <div>
 
-**<span id="a1e2">liberté d'action</span>**
+<span data-marpit-fragment="1">
 
-pouvoir agir dans <br>le monde extérieur <br>sans obstacles
+<span class="arrow">⟶</span>
+
+**liberté d'action**
+
+</span>
+
+<span data-marpit-fragment="2">= pouvoir agir dans <br>le monde extérieur <br>sans obstacles</span>
+
 </div>
 
 <div>
 
-**liberté de la volonté**
+<span data-marpit-fragment="3">
 
-pouvoir prendre intérieurement des décisions de manière autonome
+<span class="arrow">⟶</span>
+
+**liberté de la volonté** (ou libre arbitre)
+</span>
+
+<span data-marpit-fragment="4">= pouvoir prendre intérieurement des décisions de manière autonome</span>
+
 </div>
 
 </section>
 
-
-
----
-<!-- _class: i1t0 pp -->
-![](https://minio.apps.education.fr/codimd-prod/uploads/upload_7be33ea9fbf119c5333a7b9035f37298.png)
-
----
-<!-- _class: -->
-<style scoped>
-section {font-size:4.5em; padding:0.4em}
-ol {list-style-type:none}
-ol li {margin-left:-0.7em!important}
-</style>
-Au sens commun, être libre, c'est …
-
-1) pouvoir faire ce que je veux
-
----
-<!-- _class: -->
-<style scoped>
-img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
-ol {list-style-type: none}
-</style>
-
-1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part1.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part2.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part3.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part4.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part5.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part6.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot.svg)
-
 <!-- 
-« Pouvoir faire … » : Liberté d'action : pouvoir d'agir => ne pas être empêché de faire ce qu'on a choisi de faire (liberté extérieure : focalisation sur la réalisation, dans le monde extérieur, de ses choix)
-« … Ce que je veux » : Liberté de la volonté (libre arbitre) : pouvoir de choisir et de décider par soi-même => être maître de ses actes (liberté intérieure : focalisation sur la capacité intérieure de contrôler ce que l'on fait)
 – Condition des alternatives : plusieurs choix sont possibles, il y a plusieurs possibilités alternatives parmi lesquelles je peux choisir ; avoir réellement le choix entre plusieurs possibilités alternatives
 – Condition de la source : je suis vraiment la source de mes propres actes, par les choix que je fais ; être véritablement la source de ses actes
  -->
