@@ -21,11 +21,21 @@
 		- [3/ Is the list of human rights too minimal or too maximal?](controversies-about-human-rights-list-minimal-or-maximal.md) -->
 - [Premières : Contemporary Issues in Moral and Political Philosophy](1eres.md)
 	- [I – Animal Ethics](1eres-I-animalEthics.md)
-		- [A. Do animals have minds?](1eres-I-A-doAnimalsHaveMinds.md)
-		- [B. Normative Ethics](1eres-I-B-normativeEthics.md)
-		- [C. Applied Ethics](1eres-I-C-appliedEthics.md)
-		- [D. From Moral Philosophy to Political Action](1eres-I-D-fromMoralPhilosophyToPoliticalAction.md)
+		- [A. Rethinking and Rediscovering Animals](1eres-I-A-rethinkingAndRediscoveringAnimals.md)
+		- [B. Anthropocentrism, exceptionalism, speciesism](1eres-I-B-anthropocentrismExceptionalismeSpeciesism.md)
+		- [C. Normative Approaches to Animal ethics](1eres-I-C-normativeEthics.md)
+		- [D. Applied Ethics](1eres-I-D-appliedEthics.md)
+		- [E. From Moral Philosophy to Political Action](1eres-I-E-fromMoralPhilosophyToPoliticalAction.md)
 	<!-- 
+	I.
+		What are the different ways we use animals?
+		[A. Do animals have minds?](1eres-I-A-doAnimalsHaveMinds.md)
+		A. Rethinking and Rediscovering Animals : the evolution of ideas and attitude
+			Breaking The Mechanistic View: How we see animals Differently today
+		D. Applied Ethics
+			1. Eating Meat
+			2. Animal Testing
+
 	abolitionnisme / réformisme
 	The Political Turn in Animal Ethics -->
 	<!-- - [A. Animal Ethics](animal-ethics.md)
