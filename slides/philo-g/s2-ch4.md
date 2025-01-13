@@ -66,61 +66,37 @@ La liberté = <u>pouvoir faire</u> ce que <u>je veux</u>
 – Condition de la source : je suis vraiment la source de mes propres actes, par les choix que je fais ; être véritablement la source de ses actes
  -->
 
+
 ---
-<!-- _class: colonnes -->
+<!-- _class: fmmmmmmmm pp -->
 <style scoped>
-h4{margin-bottom:10px; margin-top:30px!important;}
-ul {
-    font-size:54.8%;
-    display:flex;
-    flex-direction:column;
-    flex-wrap: wrap;
-    margin-left:0px;
-    padding:0;
-    height:590px!important;
-    max-width:448px;
-}
-ul li {
-    margin:0;
-    margin-left:30px;
-    padding-right:20px;
-    text-align:left;
-}
-section.pm:before{top:640px}
-span {font-size:0.90em}
-h4 {font-size:0.58em!important;text-align:center; margin-bottom:10px}
+ol{margin:0;margin-left:1.5em;padding:0}
+section {columns: 2; padding-left:30px; padding-right:30px;column-gap: 50px}
 </style>
+1. Êtes-vous libre de voyager où vous le souhaitez ?
+1. Peut-on rire de tout, en toute liberté ?
+1. Un adulte est-il plus libre qu’un enfant ?
+1. La richesse détermine-t-elle notre degré de liberté ?
+1. Être enfermé en prison signifie-t-il perdre toute forme de liberté ?
+1. Une personne en situation de handicap est-elle pleinement libre ?
+1. L’obligation de porter un uniforme limite-t-elle la liberté ?
+1. Êtes-vous libre de vos pensées ?
+1. Un choix fait sous contrainte est-il un choix libre ?
+1. Être impulsif, est-ce affirmer sa liberté ou perdre le contrôle ?
+1. Suffit-il de désirer arrêter de fumer pour pouvoir se libérer du tabac ?
+1. Dirigez-vous librement votre attention là où vous le souhaitez, ou bien est-ce votre téléphone qui en est maître ?
+1. La liberté personnelle peut-elle exister lorsqu'on est sous l’emprise d’un trouble mental ?
+1. Vouloir faire médecine comme ses parents, est-ce un choix personnel ?
+1. Est-on responsable de ses choix si on est sous l'influence de stéréotypes ou d'une idéologie ?
+1. Les femmes ont-elles moins de libertés que les hommes ?
 
-#### Dans quelle mesure sommes-nous libres ?<!-- fit -->
 
-<div class="puces">
+<!-- 
+réflexe
+esclave
 
-- Vouloir partir en vacances
-- Faire de l'humour
-- Une personne en prison
-- Un⋅e artiste qui crée une œuvre choquante
-- Un enfant qui porte un uniforme scolaire
-- Une personne qui a un handicap
-- Retirer sa main au contact d'un objet brûlant
-- Un adulte par rapport à un enfant
-- Un riche par rapport à un pauvre
-- Un esclave
-- Penser par soi-même et faire preuve d’esprit critique
-- Être menacé par quelqu'un
-- Une personne raciste
-- Désirer arrêter de fumer, mais continuer à le faire
-- Agir de manière impulsive, 
-- Avoir une addiction
-- Être sans cesse distrait par les réseaux sociaux
-- Avoir une phobie
-- Se comporter conformément <br>aux stéréotypes masculins ou féminins
-- Être endoctriné
-- Être sous l’emprise d’une maladie mentale
-- Acheter quelque chose
-- Vouloir faire médecine comme ses parents
-- Croire en Dieu
-</div>
-
+racisme
+-->
 
 ---
 <!-- _class: fm -->
@@ -136,7 +112,7 @@ hr{padding:1px!important; background-color:#777!important}
 
 |Liberté d'action|Libre arbitre|
 |:-:|:-:|
-|<span data-marpit-fragment="1">La liberté de circulation<br>La liberté d'expression<br>Les droits civils et politiques</span><hr><span data-marpit-fragment="2">≠ La prison, <br>la dictature, <br>la censure</span>|<span data-marpit-fragment="3">Penser par soi-même<br>Être capable de maîtriser ses<br> impulsions</span><hr><span data-marpit-fragment="4">≠ Être endoctriné, être sous l'emprise d'un trouble psychique</span>|
+|<span data-marpit-fragment="1">La liberté de circulation<br>La liberté d'expression<br>Les droits civils et politiques</span><hr><span data-marpit-fragment="2">≠ L'esclavage, la prison, <br>la dictature, la censure</span>|<span data-marpit-fragment="3">Penser par soi-même<br>Être capable de maîtriser ses<br> impulsions</span><hr><span data-marpit-fragment="4">≠ Être endoctriné, être sous l'emprise d'un trouble psychique</span>|
 
 </div>
 
