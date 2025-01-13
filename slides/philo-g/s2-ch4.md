@@ -5,11 +5,85 @@ paginate: true
 size: 4:3
 ---
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leader-line/1.0.3/leader-line.min.js" integrity="sha512-aFBNsI3+D6ObLLtyKwdZPZzDbcCC6+Bh+2UNV8HC0R95BpcBT+dmmZ5NMpJi/Ic8uO0W7FGcg33IfuHg+7Ryew==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+const lastPage=4
+let currentSlide = 1;
+let slideHandlers = [];
+function updateCurrentSlide() {
+    currentSlide = Number(window.location.hash.substring(1));
+    slideHandlers[currentSlide]();
+}
+document.addEventListener("DOMContentLoaded", updateCurrentSlide)
+function handleKeydown(event) {
+    if (event.key === "ArrowRight") {
+            currentSlide = currentSlide==lastPage ? currentSlide : currentSlide + 1;
+        } else if (event.key === "ArrowLeft") {
+            currentSlide = currentSlide == 1 ? 1 : currentSlide-1;
+        }
+
+    if (slideHandlers[currentSlide]) {
+            slideHandlers[currentSlide]();
+        }
+}
+document.addEventListener("keydown", handleKeydown);
+</script>
+
+
+
 <!-- _class: titre -->
 # Chapitre 4 :<br>Le libre arbitre <!-- fit -->
 Cédric Eyssette (2024-2025)
 https://eyssette.forge.apps.education.fr/
 
+
+
+---
+<!-- _class: pp -->
+<style scoped>
+section section{display:flex;}
+section section div{margin-top:0.4em
+}
+section section div:nth-of-type(1) {width:110%;}
+section section div p {margin-top:1em; font-size:0.8em;color:#4a47b1}
+p strong{color:black}
+</style>
+
+<script>
+    function drawLinesSlide2() {
+    new LeaderLine(
+  document.getElementById('a1e1'),
+  document.getElementById('a1e2'));
+    }
+    slideHandlers[2] = drawLinesSlide2
+</script>
+
+La liberté = <span id="a1e1">pouvoir faire</span> ce que je veux
+
+<section>
+
+<div>
+
+**<span id="a1e2">liberté d'action</span>**
+
+pouvoir agir dans <br>le monde extérieur <br>sans obstacles
+</div>
+
+<div>
+
+**liberté de la volonté**
+
+pouvoir prendre intérieurement des décisions de manière autonome
+</div>
+
+</section>
+
+
+
+---
+<!-- _class: i1t0 pp -->
+![](https://minio.apps.education.fr/codimd-prod/uploads/upload_7be33ea9fbf119c5333a7b9035f37298.png)
 
 ---
 <!-- _class: -->
