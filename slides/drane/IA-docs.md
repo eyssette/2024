@@ -458,11 +458,12 @@ img {height:500px}
 
 **La règle des 3R**
 
-![](https://media.licdn.com/dms/image/v2/D4D22AQEuPA1X2_9xzQ/feedshare-shrink_800/B4DZO_IXxqGoAg-/0/1734078465438?e=1739404800&v=beta&t=xQ_KVeXtnBtVIgrJKqLodCa5S7s1V-RuxOOTXb1QUnQ)
+[![](https://minio.apps.education.fr/codimd-prod/uploads/upload_a99fc3bbfec6c3352b5d9d4b70f28dcb.png)](https://mymarkmap.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/mindmap/3R-IAG.md)
 
 
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: i1t1 vertical pp -->
+### Comment prompter ? 
 
 ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_0bf010afcae87429755f4317f092fbd7.png)
 
