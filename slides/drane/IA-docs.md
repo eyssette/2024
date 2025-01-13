@@ -38,7 +38,7 @@ Source : [Guide sur les IA génératives de l'UNIGE](https://www.unige.ch/numeri
 ---
 <!-- _class:  -->
 <style scoped>
-section {font-size:4em;}
+section {font-size:3.9em;}
 </style>
 
 ### Plan
@@ -67,7 +67,7 @@ span{font-weight:normal;display:block; margin-top:0.5em; text-align:center}
 ---
 <!-- _class: i1t1 vertical -->
 
-La philosophie classique : l'intelligence comme propre de l'homme
+La philosophie classique :<br> l'intelligence comme propre de l'homme
 
 ![](https://www.musee-rodin.fr/sites/default/files/styles/scale_w1000_h500/public/2020-12/2017_05_23_penseur_jm016_1.jpg?itok=QxHLnDgd)
 
@@ -212,7 +212,7 @@ Une IA classique
 ---
 <!-- _class: fmm -->
 <style scoped>
-h3{text-align:center;margin-bottom:1.5em; font-size:1.5em}
+h3{text-align:center;margin-bottom:1em; font-size:1.5em}
 p{margin:auto; margin-top:1.5em; text-align:center}
 .beforebox{width:280px;display:inline-block;vertical-align:middle;text-align:right; padding-right:0.75em}
 .box{border:1px solid black; padding:20px 30px;vertical-align:middle; margin-left:0.75em;margin-right:0.75em; display:inline-block;width:150px}
@@ -249,7 +249,7 @@ grâce à un algorithme, on peut à partir des contraintes des profs, des élèv
 ---
 <!-- _class: fmmm -->
 <style scoped>
-h3{text-align:center;margin-bottom:1.5em; font-size:1.5em}
+h3{text-align:center;margin-bottom:1em; font-size:1.5em}
 p{margin:auto; margin-top:2em; text-align:center}
 .beforebox{width:200px;display:inline-block;vertical-align:middle;text-align:right; padding-right:0.75em}
 .box{border:1px solid black; padding:20px 30px;vertical-align:middle; margin-left:0.75em;margin-right:0.5em; display:inline-block;width:190px; font-size:0.9em}
@@ -444,9 +444,32 @@ droit d'auteur / normes écologiques
 Deuxième partie
 
 
+
+
 ---
 <!-- _class: souspartie -->
-## A. Typologie des <br>usages pédagogiques <!-- fit -->
+## A. Comment bien <br>utiliser les IA ? <!-- fit -->
+
+---
+<!-- _class: i1t1 vertical pp -->
+<style scoped>
+img {height:500px}
+</style>
+
+**La règle des 3R**
+
+![](https://media.licdn.com/dms/image/v2/D4D22AQEuPA1X2_9xzQ/feedshare-shrink_800/B4DZO_IXxqGoAg-/0/1734078465438?e=1739404800&v=beta&t=xQ_KVeXtnBtVIgrJKqLodCa5S7s1V-RuxOOTXb1QUnQ)
+
+
+---
+<!-- _class: i1t0 pp -->
+
+![](https://minio.apps.education.fr/codimd-prod/uploads/upload_0bf010afcae87429755f4317f092fbd7.png)
+
+
+---
+<!-- _class: souspartie -->
+## B. Typologie des <br>usages pédagogiques <!-- fit -->
 
 ---
 <!-- _class:  -->
@@ -495,28 +518,6 @@ img {height:500px; display:block; margin:auto}
 ![](qrCode-IA-concevoirRessource.png)
 
 https://url.forge.apps.education.fr/#7
-
-
-
----
-<!-- _class: souspartie -->
-## B. Comment bien <br>utiliser les IA ? <!-- fit -->
-
----
-<!-- _class: i1t1 vertical pp -->
-<style scoped>
-img {height:500px}
-</style>
-
-**La règle des 3R**
-
-![](https://media.licdn.com/dms/image/v2/D4D22AQEuPA1X2_9xzQ/feedshare-shrink_800/B4DZO_IXxqGoAg-/0/1734078465438?e=1739404800&v=beta&t=xQ_KVeXtnBtVIgrJKqLodCa5S7s1V-RuxOOTXb1QUnQ)
-
-
----
-<!-- _class: i1t0 pp -->
-
-![](https://minio.apps.education.fr/codimd-prod/uploads/upload_0bf010afcae87429755f4317f092fbd7.png)
 
 ---
 <!-- _class: partie -->
