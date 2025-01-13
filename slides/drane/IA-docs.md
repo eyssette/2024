@@ -58,13 +58,13 @@ Première partie
 
 ---
 <!-- _class: souspartie -->
-## A. <br>Une question philosophique :<br> la nature de l'intelligence <!-- fit -->
+## A. <br>Une question philosophique :<br> l'IA remet-elle en question <br>la singularité de l'intelligence<br> humaine ? <!-- fit -->
 
 
 ---
 <!-- _class: i1t1 vertical -->
 
-L'intelligence est-elle <br>le propre de l'être humain ?
+La philosophie classique : l'intelligence comme propre de l'homme
 
 ![](https://www.musee-rodin.fr/sites/default/files/styles/scale_w1000_h500/public/2020-12/2017_05_23_penseur_jm016_1.jpg?itok=QxHLnDgd)
 
@@ -82,6 +82,8 @@ raisonner (rapport à soi)
 juger, décider (rapport au monde)
 discuter (rapport aux autres)
 
+
+dualisme
 
 -->
 
@@ -166,37 +168,123 @@ rapport au corps : cognition incarnée
 
 ---
 <!-- _class: souspartie -->
-## B. Une question technique<br> et scientifique : l'IA, <br>comment ça fonctionne ?<!-- fit -->
+## B. Une question <br> technique et scientifique : <br>comment ça marche ?<!-- fit -->
 
 
 ---
 <!-- _class: etape -->
-### 1/ De l'IA symbolique <br>à l'IA connexioniste
+### 2/ Deux types d'IA
 
 
 ---
 <!-- _class:  -->
+### a) L'IA classique : une IA symbolique <!-- fit -->
+
+= une modélisation du raisonnement par la manipulation de symboles et de règles explicites.
+
+On a ici **une intelligence qui existe avant** : on a d'abord modélisé la résolution du problème sous la forme d'un algorithme.
+
+<!-- avant le système artificiel qui l'implémente -->
+
+---
+<!-- _class: i1t1 vertical  -->
+#### Algorithme de Dijkstra
+
+![](https://minio.apps.education.fr/codimd-prod/uploads/upload_543c0e31721514114c32309f2d601db1.png)
+
+
+---
+<!-- _class:  -->
+
+Une IA classique
+
+= un système **logico-déductif** qui applique des règles générales à des cas particuliers.
+
+Il faut d'abord avoir l'intelligence du problème avant de trouver la solution.
+
+
+---
+<!-- _class: fmm -->
 <style scoped>
-p:nth-of-type(2) {margin-top:0.5em}
+h3{text-align:center;margin-bottom:1.5em; font-size:1.5em}
+p{margin:auto; margin-top:1.5em; text-align:center}
+.beforebox{width:280px;display:inline-block;vertical-align:middle;text-align:right; padding-right:0.75em}
+.box{border:1px solid black; padding:20px 30px;vertical-align:middle; margin-left:0.75em;margin-right:0.75em; display:inline-block;width:150px}
+.afterbox{width:130px;display:inline-block;vertical-align:middle; padding-left:0.5em}
+.metaphor{font-weight:bold}
+.metaphor .box {border-width:3px}
 </style>
+### Une métaphore
 
-Premiers modèles d'IA : IA symbolique et déductive.
-<span data-marpit-fragment="1">&rarr; les systèmes experts (exemple : l'ordinateur Watson conçu pour gagner au jeu Jeopardy)</span>
+<span class="metaphor"><span class="beforebox">Ingrédients</span> &rarr; <span class="box">Recette</span> &rarr; <span class="afterbox">Gâteau</span></span>
 
-<span data-marpit-fragment="2">Changement de paradigme : l'IA devient statistique, inductive et connexioniste</span>
-<span data-marpit-fragment="3">&rarr; AlphaGo puis AlphaGo Zero</span>
+<span class="beforebox">Carte, point de <br>départ, point <br>d'arrivée</span> &rarr; <span class="box">Algorithme</span> &rarr;  <span class="afterbox">Trajet</span>
+
+<span class="beforebox">Contraintes des professeurs, des élèves et des salles</span> &rarr; <span class="box">Algorithme</span> &rarr;  <span class="afterbox">Emploi du temps</span>
+
+
+<!-- 
+Cours de [Chloé-Agathe Azencott](https://cazencott.info/dotclear/public/lectures/2021-05-cours-Azencott.pdf)
+ -->
+
+<!-- grâce à un algorithme, on peut à partir d'une carte, d'un point de départ et d'un point d'arrivée, calculer le meilleur trajet possible
+
+grâce à un algorithme, on peut à partir des contraintes des profs, des élèves et des salles, produire le meilleur emploi du temps possible (ou pas … ;)  -->
 
 ---
-<!-- _class: etape -->
-### 2/ IA / Machine learning / <br>Deep learning
+<!-- _class:  -->
+### b) L'apprentissage automatique
+
+= la capacité d'un système à apprendre à partir des données, plutôt que d'être explicitement programmé au préalable avec des règles fixes.
+
+On a ici **une intelligence qui existe après l'entraînement**, à travers l'expérience acquise par le système.
+
 
 ---
-<!-- _class: pp -->
+<!-- _class: fmmm -->
 <style scoped>
+h3{text-align:center;margin-bottom:1.5em; font-size:1.5em}
+p{margin:auto; margin-top:2em; text-align:center}
+.beforebox{width:200px;display:inline-block;vertical-align:middle;text-align:right; padding-right:0.75em}
+.box{border:1px solid black; padding:20px 30px;vertical-align:middle; margin-left:0.75em;margin-right:0.5em; display:inline-block;width:190px; font-size:0.9em}
+.afterbox{width:230px;display:inline-block;vertical-align:middle; padding-left:0.5em}
+.metaphor{font-weight:bold}
+.metaphor .box {border-width:3px}
+</style>
+### Une métaphore
+
+<span class="metaphor"><span class="beforebox">(Ingrédients, <br>gâteau,<br> goût)_* n_</span> &rarr; <span class="box">Apprentissage</span> &rarr; <span class="afterbox">Recette</span></span>
+
+<span class="beforebox">(Visages <br>souriants … <br>ou pas)_* n_</span> &rarr; <span class="box">Apprentissage</span> &rarr;  <span class="afterbox">Reconnaissance de visages</span>
+
+<span class="beforebox">(Données statistiques)<br>_* n_</span> &rarr; <span class="box">Apprentissage</span> &rarr;  <span class="afterbox">Prédiction d'événements</span>
+
+
+<!-- 
+Cours de [Chloé-Agathe Azencott](https://cazencott.info/dotclear/public/lectures/2021-05-cours-Azencott.pdf)
+ -->
+
+---
+<!-- _class: fpppppp -->
+
+L'apprentissage automatique
+
+= un système **inductif** qui part de données pour produire un modèle de classification ou de prédiction.
+
+Cela nécessite un grand nombre de données.
+
+L'apprentissage automatique classique repose essentiellement sur des méthodes statistiques qui en fin de compte produisent un algorithme interprétable.
+
+<!-- on dit plutôt modèle qu'algorithme
+Pas vraiment une recette -->
+---
+<!-- _class: pp fppppp-->
+<style scoped>
+p {position:absolute; top:10px}
 ol {list-style-type:none!important; margin-left:80px}
 ol li {
-  width: 700px;
-  height: 700px;
+  width: 500px;
+  height: 500px;
   line-height: 120px;
   border-radius: 50%;
   font-size: 50px;
@@ -204,27 +292,51 @@ ol li {
   font-weight: bold;
   text-align: center;
 }
-ol li {position:absolute; top:10px}
+ol li {position:absolute; top:180px; left:260px}
 ol li:nth-of-type(1) {background-color: #020024}
-ol li:nth-of-type(2) {background-color: #14145e; width:400px; height:400px; margin:150px; line-height: 150px; font-size:0.7em}
-ol li:nth-of-type(3) {background-color: #8786c6; width:200px; height:200px; margin:250px; line-height: 210px; font-size:0.5em}
+ol li:nth-of-type(2) {background-color: #14145e; width:330px; height:330px; margin:130px; line-height: 150px; font-size:0.6em}
+ol li:nth-of-type(3) {background-color: #8786c6; width:180px; height:180px; margin:245px; line-height: 210px; font-size:0.5em}
 </style>
 
-1) IA
-2) Machine learning
-3) Deep learning
+Une évolution de l'apprentissage automatique (_machine learning_) : l'apprentissage profond (_deep learning_).
+
+1. IA
+2. Machine learning
+3. Deep learning
+
+
+---
+<!-- _class: fpp -->
+<style scoped>
+img {height:500px; display: block; margin:auto}
+</style>
+On utilise des réseaux de neurones, avec plusieurs couches et un très grand nombre de paramètres.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/FeedForwardNN.png/800px-FeedForwardNN.png?20170428065552)
 
 
 ---
 <!-- _class: i1t1 vertical -->
 <style scoped>
-p {font-size:0.8em}
+p{text-align:left!important; padding-left:60px}
 </style>
 
-![](https://cdn.masto.host/scholarsocial/media_attachments/files/110/650/356/011/527/319/original/36d79dce16f1ac3c.png)
+Un neurone formel
 
-Cours de [Chloé-Agathe Azencott](https://cazencott.info/dotclear/public/lectures/2021-05-cours-Azencott.pdf)
+[![](https://upload.wikimedia.org/wikipedia/commons/b/b7/Sch%C3%A9ma_d%27un_neurone_artificiel.JPG?20121216211045)](https://upload.wikimedia.org/wikipedia/commons/b/b7/Sch%C3%A9ma_d%27un_neurone_artificiel.JPG?20121216211045)
 
+
+---
+<!-- _class: fmm -->
+<style scoped>
+img {height:500px; display: block; margin:auto}
+</style>
+![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Example_of_a_deep_neural_network.png)
+
+
+Ce type d'apprentissage réclame encore plus de données et de paramètres. Il produit un résultat qui n'est pas interprétable.
+
+<!-- boîte noire -->
 
 ---
 <!-- _class: etape -->
