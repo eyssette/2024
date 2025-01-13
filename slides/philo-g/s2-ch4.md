@@ -13,20 +13,19 @@ https://eyssette.forge.apps.education.fr/
 
 
 ---
-<!-- _class: pp fppppppp -->
+<!-- _class: pp -->
 <style scoped>
-section {font-family: cursive;}
 section section{display:flex;}
 section section div{margin-top:2em
-}
-section section div:nth-of-type(1) {width:110%;}
+}   
+section section div:nth-of-type(1) {width:120%;}
 section section div p {margin-top:1em; font-size:0.8em;color:#4a47b1}
 p:nth-of-type(2){color:black}
 u{text-decoration:none!important; border-bottom: 2px solid black;
 padding-bottom:10px;color:black!important}
-.arrow{position:absolute;top:200px;color:black;}
-div:nth-of-type(1) .arrow{left:300px;transform: rotate(150deg) scale(4,0.9);}
-div:nth-of-type(2) .arrow{left:700px;transform: rotate(110deg) scale(2.6,0.9);top:205px}
+.arrow{position:absolute;top:190px;color:black;}
+div:nth-of-type(1) .arrow{left:300px;transform: rotate(150deg) scale(6,0.9);}
+div:nth-of-type(2) .arrow{left:750px;transform: rotate(110deg) scale(3.6,0.9);top:193px}
 </style>
 
 La liberté = <u>pouvoir faire</u> ce que <u>je veux</u>
