@@ -410,6 +410,10 @@ Une thèse très contestable : la neutralité de la technique <span class="small
 3) **Inégalités géopolitiques et perte de souveraineté :** l'IA repose sur de gros investissement par des entreprises qui dominent le marché, créant un monopole qui renforce les inégalités géopolitiques et réduit la souveraineté des autres nations
 
 
+<!-- deepfakes
+répercussions économies
+coût humain de l'apprentissage -->
+
 ---
 <!-- _class: pp fppp -->
 
@@ -438,6 +442,11 @@ droit d'auteur / normes écologiques
 # II - <br>Côté profs <br>[:link:](https://markpage.forge.apps.education.fr/#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
 <!-- fit -->
 Deuxième partie
+
+
+---
+<!-- _class: souspartie -->
+## A. Typologie des <br>usages pédagogiques <!-- fit -->
 
 ---
 <!-- _class:  -->
@@ -488,6 +497,27 @@ img {height:500px; display:block; margin:auto}
 https://url.forge.apps.education.fr/#7
 
 
+
+---
+<!-- _class: souspartie -->
+## B. Comment bien <br>utiliser les IA ? <!-- fit -->
+
+---
+<!-- _class: i1t1 vertical pp -->
+<style scoped>
+img {height:500px}
+</style>
+
+**La règle des 3R**
+
+![](https://media.licdn.com/dms/image/v2/D4D22AQEuPA1X2_9xzQ/feedshare-shrink_800/B4DZO_IXxqGoAg-/0/1734078465438?e=1739404800&v=beta&t=xQ_KVeXtnBtVIgrJKqLodCa5S7s1V-RuxOOTXb1QUnQ)
+
+
+---
+<!-- _class: i1t0 pp -->
+
+![](https://minio.apps.education.fr/codimd-prod/uploads/upload_0bf010afcae87429755f4317f092fbd7.png)
+
 ---
 <!-- _class: partie -->
 # III - <br>Côté élèves <!-- fit -->
@@ -502,7 +532,12 @@ Troisième partie
 <!-- _class:  -->
 1) Approche institutionnelle : IA et évaluation
 2) Approche EMI & EMC
-3) Approche philosophique et littéraire
+3) Approche “Culture numérique” (philosophie, littérature, NSI, Maths …)
+
+<!-- 
+Question du plagiat : pas d'outil de détection
+questionne l'évaluation : formative ?
+-->
 
 ---
 <!-- _class: souspartie -->
