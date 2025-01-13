@@ -213,7 +213,7 @@ Une IA classique
 <!-- _class: fmm -->
 <style scoped>
 h3{text-align:center;margin-bottom:1em; font-size:1.5em}
-p{margin:auto; margin-top:1.5em; text-align:center}
+p{margin:0; margin-top:1.5em; text-align:center}
 .beforebox{width:280px;display:inline-block;vertical-align:middle;text-align:right; padding-right:0.75em}
 .box{border:1px solid black; padding:20px 30px;vertical-align:middle; margin-left:0.75em;margin-right:0.75em; display:inline-block;width:150px}
 .afterbox{width:130px;display:inline-block;vertical-align:middle; padding-left:0.5em}
@@ -249,8 +249,8 @@ grâce à un algorithme, on peut à partir des contraintes des profs, des élèv
 ---
 <!-- _class: fmmm -->
 <style scoped>
-h3{text-align:center;margin-bottom:1em; font-size:1.5em}
-p{margin:auto; margin-top:2em; text-align:center}
+h3{text-align:center;margin-bottom:0.em; font-size:1.5em}
+p{margin:0; margin-top:1.5em; text-align:center}
 .beforebox{width:200px;display:inline-block;vertical-align:middle;text-align:right; padding-right:0.75em}
 .box{border:1px solid black; padding:20px 30px;vertical-align:middle; margin-left:0.75em;margin-right:0.5em; display:inline-block;width:190px; font-size:0.9em}
 .afterbox{width:230px;display:inline-block;vertical-align:middle; padding-left:0.5em}
@@ -352,8 +352,8 @@ span {font-weight:normal}
 </style>
 ### Principes <span>(cas d'une IAG de textes)</span> <!-- fit -->
 
-1) Que fait une IAG ? De la prédiction de mots, ou plus précisément de _tokens_ [:link:](https://fr.vittascience.com/ia/text.php) <span data-marpit-fragment="1">**&rArr; problématique des “hallucinations”**</span>
-2) Comment est-ce possible ? Entraînement sur une quantité immense de textes (_LLM_) + ajustements et rétroaction humaine <span data-marpit-fragment="2">**&rArr; problématique des “biais”**</span>
+1) Que fait une IAG ? De la prédiction de mots, ou plus précisément de _tokens_ [:link:](https://fr.vittascience.com/ia/text.php) <span data-marpit-fragment="1"><br>**&rArr; problématique des “hallucinations”**</span>
+2) Comment est-ce possible ? Entraînement sur une quantité immense de textes (_LLM_) + ajustements et rétroaction humaine <span data-marpit-fragment="2"><br>**&rArr; problématique des “biais”**</span>
 
 
 <!-- 
