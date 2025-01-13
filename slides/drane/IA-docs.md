@@ -517,7 +517,7 @@ Troisième partie
 
 <span data-marpit-fragment="1">Exemples : [MIA Seconde](https://www.ac-paris.fr/mia-seconde-un-service-numerique-de-remediation-en-francais-et-en-mathematiques-131013)</span>
 
-<span data-marpit-fragment="2">Un outil pour créer son propre chatbot (sans les hallucinations possibles d'une IA générative) : [ChatMD](https://eyssette.github.io/chatMD)</span>
+<span data-marpit-fragment="2">Un outil pour créer son propre chatbot (sans les hallucinations possibles d'une IA générative) : [ChatMD](https://chatmd.forge.apps.education.fr)</span>
 
 <!-- 
 PhiloGPT : vidéo
