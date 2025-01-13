@@ -43,11 +43,11 @@ section {font-size:4em;}
 
 ### Plan
 
-<span data-marpit-fragment="1">I - Quelques repères fondamentaux</span>
+<span data-marpit-fragment="1">**I** - Quelques repères fondamentaux</span>
 
-<span data-marpit-fragment="2">II - Côté profs</span>
+<span data-marpit-fragment="2">**II** - Côté profs</span>
 
-<span data-marpit-fragment="3">III - Côté élèves</span>
+<span data-marpit-fragment="3">**III** - Côté élèves</span>
 
 
 ---
@@ -58,7 +58,10 @@ Première partie
 
 ---
 <!-- _class: souspartie -->
-## A. <br>Une question philosophique :<br> l'IA remet-elle en question <br>la singularité de l'intelligence<br> humaine ? <!-- fit -->
+<style scoped>
+span{font-weight:normal;display:block; margin-top:0.5em; text-align:center}
+</style>
+## A. <br>Une question philosophique :<br> <span>L'IA remet-elle en question <br>la singularité de l'intelligence<br> humaine ?</span> <!-- fit -->
 
 
 ---
@@ -168,21 +171,24 @@ rapport au corps : cognition incarnée
 
 ---
 <!-- _class: souspartie -->
-## B. Une question <br> technique et scientifique : <br>comment ça marche ?<!-- fit -->
+<style scoped>
+span{font-weight:normal;display:block; text-align:center; margin-top:0.5em}
+</style>
+## B. Une question <br> technique et scientifique : <br><span>Comment ça marche ?</span><!-- fit -->
 
 
 ---
 <!-- _class: etape -->
-### 2/ Deux types d'IA
+### 1/ Deux types d'IA
 
 
 ---
 <!-- _class:  -->
 ### a) L'IA classique : une IA symbolique <!-- fit -->
 
-= une modélisation du raisonnement par la manipulation de symboles et de règles explicites.
+<span data-marpit-fragment="1">= une modélisation du raisonnement par la manipulation de symboles et de règles explicites.</span>
 
-On a ici **une intelligence qui existe avant** : on a d'abord modélisé la résolution du problème sous la forme d'un algorithme.
+<span data-marpit-fragment="2">On a ici **une intelligence qui existe avant** </span><span data-marpit-fragment="3">: on a d'abord modélisé la résolution du problème sous la forme d'un algorithme.</span>
 
 <!-- avant le système artificiel qui l'implémente -->
 
@@ -200,7 +206,7 @@ Une IA classique
 
 = un système **logico-déductif** qui applique des règles générales à des cas particuliers.
 
-Il faut d'abord avoir l'intelligence du problème avant de trouver la solution.
+<span data-marpit-fragment="1">Il faut d'abord avoir l'intelligence du problème avant de trouver la solution.</span>
 
 
 ---
@@ -218,9 +224,9 @@ p{margin:auto; margin-top:1.5em; text-align:center}
 
 <span class="metaphor"><span class="beforebox">Ingrédients</span> &rarr; <span class="box">Recette</span> &rarr; <span class="afterbox">Gâteau</span></span>
 
-<span class="beforebox">Carte, point de <br>départ, point <br>d'arrivée</span> &rarr; <span class="box">Algorithme</span> &rarr;  <span class="afterbox">Trajet</span>
+<span data-marpit-fragment="1"><span class="beforebox">Carte, point de <br>départ, point <br>d'arrivée</span> &rarr; <span class="box">Algorithme</span> &rarr;  <span class="afterbox">Trajet</span></span>
 
-<span class="beforebox">Contraintes des professeurs, des élèves et des salles</span> &rarr; <span class="box">Algorithme</span> &rarr;  <span class="afterbox">Emploi du temps</span>
+<span data-marpit-fragment="2"><span class="beforebox">Contraintes des professeurs, des élèves et des salles</span> &rarr; <span class="box">Algorithme</span> &rarr;  <span class="afterbox">Emploi du temps</span></span>
 
 
 <!-- 
@@ -235,9 +241,9 @@ grâce à un algorithme, on peut à partir des contraintes des profs, des élèv
 <!-- _class:  -->
 ### b) L'apprentissage automatique
 
-= la capacité d'un système à apprendre à partir des données, plutôt que d'être explicitement programmé au préalable avec des règles fixes.
+<span data-marpit-fragment="1">= la capacité d'un système à apprendre à partir des données, plutôt que d'être explicitement programmé au préalable avec des règles fixes.</span>
 
-On a ici **une intelligence qui existe après l'entraînement**, à travers l'expérience acquise par le système.
+<span data-marpit-fragment="2">On a ici **une intelligence qui existe après l'entraînement**</span><span data-marpit-fragment="3">, à travers l'expérience acquise par le système.</span>
 
 
 ---
@@ -255,9 +261,9 @@ p{margin:auto; margin-top:2em; text-align:center}
 
 <span class="metaphor"><span class="beforebox">(Ingrédients, <br>gâteau,<br> goût)_* n_</span> &rarr; <span class="box">Apprentissage</span> &rarr; <span class="afterbox">Recette</span></span>
 
-<span class="beforebox">(Visages <br>souriants … <br>ou pas)_* n_</span> &rarr; <span class="box">Apprentissage</span> &rarr;  <span class="afterbox">Reconnaissance de visages</span>
+<span data-marpit-fragment="1"><span class="beforebox">(Visages <br>souriants … <br>ou pas)_* n_</span> &rarr; <span class="box">Apprentissage</span> &rarr;  <span class="afterbox">Reconnaissance de visages</span></span>
 
-<span class="beforebox">(Données statistiques)<br>_* n_</span> &rarr; <span class="box">Apprentissage</span> &rarr;  <span class="afterbox">Prédiction d'événements</span>
+<span data-marpit-fragment="2"><span class="beforebox">(Données statistiques)<br>_* n_</span> &rarr; <span class="box">Apprentissage</span> &rarr;  <span class="afterbox">Prédiction d'événements</span></span>
 
 
 <!-- 
@@ -271,48 +277,34 @@ L'apprentissage automatique
 
 = un système **inductif** qui part de données pour produire un modèle de classification ou de prédiction.
 
-Cela nécessite un grand nombre de données.
+<span data-marpit-fragment="1">Cela nécessite un grand nombre de données.</span>
 
-L'apprentissage automatique classique repose essentiellement sur des méthodes statistiques qui en fin de compte produisent un algorithme interprétable.
+<span data-marpit-fragment="2">L'apprentissage se fait soit de manière supervisée (avec des données d'observation et des évaluations de ces données), soit de manière non-supervisée (avec seulement des données d'observation).</span>
 
-<!-- on dit plutôt modèle qu'algorithme
-Pas vraiment une recette -->
 ---
-<!-- _class: pp fppppp-->
-<style scoped>
-p {position:absolute; top:10px}
-ol {list-style-type:none!important; margin-left:80px}
-ol li {
-  width: 500px;
-  height: 500px;
-  line-height: 120px;
-  border-radius: 50%;
-  font-size: 50px;
-  color: white;
-  font-weight: bold;
-  text-align: center;
-}
-ol li {position:absolute; top:180px; left:260px}
-ol li:nth-of-type(1) {background-color: #020024}
-ol li:nth-of-type(2) {background-color: #14145e; width:330px; height:330px; margin:130px; line-height: 150px; font-size:0.6em}
-ol li:nth-of-type(3) {background-color: #8786c6; width:180px; height:180px; margin:245px; line-height: 210px; font-size:0.5em}
-</style>
+<!-- _class: etape -->
+### 2/ Du _machine learning_ <br>au _deep learning_
 
 Une évolution de l'apprentissage automatique (_machine learning_) : l'apprentissage profond (_deep learning_).
 
-1. IA
-2. Machine learning
-3. Deep learning
+---
+<!-- _class:  -->
 
+L'apprentissage automatique classique repose essentiellement sur des méthodes statistiques qui en fin de compte produisent un algorithme interprétable.
 
 ---
-<!-- _class: fpp -->
+<!-- _class:  -->
 <style scoped>
-img {height:500px; display: block; margin:auto}
+img {height:450px; display: block; margin:auto}
 </style>
 On utilise des réseaux de neurones, avec plusieurs couches et un très grand nombre de paramètres.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/FeedForwardNN.png/800px-FeedForwardNN.png?20170428065552)
+![](https://minio.apps.education.fr/codimd-prod/uploads/upload_ddfe210ef28456a68f3a5c391ff2ccfb.png)
+
+<!-- 
+Source : 
+https://upload.wikimedia.org/wikipedia/commons/9/9c/Discriminative_vs_Generative_Neural_Networks.png
+ -->
 
 
 ---
@@ -327,76 +319,108 @@ Un neurone formel
 
 
 ---
-<!-- _class: fmm -->
+<!-- _class:  -->
 <style scoped>
-img {height:500px; display: block; margin:auto}
+img {height:300px; display: block; margin:auto}
 </style>
+
+Ce type d'apprentissage réclame encore plus de données et de paramètres.
+
+<span data-marpit-fragment="1">Il produit un résultat qui est difficilement, voire pas du tout interprétable.</span>
+
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Example_of_a_deep_neural_network.png)
 
-
-Ce type d'apprentissage réclame encore plus de données et de paramètres. Il produit un résultat qui n'est pas interprétable.
-
 <!-- boîte noire -->
+
+<!-- 
+Deep Learning
+empirisme pur
+contredit à une exigence du rationalisme : exigence d'explicabilité
+pose un problème éthique
+ -->
 
 ---
 <!-- _class: etape -->
 ### 3/ Les IA génératives
 
+= Une évolution du _deep learning_
 
 ---
-<!-- _class:  -->
+<!-- _class: fppppp -->
+<style scoped>
+span {font-weight:normal}
+</style>
+### Principes <span>(cas d'une IAG de textes)</span> <!-- fit -->
 
-1) Premier principe : les _embeddings_ ou vecteurs de mots
-2) Deuxième principe : la prédiction de _tokens_
-3) _Prompts_ / _RAG_ / _Fine-tuning_
-
+1) Que fait une IAG ? De la prédiction de mots, ou plus précisément de _tokens_ [:link:](https://fr.vittascience.com/ia/text.php) <span data-marpit-fragment="1">**&rArr; problématique des “hallucinations”**</span>
+2) Comment est-ce possible ? Entraînement sur une quantité immense de textes (_LLM_) + ajustements et rétroaction humaine <span data-marpit-fragment="2">**&rArr; problématique des “biais”**</span>
 
 
 <!-- 
+D'où hallucinations
+D'où biais dans les données
 
-IA générative
-prédiction / vérité
-prompt
+Idem pour une image : bruit, prédiction de pixels
 
-
-IA symbolique / fonctionnalisme /représentationalisme
-connexionisme ; réseaux de neurones
-
-
+1) Premier principe : la prédiction de _tokens_
+2) Deuxième principe : les _embeddings_
+3) Troisième principe : le _prompt_ -->
 
 
-Deep Learning
-empirisme pur
-contredit à une exigence du rationalisme : exigence d'explicabilité
-
-déduction / induction
-
-prompt / RAG / fine-tuning
-
--->
 
 
 ---
 <!-- _class: souspartie -->
-## C. Des questions <br>éthiques, sociales,<br>juridiques et politiques <!-- fit -->
+## C. Des questions <br>juridiques, sociales, <br>politiques, éthiques<br> et environnementales <!-- fit -->
 
 
 ---
-<!-- _class: i1t1 vertical -->
-Lignes directrices éthiques sur l’utilisation de l’intelligence artificielle [:link:](https://drane.ac-lyon.fr/spip/Lignes-directrices-ethiques-utilisation-IA)
+<!-- _class: fpppppppp-->
+<style scoped>
+.small {font-size:0.9em}
+</style>
 
-[![](https://i.ibb.co/SvH1Y99/lignes-directrices-IA-considerations-ethiques.png)](https://mymarkmap.netlify.app/#https://raw.githubusercontent.com/eyssette/mindmap/main/lignes-directrices-IA-considerations-ethiques.md)
+Une thèse très contestable : la neutralité de la technique <span class="small">(« Ce n'est qu'un outil », « Tout dépend de l'usage »)</span>
 
----
-<!-- _class:  -->
-
-Une thèse très contestable : la neutralité de la technique.
-
-<span data-marpit-fragment="1">Trois objections possibles :</span>
+<span data-marpit-fragment="1">&rarr; Trois objections possibles :</span>
 
 1) L'autonomie de la technique
 2) Le déterminisme technique
 3) La normativité de la technique
+
+
+---
+<!-- _class: pp f -->
+
+![](https://minio.apps.education.fr/codimd-prod/uploads/upload_8544ce52088f662e1214f0d371bd6b12.png)
+
+1) **Droit d'auteur :** Les IA ont été entraînées sur des corpus de données qui peuvent intégrer des œuvres protégées par le droit d'auteur
+2) **Données personnelles :** il est important de ne pas communiquer de données sensibles aux IA, car les IA s'entraînent avec les données qu'on leur fournit
+3) **Contrôle des algorithmes :** le fonctionnement des IA génératives est opaque, ce qui pose le problème du contrôle de ces algorithmes
+
+
+---
+<!-- _class: pp fmmmmmm -->
+
+
+![](https://minio.apps.education.fr/codimd-prod/uploads/upload_7cb8062e94144f37fa5d66f067d2a780.png)
+
+1) **Reproduction et renforcement des biais et discriminations :** les IA ont été entraînées sur des données qui contiennent des biais et peuvent produire des contenus très stéréotypés
+2) **Désinformation en masse et effets d'influence :** les IA peuvent être utilisées pour propager des informations fausses et manipuler l'opinion publique
+3) **Inégalités géopolitiques et perte de souveraineté :** l'IA repose sur de gros investissement par des entreprises qui dominent le marché, créant un monopole qui renforce les inégalités géopolitiques et réduit la souveraineté des autres nations
+
+
+---
+<!-- _class: pp fppp -->
+
+
+![](https://minio.apps.education.fr/codimd-prod/uploads/upload_c35d53214f3a1d945769e3f4ebd53361.png)
+
+
+1) **Délégation de la décision :** il faut savoir adopter une posture réflexive pour évaluer le type de tâche qu'on peut déléguer à une IA
+2) **Consommation énergétique massive :** l'entraînement des LLM & le maintien des serveurs consomme énormément d'énergie et d'eau
+
+
 
 <!-- 
 
@@ -411,48 +435,57 @@ droit d'auteur / normes écologiques
 
 ---
 <!-- _class: partie -->
-# II - <br>Côté profs <br>[:link:](https://eyssette.forge.aeif.fr/markpage/#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
+# II - <br>Côté profs <br>[:link:](https://markpage.forge.apps.education.fr/#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
 <!-- fit -->
 Deuxième partie
 
 ---
-<!-- _class: i1t1 vertical -->
-Trois gestes professionnels
+<!-- _class:  -->
+<style scoped>
+li {padding-left:0.3em; margin-left:0.25em}
+</style>
 
-![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/trois-gestes-professionnels.png)
+### Trois gestes professionnels
 
----
-<!-- _class: i1t1 vertical -->
-Trois usages possibles
-
-![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/trois-usages-IA.png)
-
----
-<!-- _class: souspartie -->
-## A. <br>Créer une ressource <!-- fit -->
+1) 📅 Planifier un cours, programmer une séquence, concevoir une fiche d'objectifs
+2) ✏️ Concevoir des activités et des documents pédagogiques
+3) 🎯 Préparer et corriger des évaluations
+ 
 
 ---
-<!-- _class: i1t1 vertical -->
-[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/creer-ressource-avec-IAG.png)](https://eyssette.forge.aeif.fr/markpage/?sec=1&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
+<!-- _class:  -->
+<style scoped>
+li {padding-left:0.3em; margin-left:0.25em}
+</style>
 
+### Trois types d'usages de l'IAG
 
----
-<!-- _class: souspartie -->
-## B. <br>Adapter / changer le <br>format d'une ressource <!-- fit -->
+1) 🛠️ Pour créer une ressource
+2) ♻️ Pour adapter le contenu ou changer le format d'une ressource déjà existante
+3) 📈 Pour évaluer et améliorer une ressource déjà existante
 
-
----
-<!-- _class: i1t1 vertical -->
-[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/adapter-changer-format-ressource-avec-IAG.png)](https://eyssette.forge.aeif.fr/markpage/?sec=2&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
-
----
-<!-- _class: souspartie -->
-## C. <br>Évaluer / améliorer<br> une ressource <!-- fit -->
 
 
 ---
-<!-- _class: i1t1 vertical -->
-[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/evaluer-ameliorer-ressource-avec-IA.png)](https://eyssette.forge.aeif.fr/markpage/?sec=3&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
+<!-- _class: i2t0 vertical contain pp -->
+
+[![](https://raw.githubusercontent.com/eyssette/mindmap/refs/heads/main/trois-gestes-professionnels.svg)](https://markpage.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/module/concevoir-ressources-avec-IA.md)
+
+
+[![](https://raw.githubusercontent.com/eyssette/mindmap/refs/heads/main/trois-usages-IA.svg)](https://markpage.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/module/concevoir-ressources-avec-IA.md)
+
+
+
+---
+<!-- _class: i1t1 vertical-->
+<style scoped>
+p:nth-of-type(2){margin-top:1em!important}
+img {height:500px; display:block; margin:auto}
+</style>
+
+![](qrCode-IA-concevoirRessource.png)
+
+https://url.forge.apps.education.fr/#7
 
 
 ---
@@ -462,7 +495,18 @@ Troisième partie
 
 ---
 <!-- _class: souspartie -->
-## A.  L'IA comme outil
+## A. L'IA comme objet de réflexion
+
+
+---
+<!-- _class:  -->
+1) Approche institutionnelle : IA et évaluation
+2) Approche EMI & EMC
+3) Approche philosophique et littéraire
+
+---
+<!-- _class: souspartie -->
+## B.  L'IA comme outil
 
 
 ---
@@ -471,9 +515,9 @@ Troisième partie
 - Un tuteur personnel
 - Les _learning analytics_
 
-<span data-marpit-fragment="1">Exemples : [MIA Seconde](https://www.ac-paris.fr/mia-seconde-un-service-numerique-de-remediation-en-francais-et-en-mathematiques-131013)</span><span data-marpit-fragment="2">, PhiloGPT</span>
+<span data-marpit-fragment="1">Exemples : [MIA Seconde](https://www.ac-paris.fr/mia-seconde-un-service-numerique-de-remediation-en-francais-et-en-mathematiques-131013)</span>
 
-<span data-marpit-fragment="3">Un outil pour créer son propre chatbot (sans les hallucinations possibles d'une IA générative) : [ChatMD](https://eyssette.github.io/chatMD)</span>
+<span data-marpit-fragment="2">Un outil pour créer son propre chatbot (sans les hallucinations possibles d'une IA générative) : [ChatMD](https://eyssette.github.io/chatMD)</span>
 
 <!-- 
 PhiloGPT : vidéo
@@ -481,15 +525,6 @@ MIA seconde : Projet gouvernemental (Modules Interactifs Adaptatifs)
 répétition espacée : Anki
 -->
 
----
-<!-- _class: souspartie -->
-## B. L'IA comme objet de réflexion
-
-
----
-<!-- _class:  -->
-1) Approche EMI & EMC
-2) Approche philosophique et littéraire
 
 
 ---
@@ -498,6 +533,6 @@ répétition espacée : Anki
 
 Un parcours de formation sur Magistère :
 
-["Trajectoires IA" en AURA : accompagner l'intégration des IA en éducation](https://magistere.education.fr/ac-clermont/course/view.php?id=4683&section=1)
+["Trajectoires IA" en AURA : accompagner l'intégration des IA en éducation](https://drane.ac-lyon.fr/spip/Parcours-en-auto-inscription)
 
 N'hésitez pas à me contacter pour toute question ou précision !
