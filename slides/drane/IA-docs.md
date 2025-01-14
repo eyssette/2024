@@ -28,9 +28,9 @@ img{display:block;margin-left:-20px}
 
 |||
 |:-:|:-|
-|![Panda](https://drane-lyon.forge.apps.education.fr/diaporama/img/panda.svg)|<span data-marpit-fragment="1">- Je n'ai pas envie ou ça me semble <br>trop compliqué</span><br><span data-marpit-fragment="2">- Je suis sceptique, voire très critique</span><br><span data-marpit-fragment="3">- On peut, voire on doit s'en passer !</span>|
-|![Chat](https://drane-lyon.forge.apps.education.fr/diaporama/img/chat.svg)|<span data-marpit-fragment="1">- Je veux bien tester, voire j'ai testé</span><br><span data-marpit-fragment="2">- Je ne vois pas bien ce que ça peut m'apporter dans ma pratique</span>|
-|![Corneille](https://drane-lyon.forge.apps.education.fr/diaporama/img/corneille.svg)|<span data-marpit-fragment="1">- J'ai testé et j'ai repéré des usages intéressants</span><br><span data-marpit-fragment="2">- Je souhaite les intégrer dans ma pratique, voire je l'ai déjà fait</span>|
+|![Panda](https://drane-lyon.forge.apps.education.fr/diaporama/img/panda.svg)|<span data-marpit-fragment="1">- Je n'ai pas envie ou ça me semble <br>trop compliqué<br>- Je suis sceptique, voire très critique<br>- On peut, voire on doit s'en passer !</span>|
+|![Chat](https://drane-lyon.forge.apps.education.fr/diaporama/img/chat.svg)|<span data-marpit-fragment="1">- Je veux bien tester, voire j'ai testé<br>- Je ne vois pas bien ce que ça peut m'apporter dans ma pratique</span>|
+|![Corneille](https://drane-lyon.forge.apps.education.fr/diaporama/img/corneille.svg)|<span data-marpit-fragment="1">- J'ai testé et j'ai repéré des usages intéressants<br>- Je souhaite les intégrer dans ma pratique, voire je l'ai déjà fait</span>|
 
 Source : [Guide sur les IA génératives de l'UNIGE](https://www.unige.ch/numerique/files/8317/2587/9842/Rapport_IA_Generatives_-_UNIGE_-_SEPTEMBRE_2024_15.556_x_22_cm.pdf) (sous licence CC-BY-NC-SA)
 
@@ -43,11 +43,11 @@ section {font-size:3.9em;}
 
 ### Plan
 
-<span data-marpit-fragment="1">**I** - Quelques repères fondamentaux</span>
+**I** - Quelques repères fondamentaux
 
-<span data-marpit-fragment="2">**II** - Côté profs</span>
+**II** - Côté profs
 
-<span data-marpit-fragment="3">**III** - Côté élèves</span>
+**III** - Côté élèves
 
 
 ---
@@ -103,6 +103,10 @@ Question de la mécanisation de l'intelligence
 
 ---
 <!-- _class: i2t0 -->
+<style scoped>
+p:nth-of-type(1){font-size:1.5em; margin-top:-10px!important}
+</style>
+De l'animal machine à l'homme machine
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Julien_Offray_de_La_Mettrie.jpg?uselang=fr)
 
@@ -326,9 +330,9 @@ img {height:300px; display: block; margin:auto}
 
 Ce type d'apprentissage réclame encore plus de données et de paramètres.
 
-<span data-marpit-fragment="1">Il produit un résultat qui est difficilement, voire pas du tout interprétable.</span>
-
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2f/Example_of_a_deep_neural_network.png)
+
+<span data-marpit-fragment="1">Il produit un résultat qui est difficilement, voire pas du tout interprétable.</span>
 
 <!-- boîte noire -->
 
@@ -375,19 +379,18 @@ Idem pour une image : bruit, prédiction de pixels
 
 
 ---
-<!-- _class: fpppppppp-->
+<!-- _class: f -->
 <style scoped>
 .small {font-size:0.9em}
 </style>
 
-Une thèse très contestable : la neutralité de la technique <span class="small">(« Ce n'est qu'un outil », « Tout dépend de l'usage »)</span>
+Une thèse très contestable : **la neutralité de la technique** <span class="small">(« Ce n'est qu'un outil », « Tout dépend de l'usage »)</span>
 
-<span data-marpit-fragment="1">&rarr; Trois objections possibles :</span>
+<span data-marpit-fragment="1">**Trois objections :**</span>
 
-1) L'autonomie de la technique
-2) Le déterminisme technique
-3) La normativité de la technique
-
+1) **L'autonomie de la technique** : la technique se développe selon une dynamique difficile à contrôler.
+2) **Le déterminisme technique** : la technique conduit à des transformations de la société et des individus.
+3) **La normativité de la technique** : la technique impose des normes et véhicule en elle-même des valeurs.
 
 ---
 <!-- _class: pp f -->
