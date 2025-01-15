@@ -6,8 +6,10 @@ size: 4:3
 ---
 
 <!-- _class: titre -->
-
-# Q1b – De quel droit <br>l'État exerce-t-il un<br> pouvoir sur nous ?  <!-- fit -->
+<style scoped>
+h1{padding:100px}
+</style>
+# Q1b – <br>Quels droits <br>accordons-nous<br> à l'État ? <!-- fit -->
 
 Cédric Eyssette (2024-2025)
 https://eyssette.forge.apps.education.fr/
