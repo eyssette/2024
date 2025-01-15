@@ -96,21 +96,6 @@ Deuxième partie
 <!-- _class: souspartie -->
 ## A. Approche historique
 
-
----
-<!-- _class:  -->
-<style scoped>
-section {font-size:6em}
-</style>
-Il faut distinguer la cité-État antique et l'État moderne.
-
----
-<!-- _class: citationC f-->
-![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/1/16/Max_Weber_1894.jpg)
-
->« L'État moderne est un groupement de domination de caractère institutionnel qui a cherché (avec succès) à monopoliser, dans les limites d'un territoire, la violence physique légitime comme moyen de domination et qui, dans ce but, a réuni dans les mains des dirigeants les moyens matériels de gestion. Ce qui veut dire qu'il en a exproprié tous [ceux qui] en disposaient autrefois de leur propre droit et qu'il s'est substitué à eux, même au sommet de la hiérarchie. »
->>Max **Weber**, _Le Savant et le Politique_, 1919, trad. Freund, « 10/18 », 1963, p. 132-134
-
 ---
 <!-- _class: sanspuces fmm -->
 <style>
@@ -153,16 +138,13 @@ section.sanspuces ul li:before{content:""}
 </style>
 ### 1/ Les fondements du marxisme
 
-#### <span data-marpit-fragment="1">Première idée : le déterminisme économique</span> <!-- fit -->
+#### <span data-marpit-fragment="1">Le déterminisme économique</span>
 * Les phénomènes humains s'expliquent essentiellement par des facteurs économiques.
-* C'est une forme de matérialisme : pour comprendre les humains, il faut se focaliser sur les conditions matérielles d'existence.
-
-<!-- = les moyens matériels par lesquels les êtres humains existent, agissent, pensent. -->
 
 
 ---
 <!-- _class: sanspuces fpppp -->
-#### Deuxième idée : la lutte des classes
+#### La lutte des classes
 
 * La société est divisée en classes sociales distinctes : <span data-marpit-fragment="1">une classe dominante qui possède des moyens économiques, et une classe dominée, qui ne possède que sa force de travail.</span>
 * La classe dominante lutte pour conserver et prolonger sa position de domination. <span data-marpit-fragment="1">La classe dominée a intérêt à s'opposer à la domination qu'elle subit.</span>
@@ -175,7 +157,7 @@ h4 {text-align:justify!important}
 </style>
 ### 2/ Qu'est-ce que l'État <br>d'après le marxisme ?
 
-#### <span data-marpit-fragment="1">Première idée : l'Etat comme prolongement de la lutte des classes</span>
+#### <span data-marpit-fragment="1">L'État au service de la classe dominante</span>
 * Le pouvoir politique de l'Etat sert à maintenir et renforcer la domination économique de la classe sociale dominante.
 
 
@@ -220,7 +202,7 @@ h4 {text-align:justify!important}
 </style>
 ### 3/ Que faut-il faire d'après le marxisme ?
 
-#### <span data-marpit-fragment="1">Première idée : la lutte pour une société sans domination</span>
+#### <span data-marpit-fragment="1">La lutte pour une société sans domination</span>
 * Le marxisme défend une position révolutionnaire et non pas réformiste.
 * Mais la classe dominante a pour intérêt d'empêcher cette révolution.
 
@@ -230,7 +212,7 @@ croyance aux pouvoirs de l'argumentation, de la parole : naïveté politique
 
 ---
 <!-- _class: sanspuces fppppp  -->
-#### Deuxième idée : la dictature du prolétariat <!-- fit -->
+#### La dictature du prolétariat
 * La classe dominée doit s'emparer du pouvoir de l'État.
 * Ce n'est censé être qu'une phase temporaire afin de mettre en place progressivement une société sans domination.
 
