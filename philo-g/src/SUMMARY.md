@@ -23,6 +23,8 @@
 			- [Q1b – L'identité personnelle repose-t-elle sur la mémoire ?](s2-ch3-q1b.md)
 		- [Q2 – Puis-je choisir qui je suis ?](s2-ch3-q2.md)
 	- [Chapitre 4 : Le libre arbitre](s2-ch4.md)
+		- [Q1 – Peut-on prouver l'existence du libre arbitre ?](s2-ch4-q1.md)
+		- [Q2 – Peut-on prouver l'inexistence du libre arbitre ?](s2-ch4-q2.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
