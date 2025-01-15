@@ -24,8 +24,8 @@ p:nth-of-type(2){color:black}
 u{text-decoration:none!important; border-bottom: 2px solid black;
 padding-bottom:10px;color:black!important}
 .arrow{position:absolute;top:190px;color:black;}
-div:nth-of-type(1) .arrow{left:300px;transform: rotate(150deg) scale(6,0.9);}
-div:nth-of-type(2) .arrow{left:750px;transform: rotate(110deg) scale(3.6,0.9);top:193px}
+div:nth-of-type(1) .arrow{left:300px;transform: rotate(150deg) scale(5,0.9);}
+div:nth-of-type(2) .arrow{left:750px;transform: rotate(110deg) scale(2.6,0.9);}
 </style>
 
 La liberté = <u>pouvoir faire</u> ce que <u>je veux</u>
@@ -71,8 +71,11 @@ La liberté = <u>pouvoir faire</u> ce que <u>je veux</u>
 <!-- _class: fmmmmmmmm pp -->
 <style scoped>
 ol{margin:0;margin-left:1.5em;padding:0}
-section {columns: 2; padding-left:30px; padding-right:30px;column-gap: 50px}
+div {columns: 2; padding-left:30px; padding-right:30px;column-gap: 50px}
 </style>
+
+<div>
+
 1. Êtes-vous libre de voyager où vous le souhaitez ?
 1. Peut-on rire de tout, en toute liberté ?
 1. Un adulte est-il plus libre qu’un enfant ?
@@ -89,6 +92,8 @@ section {columns: 2; padding-left:30px; padding-right:30px;column-gap: 50px}
 1. Vouloir faire médecine comme ses parents, est-ce un choix personnel ?
 1. Est-on responsable de ses choix si on est sous l'influence de stéréotypes ou d'une idéologie ?
 1. Les femmes ont-elles moins de libertés que les hommes ?
+
+<div>
 
 
 <!-- 
