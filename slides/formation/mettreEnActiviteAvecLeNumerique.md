@@ -32,7 +32,7 @@ hormis variation : ajouter importance du choix
 Première partie
 
 ---
-<!-- _class: fmmmmmmm  -->
+<!-- _class: fpppp  -->
 <style scoped>
 h3{font-size:1.3em; margin-bottom:0}
 </style>
@@ -47,13 +47,8 @@ h3{font-size:1.3em; margin-bottom:0}
 2) **Vidéos / podcasts**
 	* varier les types de vidéos
 	* trouver des vidéos
-	* récupérer un fichier, le découper, le partager
-3) **Images**
-	* varier les types d'images
-	* trouver des images
-4) **Sites interactifs**
-	* questionnaire
-	* présenter un contenu de manière scénarisée (mise en situation, choix à faire : escape game …)
+	* récupérer un fichier, le découper, <br>le partager
+
 
 <!-- 
 - textes : 
@@ -73,6 +68,22 @@ https://cobalt.tools/
 découpage d'une vidéo : avidemux
 types d'usage du cinéma : https://docs.google.com/presentation/d/1JtEgj5YTXyx0AXFqrkMmHzsnzo9gG8LaZg86s8zCNN8/edit#slide=id.g1f52bf1812_0_391
 
+-->
+
+
+
+---
+<!-- _class:  -->
+
+3) **Images**
+	* varier les types d'images
+	* trouver des images
+4) **Sites interactifs**
+	* questionnaire
+	* présenter un contenu de manière scénarisée (mise en situation, choix à faire : escape game …)
+
+<!-- 
+
 - images (photo langage)
 site pour trouver des images
 Rechercher des images libres de droit [🔗](https://commons.wikimedia.org/wiki/Main_Page) [🔗](https://search.creativecommons.org/search?q=), des photographies d'œuvres d'art [🔗](https://artsandculture.google.com/) [🔗](https://art.rmngp.fr/fr) [🔗](https://www.nga.gov/open-access-images.html) [🔗](https://histoiredesarts.culture.gouv.fr/), des icônes [🔗](https://thenounproject.com/)
@@ -84,9 +95,7 @@ https://digistorm.app/
 brainstorming
 https://www.mindwendel.com/
 https://excalidraw.com/
-
--->
-
+ -->
 
 ---
 <!-- _class: partie -->
