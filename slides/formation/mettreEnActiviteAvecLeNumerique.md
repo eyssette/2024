@@ -21,6 +21,10 @@ Pour mettre en activité les élèves, il est intéressant de :
 3) varier le mode d'engagement des élèves dans le travail <span data-marpit-fragment="3">_(la cause efficiente)_</span>
 4) varier les objectifs <span data-marpit-fragment="4">_(la cause finale)_</span>
 
+<!-- 
+hormis variation : ajouter importance du choix 
+ -->
+
 
 ---
 <!-- _class: partie -->
@@ -28,27 +32,29 @@ Pour mettre en activité les élèves, il est intéressant de :
 Première partie
 
 ---
-<!-- _class: fmm  -->
+<!-- _class: fmmmmmm  -->
 <style scoped>
-h3{font-size:1.3em}
+h3{font-size:1.3em; margin-bottom:0}
 </style>
 ### Différents supports possibles
 
 1) **Textes**
-	* types de textes
+	* varier les types de textes
 	* trouver des textes
 	* mettre en forme
 2) **Vidéos / podcasts**
-	* types de vidéos
+	* varier les types de vidéos
 	* trouver des vidéos
 	* récupérer un fichier, le découper, le partager
 3) **Images**
-	* types d'images
+	* varier les types d'images
 	* trouver des images
+4) **Sites interactifs**
+	* présenter un contenu de manière scénarisée (mise en situation, choix à faire : escape game …)
 
 <!-- 
 - textes : 
-	- textes classiques / textes contemporains ; textes de philosophes / autres textes (textes littéraires : cf. HLP, base facebook / articles de journeaux)
+	- textes classiques / textes contemporains ; textes de philosophes / autres textes (textes littéraires : cf. HLP, base facebook / articles de journeaux) / plus de textes de femmes (voir groupe fb)
 	- trouver : moteur de recherche CSE + textes philo (base données)
 	si article de journal : Europresse / Bibliothèque Diderot
 	- mettre en forme (A4 + markpage : mini site web)
@@ -62,15 +68,23 @@ https://github.com/yt-dlp/yt-dlp
 https://cobalt.tools/
 
 découpage d'une vidéo : avidemux
+types d'usage du cinéma : https://docs.google.com/presentation/d/1JtEgj5YTXyx0AXFqrkMmHzsnzo9gG8LaZg86s8zCNN8/edit#slide=id.g1f52bf1812_0_391
 
 - images (photo langage)
-site pour trouver des images : ?
- -->
+site pour trouver des images
+Rechercher des images libres de droit [🔗](https://commons.wikimedia.org/wiki/Main_Page) [🔗](https://search.creativecommons.org/search?q=), des photographies d'œuvres d'art [🔗](https://artsandculture.google.com/) [🔗](https://art.rmngp.fr/fr) [🔗](https://www.nga.gov/open-access-images.html) [🔗](https://histoiredesarts.culture.gouv.fr/), des icônes [🔗](https://thenounproject.com/)
+
+
+sites
+questionnaires ?
+
+
+-->
 
 
 ---
 <!-- _class: partie -->
-# II ‑ <br>Varier le type de <br>production attendue <!-- fit -->
+# II ‑ Varier le type<br> de production<br> attendue <!-- fit -->
 Deuxième partie
 
 
@@ -101,7 +115,7 @@ monoral.net
 
 ---
 <!-- _class: partie -->
-# III ‑ Varier le mode<br> d'engagement des élèves <br>dans le travail <!-- fit -->
+# III ‑ <br>Varier le mode<br> d'engagement des <br>élèves dans le travail <!-- fit -->
 Troisième partie
 
 
@@ -109,13 +123,15 @@ Troisième partie
 <!-- _class:  -->
 ### Plusieurs manières de travailler
 
-1) Travail individuel
-2) Travail en binôme : _turn and talk_
-3) Travail en petit groupe
-4) Travail de classe / travail avec une autre classe
+1) Travail rapide (sur une séance) ou travail sur du long terme
+2) Travail noté ou non noté
+3) Travail individuel, <span data-marpit-fragment="1">en binôme (_turn and talk_)</span><span data-marpit-fragment="2">, en petit groupe</span><span data-marpit-fragment="3">, voire : travail de classe </span><span data-marpit-fragment="4">ou avec une autre classe</span>
 
 
 <!-- 
+travail rapide / sur le long terme
+travail noté / non noté
+
 travail individuel
 travail en binôme : turn and talk
 travail en petit groupe
@@ -140,10 +156,10 @@ Quatrième partie
 <!-- _class:  -->
 **Différents objectifs possibles**
 
-1) Problématiser
+1) Mobiliser les connaissances
 2) Analyser
 3) Argumenter
-4) Mobiliser les connaissances
+4) Problématiser
 
 <!-- 
 
@@ -151,18 +167,21 @@ mobiliser les connaissances
 - outils de révision : qcm, flashcards
 - schéma synthétiques : cartes mentales
 - fiches de révisions collaboratives / podcasts (G. Lequien)
+
 analyser
 - affichage d'un texte à l'écran dans le même format que le texte distribué : annotations sur le côté
 - concevoir son diaporama comme un support pour la réflexion
+
 argumenter
 - présentation des arguments de manière schématiques (schémas d'arguments)
 - format liste : liste de fausses propositions, d'idées à classer, d'objections
 (Q sort)
 - IA (exemple collègue SVT)
+
 problématiser
-- affichage de cas pratiques
-- carte mentale 
- -->
+- affichage de cas pratiques (situations concrètes pour voir les enjeux)
+- carte mentale
+-->
 
 
 ---
@@ -171,11 +190,15 @@ problématiser
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fmmm -->
 
-1) Créer un quiz
-2) Élaborer une carte mentale
-3) Créer un minisite pour faire un dossier sur un thème
-4) Créer des cartes à jouer de révision avec les philosophes vus en cours
-5) Créer un exercice avec une consigne précise à partir d'un extrait précis d'une vidéo en ligne
-6) Créer un chatbot
+### Propositions
+
+1) Créer un exercice avec un texte et des questions (avec des bases de données + A4)
+1) Créer un quiz (avec H5P, Learningapps ou Text2quiz) 
+1) Créer une carte mentale (avec myMarkmap)
+1) Créer un minisite pour faire un dossier sur un thème (avec Markpage)
+1) Créer des cartes à jouer de révision avec les philosophes vus en cours (avec CartesMD)
+1) Créer un exercice avec une consigne précise à partir d'un extrait précis d'une vidéo en ligne (avec Digiview + l'ENT)
+1) Créer un chatbot (avec ChatMD)
+1) Une autre idée ?
