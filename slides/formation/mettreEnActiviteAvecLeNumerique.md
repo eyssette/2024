@@ -198,7 +198,7 @@ problématiser
 1) Créer un quiz (avec H5P, Learningapps ou Text2quiz) 
 1) Créer une carte mentale (avec myMarkmap)
 1) Créer un minisite pour faire un dossier sur un thème (avec Markpage)
-1) Créer des cartes à jouer de révision avec les philosophes vus en cours (avec CartesMD)
+1) Créer des cartes à jouer de révision avec les philosophes vu⋅e⋅s en cours (avec CartesMD)
 1) Créer un exercice avec une consigne précise à partir d'un extrait précis d'une vidéo en ligne (avec Digiview + l'ENT)
-1) Créer un chatbot (avec ChatMD)
+1) Créer un chatbot : discussion avec un⋅e philosophe ou histoire interactive (avec ChatMD)
 1) Une autre idée ?
