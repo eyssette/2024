@@ -32,11 +32,13 @@ hormis variation : ajouter importance du choix
 Première partie
 
 ---
-<!-- _class: fmmmmmm  -->
+<!-- _class: fmmmmmmm  -->
 <style scoped>
 h3{font-size:1.3em; margin-bottom:0}
 </style>
 ### Différents supports possibles
+
+<div>
 
 1) **Textes**
 	* varier les types de textes
@@ -50,6 +52,7 @@ h3{font-size:1.3em; margin-bottom:0}
 	* varier les types d'images
 	* trouver des images
 4) **Sites interactifs**
+	* questionnaire
 	* présenter un contenu de manière scénarisée (mise en situation, choix à faire : escape game …)
 
 <!-- 
