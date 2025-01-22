@@ -60,6 +60,11 @@ Il y a une différence, que nous **ressentons** intérieurement, entre les actes
 1) L'expérience ordinaire semble ainsi nous indiquer que nous sommes la **source** de nos actes et **maîtres** de nos décisions.
 
 
+<!-- 
+lien / médecine, soin
+=> ne pas "manipuler" le corps comme un objet
+ -->
+
 ---
 <!-- _class: fpppppp -->
 <style scoped>
@@ -88,6 +93,8 @@ figure {margin-left:-80px!important}
 ---
 <!-- _class:  -->
 Pour Maine de Biran, le libre arbitre est une évidence, aussi certaine que notre existence, qui est ancrée dans le sentiment de notre propre activité.
+
+<span data-marpit-fragment="1">*« Je me sens libre, donc je le suis »*</span>
 
 
 ---
@@ -120,6 +127,8 @@ figure {margin-left:-2em!important}
 >« Pour établir la preuve de la liberté, considérons d’abord que certains êtres agissent sans aucun jugement, comme la pierre qui tombe vers le bas […] D’autres êtres agissent d’après un certain jugement, mais qui n’est pas libre. Ainsi les animaux telle la brebis qui, voyant le loup, juge qu’il faut le fuir […] par un instinct naturel. […] Mais l’homme agit d'après […] un rapprochement de données opéré par la raison. »
 >>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
 
+<!-- TODO: ajouter slides d'analyse du texte sur la comparaison -->
+
 ---
 <!-- _class: i1t1 pp -->
 <style scoped>
@@ -132,6 +141,7 @@ Exemple 1 : le roulement des œufs chez l'oie cendrée
 
 [![](https://i.ibb.co/KGcWZ88/egg-rolling.jpg)](https://video.link/w/Ej9mb)
 
+<!-- TODO: Récupérer la vidéo et l'intégrer -->
 ---
 <!-- _class: i1t1 pp -->
 <style scoped>
@@ -143,6 +153,8 @@ img{height:550px; }
 Exemple 2 : l'agressivité de l’épinoche
 
 [![](https://i.ibb.co/7g2vvBq/epinoches.png)](https://video.link/w/Nj9mb)
+
+<!-- TODO: Récupérer la vidéo et l'intégrer -->
 
 ---
 <!-- _class: exercice tableau colonnes fmm-->
