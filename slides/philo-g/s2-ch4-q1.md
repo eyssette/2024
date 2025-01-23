@@ -209,17 +209,15 @@ figure {margin-left:-2em!important}
 
 ### Définition
 
-Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible.<br>Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible.
-
+Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement (ce dont le contraire est impossible).<br>Ce qui est **contingent**, c'est ce qui pourrait être autrement (ce dont le contraire est possible)
 
 ---
 <!-- _class:  -->
 
-Quand j'agis, je fais un choix, mais un autre choix était possible et j'aurais pu agir autrement.
+Thomas d'Aquin trace une distinction entre deux domaines :
 
-
-<!-- (https://eyssette.github.io/argument-map/#[{%22id%22:%22a6ryk%22,%22text%22:%22Quand%20je%20r%C3%A9fl%C3%A9chis%20avant%20d'agir,%20je%20peux%20envisager%20plusieurs%20possibilit%C3%A9s%22,%22x%22:1356,%22y%22:380,%22lineType%22:%22solid%22},{%22id%22:%22zpt26%22,%22text%22:%22Quand%20j'agis,%20je%20fais%20un%20choix%20mais%20j'aurais%20pu%20faire%20un%20autre%20choix%22,%22x%22:1233,%22y%22:539,%22lineType%22:%22solid%22},{%22id%22:%22awn8d%22,%22text%22:%22Je%20suis%20capable%20de%20r%C3%A9fl%C3%A9chir%20avant%20d'agir%22,%22x%22:1106,%22y%22:371,%22lineType%22:%22solid%22},{%22id%22:%22gneop%22,%22type%22:%22donc%22,%22from%22:[%22zpt26%22],%22to%22:%22jozk6%22},{%22id%22:%22be0s9%22,%22type%22:%22donc%22,%22from%22:[%22jozk6%22],%22to%22:%22levpg%22},{%22id%22:%22s4jo6%22,%22type%22:%22donc%22,%22from%22:[%22awn8d%22,%22a6ryk%22],%22to%22:%22zpt26%22},{%22id%22:%22jozk6%22,%22text%22:%22Quand%20j'agis,%20je%20suis%20ma%C3%AEtre%20de%20la%20d%C3%A9cision%20que%C2%A0je%20prends%22,%22x%22:1232,%22y%22:694,%22lineType%22:%22solid%22},{%22id%22:%22levpg%22,%22text%22:%22Quand%20j'agis,%20j'ai%20un%C2%A0libre%C2%A0arbitre%22,%22x%22:1235,%22y%22:828,%22lineType%22:%22solid%22}] -->
-
+<span data-marpit-fragment="1">– les lois mathématiques, les lois physiques sont nécessaires</span>
+<span data-marpit-fragment="2">– les actions humaines sont contingentes</span>
 
 
 
@@ -231,12 +229,12 @@ Deuxième partie
 ---
 <!-- _class: i1t0  -->
 
-[![Affiche de la série Westworld](https://i.ibb.co/sHbKssT/westworld-t.jpg)](https://video.link/w/AVIKb)
+[![Affiche de la série Westworld](https://i.ibb.co/sHbKssT/westworld-t.jpg)](https://drive.google.com/file/d/1Rqy8CCwslC7VljH2-tGGMdrJxhuUPmBW/view?usp=sharing)
 
 <!-- 
 Ces androïdes ont-ils un libre arbitre ?
 Y a-t-il une différence fondamentale entre ces androïdes et nous-mêmes ?
- -->
+-->
 
 ---
 <!-- _class: citationC -->
@@ -246,44 +244,47 @@ Y a-t-il une différence fondamentale entre ces androïdes et nous-mêmes ?
 >« Telle est cette liberté humaine que tous les hommes se vantent d'avoir et qui consiste en cela seul que les hommes sont conscients de leurs désirs et ignorants des causes qui les déterminent ! »
 >>**Spinoza**, _Lettre 58_ à Schuller
 
-<!-- 
-Schéma des deux objections : 
-https://eyssette.github.io/argument-map/#[{%22id%22:%22c1%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:296,%22y%22:407,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22Cette%20croyance%20est%20motiv%C3%A9e%20par%20le%20d%C3%A9sir%20de%20nous%20croire%20sup%C3%A9rieurs%22,%22x%22:297,%22y%22:178,%22lineType%22:%22solid%22},{%22id%22:%22cfkpx%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20ma%C3%AEtres%20de%20nos%20actes%22,%22x%22:66,%22y%22:195,%22lineType%22:%22solid%22},{%22id%22:%22sx5ek%22,%22text%22:%22Si%20une%20croyance%20est%20motiv%C3%A9e%20par%20un%20d%C3%A9sir%20de%20croire,%20ce%20n'est%20pas%20une%20croyance%20fiable%22,%22x%22:529,%22y%22:196,%22lineType%22:%22solid%22},{%22id%22:%22jkb1f%22,%22type%22:%22donc%22,%22from%22:[%22panis%22,%22p2%22,%229eo2c%22],%22to%22:%22mgr1a%22},{%22id%22:%22pc12j%22,%22type%22:%22donc%22,%22from%22:[%22cfkpx%22,%22p1%22,%22sx5ek%22,%22sx5ek%22],%22to%22:%22c1%22},{%22id%22:%22mgr1a%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:1021,%22y%22:458,%22lineType%22:%22solid%22},{%22id%22:%22panis%22,%22text%22:%22S'il%20existe%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes,%20alors%20cette%20croyance%20est%20fausse%22,%22x%22:1025,%22y%22:202,%22lineType%22:%22solid%22},{%22id%22:%22p2%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20la%20source%20de%20nos%20actes%22,%22x%22:808,%22y%22:226,%22lineType%22:%22solid%22},{%22id%22:%229eo2c%22,%22text%22:%22Il%20est%20possible%20d'avoir%20le%20sentiment%20d'%C3%AAtre%20libre%20alors%20qu'il%20existe%20en%20fait%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes%22,%22x%22:1241,%22y%22:228,%22lineType%22:%22solid%22}]
- -->
 
 ---
-<!-- _class: fppppp sanspuces -->
-<style scoped>
-h3 {margin-bottom:0}
-hr {background-color:#666; padding:1px}
-</style>
-### Argument 1 [:link:](https://eyssette.github.io/argument-map/#[{%22id%22:%22c1%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:433,%22y%22:326,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22Cette%20croyance%20est%20motiv%C3%A9e%20par%20le%20d%C3%A9sir%20de%20nous%20croire%20sup%C3%A9rieurs%22,%22x%22:434,%22y%22:97,%22lineType%22:%22solid%22},{%22id%22:%22cfkpx%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20ma%C3%AEtres%20de%20nos%20actes%22,%22x%22:203,%22y%22:113,%22lineType%22:%22solid%22},{%22id%22:%22sx5ek%22,%22text%22:%22Si%20une%20croyance%20est%20motiv%C3%A9e%20par%20un%20d%C3%A9sir%20de%20croire,%20ce%20n'est%20pas%20une%20croyance%20fiable%22,%22x%22:666,%22y%22:114,%22lineType%22:%22solid%22},{%22id%22:%22pc12j%22,%22type%22:%22donc%22,%22from%22:[%22cfkpx%22,%22p1%22,%22sx5ek%22,%22sx5ek%22],%22to%22:%22c1%22}])
-
-1) (1) Nous avons le sentiment d'être libre parce que nous croyons être maîtres de nos actes.
-2) (2) Cette croyance est motivée par le désir de nous croire supérieurs.
-3) (3) Si une croyance est motivée par un désir de croire, ce n'est pas une croyance fiable.<hr>
-4) _Donc :_ Le sentiment d'être libre n'est pas une preuve du libre arbitre.
+<!-- _class: souspartie -->
+## A. Une croyance motivée ?
 
 ---
-<!-- _class: fpp sanspuces -->
+<!-- _class: definition -->
+
+#### Définition
+Une **croyance motivée** désigne le fait de croire à quelque chose non pas en raison de justifications rationnelles, mais parce que cette croyance nous procure une satisfaction psychique.
+
+---
+<!-- _class:  -->
+Les êtres humains « se vantent d'être libres » : <span data-marpit-fragment="1">cela signifie que la croyance en la liberté nous procure un sentiment de supériorité</span><span data-marpit-fragment="2"> (elle permet de nous voir comme des êtres puissants et autonomes).</span>
+
+<span data-marpit-fragment="3">&rArr; La liberté ne serait-elle pas une simple croyance motivée, une simple illusion réconfortante ?</span>
+
+
+---
+<!-- _class: souspartie -->
+## B. Des causes qui nous déterminent ?
+
+---
+<!-- _class: fppppp -->
 <style scoped>
-h3 {margin-bottom:-0.2em}
-hr {background-color:#666; padding:1px}
+hr {background-color:#666; padding:1px;margin:0 70px}
 </style>
-### Argument 2 [:link:](https://eyssette.github.io/argument-map/#[{%22id%22:%22panis%22,%22text%22:%22S'il%20existe%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes,%20alors%20cette%20croyance%20est%20fausse%22,%22x%22:601,%22y%22:161,%22lineType%22:%22solid%22},{%22id%22:%22jkb1f%22,%22type%22:%22donc%22,%22from%22:[%22panis%22,%22p2%22,%229eo2c%22],%22to%22:%22mgr1a%22},{%22id%22:%22mgr1a%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:596,%22y%22:444,%22lineType%22:%22solid%22},{%22id%22:%22p2%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20la%20source%20de%20nos%20actes%22,%22x%22:351,%22y%22:216,%22lineType%22:%22solid%22},{%22id%22:%229eo2c%22,%22text%22:%22Il%20est%20possible%20d'avoir%20le%20sentiment%20d'%C3%AAtre%20libre%20alors%20qu'il%20existe%20en%20fait%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes%22,%22x%22:852,%22y%22:222,%22lineType%22:%22solid%22}])
 
-1) (1) Nous avons le sentiment d'être libre parce que nous croyons être la source de nos actes.
-2) (2) S'il existe des facteurs inconscients qui déterminent nos actes, alors cette croyance est fausse.
-3) (3) Il est possible d'avoir le sentiment d'être libre alors qu'il existe en fait des facteurs inconscients qui déterminent nos actes.<hr>
-4) _Donc :_ Le sentiment d'être libre n'est pas une preuve du libre arbitre.
+Nous avons le sentiment d'être libre parce que nous croyons être la source de nos actes.
 
+<span data-marpit-fragment="1">Mais : s'il existe des facteurs inconscients qui déterminent nos actes, nous ne sommes pas la source de nos actes et nous ne sommes pas libres</span>
+
+<span data-marpit-fragment="2">Donc : il est possible d'avoir le sentiment d'être libre alors que nous ne le sommes pas</span>
+
+<span data-marpit-fragment="3">Par conséquent : le sentiment d'être libre ne prouve pas notre liberté.</span>
 
 ---
 <!-- _class: sanspuces -->
-Ces arguments restent **faibles** : ils montrent que l'expérience du libre arbitre pourrait ne pas être fiable, mais ils ne prouvent pas qu'elle ne l'est pas.
+Les deux arguments de Spinoza restent faibles.
 
-1) Pour cela, il faudrait prouver **l'existence** de facteurs inconscients qui déterminent nos choix.
-
+<span data-marpit-fragment="1">Ils montrent que la croyance au libre arbitre n'est peut-être qu'une illusion, mais ils ne prouvent pas que le libre arbitre n'existe pas.</span>
 
 ---
 <!-- _class: partie -->
