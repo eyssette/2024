@@ -135,25 +135,17 @@ blockquote{padding-top:7px; padding-bottom:7px;}
 
 
 ---
-<!-- _class: fpp -->
+<!-- _class: fp -->
 <style scoped>
 table{margin-top:1em}
-table span.white {color:white}
-p:nth-of-type(2),p:nth-of-type(3){position:absolute!important; font-size:1em}
-p:nth-of-type(2){top:498px; left:409px}
-p:nth-of-type(3){top:553px; left:597px; width:500px}
 </style>
 Freud prétend inscrire la psychologie dans l'histoire des grandes découvertes scientifiques
 
 ||||
 |:-:|:-:|:-:|
 <span data-marpit-fragment="1">Physique</span> | <span data-marpit-fragment="2">Copernic</span> | <span data-marpit-fragment="3">La Terre n'est pas <br>le centre du monde</span>
-<span data-marpit-fragment="4">Biologie</span> | <span data-marpit-fragment="5">Darwin</span> | <span data-marpit-fragment="6">L'être humain n'est pas le centre de la vie sur Terre</span>
-<span data-marpit-fragment="7">Psychologie</span> | <span data-marpit-fragment="8">Freud !</span> | <span data-marpit-fragment="9"><span class="white">………………</span> n'est pas<br>le centre de <span class="white">………………</span></span>
-
-<span data-marpit-fragment="10">La conscience</span>
-
-<span data-marpit-fragment="11">l'esprit humain</span>
+<span data-marpit-fragment="4">Biologie</span> | <span data-marpit-fragment="5">Darwin</span> | <span data-marpit-fragment="6">L'être humain n'est pas <br>le centre de la vie sur Terre</span>
+<span data-marpit-fragment="7">Psychologie</span> | <span data-marpit-fragment="8">Freud !</span> | <span data-marpit-fragment="9"><span data-marpit-fragment="10">La conscience</span> n'est pas<br>le centre de <span data-marpit-fragment="11">l'esprit humain</span></span>
 
 <!-- 
 La Terre n'est pas le centre du monde :
@@ -181,14 +173,14 @@ blockquote blockquote{font-size:0.9em}
 
 
 ---
-<!-- _class: i1t1 horizontal f -->
+<!-- _class: i1t1 horizontal fppp -->
 <style scoped>
-p:nth-of-type(2){text-align:justify!important; width:370px; padding-left:10px}
+p:nth-of-type(2){text-align:left!important; width:430px; padding-left:10px}
 </style>
 ![](../images/iceberg.svg)
 
 <span data-marpit-fragment="1">Le moi conscient ne représente que la surface de la vie psychique.</span>
-<br><span data-marpit-fragment="2">Il faut explorer les profondeurs de l'esprit humain : il y a en nous un inconscient psychique qui constitue l'essentiel de ce que nous sommes</span>
+<br><span data-marpit-fragment="2">Il faut explorer les profondeurs de l'esprit humain</span><span data-marpit-fragment="3"> : il y a en nous un inconscient psychique qui constitue l'essentiel de ce que nous sommes.</span>
 
 <!-- Le moi conscient ne représente que la surface de la vie psychique.
 Il faut explorer les profondeurs de l'esprit humain : 
@@ -262,17 +254,11 @@ Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une c
 # II – L'existence de<br> facteurs d'influence ne <br>prouve pas l'inexistence <br>du libre arbitre <!-- fit -->
 Deuxième partie
 
-<!-- 
-faire deux sous-parties : 
-A. déterminisme statistique + groupe
-B. déterminisme : pas un fatalisme
- -->
-
-
 ---
 <!-- _class: souspartie -->
 ## A. Le déterminisme est statistique
 
+<!-- ici : déterminisme = hypothèses déterministes des sciences humaines -->
 
 ---
 <!-- _class:  -->
@@ -308,8 +294,7 @@ img{height:570px;}
 ---
 <!-- _class: definition -->
 #### Définition
-- Le **fatalisme** suppose l'existence d'un destin face auquel nous sommes impuissants.
-- <span data-marpit-fragment="1">C'est l'idée que **ce qui doit arriver arrivera**, quoi que l'on fasse.</span>
+- Le **fatalisme** suppose l'existence d'un destin face auquel nous sommes impuissants. C'est l'idée que **ce qui doit arriver arrivera**, quoi que l'on fasse.
 
 ---
 <!-- _class: citationC f-->
