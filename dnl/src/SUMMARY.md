@@ -73,10 +73,25 @@
 		- [B. Personal Identity](term-II-B-personalIdentity.md)
 	<!-- 
 		Locke vs. Iris Marion Young
+		Locke : 
+		https://codimd.apps.education.fr/9XEzfG5nQIqH7osRQWE2Qw
+
 	- [III – Philosophy of Culture](term-III-philosophyOfCulture.md)
 		- [A. Art](term-III-A-Art.md)
+			Physical Ugliness and moral wickedness
+			https://codimd.apps.education.fr/Z6dWWEowRb6p2FWY3FtH0A
+			Ancient Greek Art
+			https://codimd.apps.education.fr/c3uthvUJQamftuqhlCJLSQ
+			The Renaissance
+			https://codimd.apps.education.fr/3hWrOnCmSDuHdVBYiI3jGw
+			From Romanticism to Contemporary Art: An Evolution in Body Representation
+			https://codimd.apps.education.fr/fkN3Fg28T5Oq669JC3aUHw
 		- [B. Sport](term-III-B-Sport.md)
+			Philosophy of Sport
+			https://codimd.apps.education.fr/wShEsJ__TfuSbuYffxk30A
 		technology ? workplace ?
+			The corporeal experience of labor: a brief historical survey
+			https://codimd.apps.education.fr/-yuuGLKhROC1h1-aRvBIhQ
 	- [IV — Social and Political Philosophy](term-IV-socialAndPoliticalPhilosophy.md)
 		- [](term-IV--.md)
 		- [](term-IV--.md)
