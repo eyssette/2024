@@ -25,7 +25,7 @@
 		- [B. Anthropocentrism, exceptionalism, speciesism](1eres-I-B-anthropocentrismExceptionalismeSpeciesism.md)
 		- [C. Normative Approaches to Animal ethics](1eres-I-C-normativeEthics.md)
 		- [D. Applied Ethics](1eres-I-D-appliedEthics.md)
-		- [E. From Moral Philosophy to Political Action](1eres-I-E-fromMoralPhilosophyToPoliticalAction.md)
+		- [E. The political turn in Animal Ethics](1eres-I-E-PoliticalTurnInAnimalEthics.md)
 	<!-- 
 	I.
 		What are the different ways we use animals?
@@ -36,8 +36,15 @@
 			1. Eating Meat
 			2. Animal Testing
 
+			https://en.wikipedia.org/wiki/Animal_rights_movement#Strategy_and_tactics
+			1/ Pour faire changer 
+
 	abolitionnisme / réformisme
-	The Political Turn in Animal Ethics -->
+	The Political Turn in Animal Ethics
+	Animal & Disability Liberation
+	1. Intersectionality
+	2. Strategy_and_tactics
+	 -->
 	<!-- - [A. Animal Ethics](animal-ethics.md)
 		 - [1/ Introduction to the topic](animal-ethics-introduction.md)
 		 - [2/ Understanding the animal mind](animal-ethics-animal-mind.md)
