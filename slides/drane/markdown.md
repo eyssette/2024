@@ -138,6 +138,7 @@ _Objectif_ : créer un minisite pour une mise à disposition de ressources à de
 #### Structure proposée
 Créer un nouveau document CodiMD et reprendre ce modèle : <a href="https://codimd.apps.education.fr/bo0T4bmqR7qElr0Fhg7GSw?both" target="_blank">https://codimd.apps.education.fr/bo0T4bmqR7qElr0Fhg7GSw?both</a>
 
+<div data-marpit-fragment="1">
 
 #### Ressources pour le site
 1. <a href="https://tube-numerique-educatif.apps.education.fr/w/7aDZmhULa2ifek8N91KEzr" target="_blank">Vidéo : les enjeux de l'IA</a>
@@ -146,6 +147,7 @@ Créer un nouveau document CodiMD et reprendre ce modèle : <a href="https://cod
 1. <a href="https://drane.ac-lyon.fr/spip/IMG/IA-perdir/exemple7.pdf?nolightbox" target="_blank">PDF : Synthétiser un document</a>
 1. <a href="https://drane.ac-lyon.fr/spip/IMG/IA-perdir/exemple2.pdf?nolightbox" target="_blank">PDF : Rédiger un courriel </a>
 
+</div>
 
 
 ---
