@@ -90,7 +90,7 @@ Contenu à utiliser : les <a href="https://codimd.apps.education.fr/C1P_0wsJSt2u
 
 1) **Pour un mail (newsletter …)** :
 	* Sélectionner le rendu (à <u>droite</u> dans CodiMD)
-	* Copier-coller ce contenu dans un mail à drane.ian@ac-lyon.fr
+	* Copier-coller ce contenu dans un mail à dane.ian@ac-lyon.fr
 	* **Intérêt : le style d'affichage est conservé**
 2) **Pour une publication web ou imprimée** :
 	* Utiliser l'application A4 : <a href="https://a4.forge.apps.education.fr/" target="_blank">https://a4.forge.apps.education.fr/</a>
