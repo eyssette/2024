@@ -121,7 +121,7 @@ maths: false
 
 ---
 <!-- _class: fpppppp -->
-### TP3 : création d'un ministe
+### TP3 : création d'un minisite
 
 _Objectif_ : créer un minisite pour une mise à disposition de ressources à destination des collègues sur l'IA dans votre discipline.
 
