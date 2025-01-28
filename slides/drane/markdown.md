@@ -64,6 +64,7 @@ _Objectif_ : faire une liste des IAN pour notre usage et pour publication sur le
 
 ---
 <!-- _class: fp -->
+**Consignes**
 
 1) Faire un titre de niveau 2 avec “IAN Discipline”
 2) Faire une liste à puces avec "Nom :" en gras, suivi de votre prénom et nom, puis "Mail :" en gras, suivi de votre mail fonctionnel
@@ -124,9 +125,10 @@ maths: false
 
 _Objectif_ : créer un minisite pour une mise à disposition de ressources à destination des collègues sur l'IA dans votre discipline.
 
-_Outil utilisé_ : <a href="https://markpage.forge.apps.education.fr/" target="_blank">Markpage</a>
+<span data-marpit-fragment="1">_Outil utilisé_ : <a href="https://markpage.forge.apps.education.fr/" target="_blank">Markpage</a></span>
 
-Syntaxe Markdown à utiliser (<a href="https://codimd.apps.education.fr/s/BMbN6dQMt" target="_blank">fiche de synthèse</a>) :
+<span data-marpit-fragment="2">Syntaxe Markdown à utiliser (<a href="https://codimd.apps.education.fr/s/BMbN6dQMt" target="_blank">fiche de synthèse</a>) :</span>
+
 1) Liens<span data-marpit-fragment="1">, images</span><span data-marpit-fragment="2">, iframe (vidéo ou H5P)</span>
 1) Encadrés<span data-marpit-fragment="1">, bloc déroulant</span><span data-marpit-fragment="2">, citations</span>
 
