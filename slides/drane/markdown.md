@@ -69,7 +69,9 @@ _Objectif_ : faire une liste des IAN pour notre usage et pour publication sur le
 2) Faire une liste à puces avec "Nom :" en gras, suivi de votre prénom et nom, puis "Mail :" en gras, suivi de votre mail fonctionnel
 3) Un retour à la ligne puis "Établissement :" en souligné, suivi du nom et de l'adresse de votre établissement
 
-<span data-marpit-fragment="1">Document de travail : https://codimd.apps.education.fr/C1P_0wsJSt2uZfB_fyuegQ?both</span>
+<span data-marpit-fragment="1">Document de travail : <a href="https://codimd.apps.education.fr/C1P_0wsJSt2uZfB_fyuegQ?both" target="_blank">https://codimd.apps.education.fr/C1P_0wsJSt2uZfB_fyuegQ?both</a></span>
+
+
 
 ---
 <!-- _class: fmm -->
@@ -83,17 +85,17 @@ u{text-decoration: underline #999;}
 </style>
 ### TP2 : utiliser le Markdown pour une publication <!-- fit -->
 
-Contenu à utiliser : les [infos IAN du TP1](https://codimd.apps.education.fr/C1P_0wsJSt2uZfB_fyuegQ?both)
+Contenu à utiliser : les <a href="https://codimd.apps.education.fr/C1P_0wsJSt2uZfB_fyuegQ?both" target="_blank">infos IAN du TP1</a>
 
 1) **Pour un mail (newsletter …)** :
 	* Sélectionner le rendu (à <u>droite</u> dans CodiMD)
 	* Copier-coller ce contenu dans un mail à drane.ian@ac-lyon.fr
 	* **Intérêt : le style d'affichage est conservé**
 2) **Pour une publication web ou imprimée** :
-	* Utiliser l'application A4 : https://a4.forge.apps.education.fr/
+	* Utiliser l'application A4 : <a href="https://a4.forge.apps.education.fr/" target="_blank">https://a4.forge.apps.education.fr/</a>
 	* **Intérêt : la mise en page est automatique et optimisée**
-	* Sélectionner le contenu en Markdown (à <u>gauche</u> dans CodiMD)
-	* Configurer l'en-tête dans A4 (p.ex. : 14 colonnes, 24 copies), copier votre contenu Markdown en dessous, puis cliquer sur "Convertir"
+	* Sélectionner votre contenu en Markdown (à <u>gauche</u> dans CodiMD)
+	* Configurer l'en-tête dans A4 pour créer 4 rangées de vignettes, copier votre contenu Markdown en dessous, puis cliquer sur "Convertir"
 
 <!--
 ---
@@ -117,33 +119,30 @@ maths: false
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fpppppp -->
 ### TP3 : création d'un ministe
 
 _Objectif_ : créer un minisite pour une mise à disposition de ressources à destination des collègues sur l'IA dans votre discipline.
 
-_Outil utilisé_ : [Markpage](https://markpage.forge.apps.education.fr/)
+_Outil utilisé_ : <a href="https://markpage.forge.apps.education.fr/" target="_blank">Markpage</a>
 
-Syntaxe Markdown à utiliser :
+Syntaxe Markdown à utiliser (<a href="https://codimd.apps.education.fr/s/BMbN6dQMt" target="_blank">fiche de synthèse</a>) :
 1) Liens<span data-marpit-fragment="1">, images</span><span data-marpit-fragment="2">, iframe (vidéo ou H5P)</span>
 1) Encadrés<span data-marpit-fragment="1">, bloc déroulant</span><span data-marpit-fragment="2">, citations</span>
-
-<!-- 1) évocation des autres possibilités : tableaux, blocs de code, Latex -->
 
 ---
 <!-- _class: fpp -->
 
 #### Structure proposée
-– I. Fonctionnement d'une IA générative
-– II. Cadre juridique et enjeux
-– III. Usages de l'IA dans mon cadre professionnel
+Créer un nouveau document CodiMD et reprendre ce modèle : <a href="https://codimd.apps.education.fr/bo0T4bmqR7qElr0Fhg7GSw?both" target="_blank">https://codimd.apps.education.fr/bo0T4bmqR7qElr0Fhg7GSw?both</a>
+
 
 #### Ressources pour le site
-1. [Vidéo : les enjeux de l'IA](https://tube-numerique-educatif.apps.education.fr/w/7aDZmhULa2ifek8N91KEzr)
-1. [Infographie : la méthode CAFÉ](https://nuage03.apps.education.fr/index.php/s/rfjp74txKaLyXxp/preview)
-1. [PDF : S'inspirer, trouver des idées](https://drane.ac-lyon.fr/spip/IMG/IA-perdir/exemple1.pdf?nolightbox)
-1. [PDF : Synthétiser un document](https://drane.ac-lyon.fr/spip/IMG/IA-perdir/exemple7.pdf?nolightbox)
-1. [PDF : Rédiger un courriel ](https://drane.ac-lyon.fr/spip/IMG/IA-perdir/exemple2.pdf?nolightbox)
+1. <a href="https://tube-numerique-educatif.apps.education.fr/w/7aDZmhULa2ifek8N91KEzr" target="_blank">Vidéo : les enjeux de l'IA</a>
+1. <a href="https://nuage03.apps.education.fr/index.php/s/rfjp74txKaLyXxp/preview" target="_blank">Infographie : la méthode CAFÉ</a>
+1. <a href="https://drane.ac-lyon.fr/spip/IMG/IA-perdir/exemple1.pdf?nolightbox" target="_blank">PDF : S'inspirer, trouver des idées</a>
+1. <a href="https://drane.ac-lyon.fr/spip/IMG/IA-perdir/exemple7.pdf?nolightbox" target="_blank">PDF : Synthétiser un document</a>
+1. <a href="https://drane.ac-lyon.fr/spip/IMG/IA-perdir/exemple2.pdf?nolightbox" target="_blank">PDF : Rédiger un courriel </a>
 
 
 
@@ -152,18 +151,18 @@ Syntaxe Markdown à utiliser :
 ### TP4 : encore plus loin !
 
 #### Transformer du Markdown en autre chose
-– Cartes mentales avec [myMarkmap](https://mymarkmap.forge.apps.education.fr/)
-– Cartes à jouer avec [CartesMD](https://cartesmd.forge.apps.education.fr/)
-– Livre numérique avec [Flipbook](https://flipbook.forge.apps.education.fr/)
-– Diaporama avec [Marp](https://marp.app/)
-– Chatbot avec [ChatMD](https://chatmd.forge.apps.education.fr/)
+– Cartes mentales avec <a href="https://mymarkmap.forge.apps.education.fr/" target="_blank">myMarkmap</a>
+– Cartes à jouer avec <a href="https://cartesmd.forge.apps.education.fr/" target="_blank">CartesMD</a>
+– Livre numérique avec <a href="https://flipbook.forge.apps.education.fr/" target="_blank">Flipbook</a>
+– Diaporama avec <a href="https://marp.app/" target="_blank">Marp</a>
+– Chatbot avec <a href="https://chatmd.forge.apps.education.fr/" target="_blank">ChatMD</a>
 
 #### Personnaliser l'affichage
 
-– [Apprendre le CSS](https://www.cssdebutant.com/)
+– <a href="https://www.cssdebutant.com/" target="_blank">Apprendre le CSS</a>
 
 #### Utiliser l'IA pour générer du Markdown avec une syntaxe particulière
-– [Exemple : générer le code d'une carte mentale](https://poe.com/s/FyaIzLDaBhBXOU4UvL2X)
+– <a href="https://poe.com/s/FyaIzLDaBhBXOU4UvL2X" target="_blank">Exemple : générer le code d'une carte mentale</a>
 
 
 ---
@@ -172,10 +171,10 @@ Syntaxe Markdown à utiliser :
 ## Quel logiciel utiliser ?
 
 ### En ligne
-– [CodiMD](https://codimd.apps.education.fr/) pour nous
-– [Digipad](https://digipad.app/) pour les élèves
+– <a href="https://codimd.apps.education.fr/" target="_blank">CodiMD</a> pour nous
+– <a href="https://digipad.app/" target="_blank">Digipad</a> pour les élèves
 
 ### En local
-– Un éditeur spécialisé Markdown : [Marktext](https://www.marktext.cc/)
-– [Markor](https://f-droid.org/packages/net.gsantner.markor/) sur Android
-– Le plus complet : [VSCodium](https://vscodium.com/) avec des plugins pour le Markdown
+– Un éditeur spécialisé Markdown : <a href="https://www.marktext.cc/" target="_blank">Marktext</a>
+– <a href="https://f-droid.org/packages/net.gsantner.markor/" target="_blank">Markor</a> sur Android
+– Le plus complet : <a href="https://vscodium.com/" target="_blank">VSCodium</a> avec des plugins pour le Markdown
