@@ -189,12 +189,44 @@ Nous ne sommes pas transparents à nous-mêmes : il faut explorer les profondeur
 
 
 
+
+---
+<!-- _class: fmmm -->
+<style scoped>
+h4{margin-bottom:0}
+div {margin-top:-2em}
+table {font-size:0.8em; margin:0;}
+table td:nth-of-type(2){width:300px!important}
+</style>
+### L'inconscient selon Freud
+
+1) Des motifs psychiques inconscients
+
+<div data-marpit-fragment="0">>
+
+||||
+|:-:|:-:|:-:|
+<span data-marpit-fragment="1">Le Moi</span> | <span data-marpit-fragment="2">la salle de conférence</span> | <span data-marpit-fragment="3">= les fonctions conscientes <br>(agir, parler, réfléchir …)</span>
+<span data-marpit-fragment="4">Le Ça</span> | <span data-marpit-fragment="2">les personnes dehors <br>qui veulent rentrer <br>dans la salle</span> | <span data-marpit-fragment="5">= les pulsions inconscientes <br>(pulsions sexuelles <br>et agressives)</span>
+<span data-marpit-fragment="6">Le Surmoi</span> | <span data-marpit-fragment="7">un gardien qui <br>contrôle l'entrée</span> | <span data-marpit-fragment="8">= le refoulement des pulsions <br>qui ne correspondent pas <br>aux normes sociales et à un idéal du moi que nous avons intériorisés</span>
+</div>
+
+2) Une structuration psychique inconsciente, qui s'est constituée pendant l'enfance
+
 ---
 <!-- _class: i1t1 vertical -->
 [![](https://fr.web.img6.acsta.net/r_1920_1080/pictures/15/04/28/12/21/346872.jpg)](https://ladigitale.dev/digiview/#/v/672b01f02b7bc)
 
 Un film : _La tête haute_
 
+
+---
+<!-- _class: fpppp -->
+#### Bilan
+<span data-marpit-fragment="1">Les hypothèses spécifiques de Freud sont remises en causes, mais la psychologie contemporaine conserve généralement certaines idées :</span>
+1) l'absence de transparence à soi-même et l'importance de la verbalisation du vécu
+2) l'importance de l'intersubjectivité pour se construire
+3) l'importance de l'enfance dans la construction de soi
 
 ---
 <!-- _class: souspartie -->
@@ -315,3 +347,30 @@ blockquote blockquote{margin-top:10px!important; padding:0;}
 <!-- _class: -->
 
 Si on peut expliquer les facteurs qui peuvent exercer une influence sur nous,<span data-marpit-fragment="1"> alors on peut savoir comment agir sur ces facteurs pour les maîtriser.</span>
+
+
+---
+<!-- _class: partie -->
+# Mise en<br> pratique <!-- fit -->
+
+---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+h3 {margin-bottom:15px}
+ul {margin-left:24px;}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%;}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+	- Le libre arbitre est-il une illusion ?
+	- Un être humain est-il responsable de tout ce qu'il fait ?
+	- L’idée d’une liberté totale a-t-elle un sens ?
+	- Sommes-nous déterminés par notre passé ?
+  	- Les humains sont-ils des êtres à part dans la nature ?
+  	- L'explication scientifique de l'être humain est-elle incompatible avec l'affirmation de la liberté humaine ?
+  	- L'idée d'inconscient remet-elle en cause la liberté ?
+  	- La conscience est-elle ce qui me rend libre ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>
