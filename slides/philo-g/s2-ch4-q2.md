@@ -290,6 +290,8 @@ Le déterminisme décrit des tendances générales, des probabilités, et des r�
 <span data-marpit-fragment="1">Mais il ne permet pas de prédire l'avenir de manière rigide et inévitable pour un individu</span>.
 
 <!-- 
+Ajouter texte de Bachelard (voir cours 2018) : tout déterminisme est partiel, particulier, régional
+
 On peut penser qu'il y a des marges d'indétermination
 de la contingence
 -->
