@@ -59,31 +59,10 @@ h3{width:850px;}
 
 ---
 <!-- _class: partie -->
-# I — <br>Il y a des facteurs qui<br> exercent une influence <br>inconsciente sur nous <!-- fit -->
+# I — <br>L'être humain est<br> déterminé par des<br> facteurs inconscients <!-- fit -->
 Première partie
 
-<!-- Quels sont les facteurs qui peuvent exercer une influence inconsciente sur nous ? -->
-
----
-<!-- _class: citationC fmm -->
-<style scoped>
-figure{margin-right:-4em!important}
-blockquote {padding:20px}
-blockquote blockquote{padding:0px; margin-top:15px}
-</style>
-![bg left:31%](https://i.ibb.co/Tw5nNRy/d-holbach-t.jpg)
-
->« Partie subordonnée d’un grand tout, l’homme est forcé d’en éprouver les influences. […] Les erreurs des philosophes sur la liberté de l’homme, viennent de ce qu’ils ont regardé sa volonté comme le premier mobile de ses actions, & que, faute de remonter plus haut, ils n’ont point vu les causes multipliées & compliquées indépendantes de lui qui mettent cette volonté elle-même en mouvement […]. Cependant il faut avouer que la multiplicité & la diversité des causes qui agissent sur nous souvent à notre insu, font qu’il nous est impossible, ou du moins très difficile, de remonter aux vrais principes de nos actions […]. Voilà ce qui rend l’étude de l’homme […] si difficile »
->>**D'Holbach**, _Système de la nature_, chap. XI
-
-<!-- 
-"Partie subordonnée d’un grand tout, l’homme est forcé d’en éprouver les influences."
-L'être humain n'est pas un être à part, il existe dans une situation, un contexte.
-Il faut expliquer le comportement des êtres humains par des causes.
-Ces causes sont : multiples, complexes, et agissent "à notre insu" (de manière inconsciente).
-Une simple réflexion par soi-même sur l'être humain ne suffit pas : il faut parvenir à étudier l'être humain, en tant qu'objet d'une connaissance scientifique.
--->
-
+<!-- déterminé dans ce qu'il fait, ce qu'il pense, ce qu'il est -->
 
 ---
 <!-- _class: definition -->
@@ -91,6 +70,20 @@ Une simple réflexion par soi-même sur l'être humain ne suffit pas : il faut p
 Le **déterminisme**, c'est l'idée qu'on peut expliquer un phénomène par les facteurs qui sont la cause de ce phénomène.
 
 <!-- Le déterminisme s'applique-t-il à l'esprit humain ? -->
+
+---
+<!-- _class: i1t0 pp  -->
+[![](https://minio.apps.education.fr/codimd-prod/uploads/upload_183dc984f253b113cd81a4083e52147a.png)](https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_all.html?locale=fr)
+
+---
+<!-- _class: citationC fppppppp  -->
+
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/1032px-Spinoza.jpg)
+
+> « La plupart de ceux qui ont parlé […] des conduites humaines paraissent traiter, non de choses naturelles qui suivent les lois ordinaires de la Nature, mais de choses qui seraient hors Nature. Mieux, on dirait qu’ils conçoivent l’homme dans la Nature comme un empire dans un empire »
+>> **Spinoza**, _Éthique_, III, préface
+
+
 
 ---
 <!-- _class: souspartie -->
@@ -186,8 +179,6 @@ p:nth-of-type(2){text-align:left!important; width:430px; padding-left:10px}
 Il faut explorer les profondeurs de l'esprit humain : 
 
 Nous ne sommes pas transparents à nous-mêmes : il faut explorer les profondeurs de l'esprit humain pour nous comprendre. L'essentiel de notre vie psychique ne se trouve pas dans la conscience  -->
-
-
 
 
 ---

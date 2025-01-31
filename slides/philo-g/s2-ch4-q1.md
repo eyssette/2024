@@ -26,7 +26,11 @@ https://eyssette.forge.apps.education.fr/
 <!--
 https://ladigitale.dev/digiplay/#/v/61a479ee0e918
 
-Analyse critique de cette expérience : voir la thèse de Jean-Baptiste Guillon, p.403-411 -->
+Analyse critique de cette expérience : voir la thèse de Jean-Baptiste Guillon, p.403-411
+
+Afficher image ou refaire au tableau :
+https://scienceetonnante.com/wp-content/uploads/2012/03/expecc81rience-de-libet1.png
+-->
 
 
 ---
@@ -219,6 +223,12 @@ Thomas d'Aquin trace une distinction entre deux domaines :
 <span data-marpit-fragment="1">– les lois mathématiques, les lois physiques sont nécessaires</span>
 <span data-marpit-fragment="2">– les actions humaines sont contingentes</span>
 
+
+<!-- 
+court métrage : Le portefeuille
+
+uchronie
+ -->
 
 
 ---
