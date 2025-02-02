@@ -59,7 +59,7 @@ h3{width:850px;}
 
 ---
 <!-- _class: partie -->
-# I — <br>L'être humain est<br> déterminé par des<br> facteurs inconscients <!-- fit -->
+# I — <br>L'être humain semble<br> déterminé par des<br> facteurs inconscients <!-- fit -->
 Première partie
 
 <!-- déterminé dans ce qu'il fait, ce qu'il pense, ce qu'il est -->
@@ -69,11 +69,17 @@ Première partie
 #### Définition
 Le **déterminisme**, c'est l'idée qu'on peut expliquer un phénomène par les facteurs qui sont la cause de ce phénomène.
 
-<!-- Le déterminisme s'applique-t-il à l'esprit humain ? -->
 
 ---
 <!-- _class: i1t0 pp  -->
 [![](https://minio.apps.education.fr/codimd-prod/uploads/upload_183dc984f253b113cd81a4083e52147a.png)](https://phet.colorado.edu/sims/html/projectile-motion/latest/projectile-motion_all.html?locale=fr)
+
+
+<!-- Le déterminisme s'applique-t-il à l'esprit humain ?
+Seulement un déterminisme plus complexe ?
+Absence de déterminisme : seulement l'effet de notre ignorance des facteurs qui agissent sur nous ?
+-->
+
 
 ---
 <!-- _class: citationC fppppppp  -->
@@ -83,7 +89,9 @@ Le **déterminisme**, c'est l'idée qu'on peut expliquer un phénomène par les 
 > « La plupart de ceux qui ont parlé […] des conduites humaines paraissent traiter, non de choses naturelles qui suivent les lois ordinaires de la Nature, mais de choses qui seraient hors Nature. Mieux, on dirait qu’ils conçoivent l’homme dans la Nature comme un empire dans un empire »
 >> **Spinoza**, _Éthique_, III, préface
 
-
+<!-- 
+L'être humain n'est pas « un empire dans un empire »
+-->
 
 ---
 <!-- _class: souspartie -->
@@ -94,10 +102,7 @@ p {margin:0 50px}
 &rarr; Une question trop complexe,
 trop technique pour être traitée ici.
 
-<!-- Présenter autrement : mettre directement titre partie A.
-Simplifier le titre "A. Les facteurs …"
-faire partie A sur les facteurs biologiques
-
+<!-- 
 Les facteurs biologiques envisageables : les gènes, les hormones, les neurones
 Cas examiné : les gènes
 Partir de ce que les élèves connaissent de la génétique
@@ -175,34 +180,71 @@ p:nth-of-type(2){text-align:left!important; width:430px; padding-left:10px}
 <span data-marpit-fragment="1">Le moi conscient ne représente que la surface de la vie psychique.</span>
 <br><span data-marpit-fragment="2">Il faut explorer les profondeurs de l'esprit humain</span><span data-marpit-fragment="3"> : il y a en nous un inconscient psychique qui constitue l'essentiel de ce que nous sommes.</span>
 
-<!-- Le moi conscient ne représente que la surface de la vie psychique.
-Il faut explorer les profondeurs de l'esprit humain : 
-
-Nous ne sommes pas transparents à nous-mêmes : il faut explorer les profondeurs de l'esprit humain pour nous comprendre. L'essentiel de notre vie psychique ne se trouve pas dans la conscience  -->
+<!--  Nous ne sommes pas transparents à nous-mêmes : il faut explorer les profondeurs de l'esprit humain pour nous comprendre. L'essentiel de notre vie psychique ne se trouve pas dans la conscience  -->
 
 
 ---
-<!-- _class: fmmm -->
+<!-- _class: fppppp pp-->
 <style scoped>
-h4{margin-bottom:0}
-div {margin-top:-2em}
-table {font-size:0.8em; margin:0;}
-table td:nth-of-type(2){width:300px!important}
+h3{top:60px}
+h3,div{position:absolute;}
+#ça{left:0;bottom:40px;}
+#refoulement{left:28%;bottom:35%;transform:rotate(20deg);border-bottom:10px solid red;font-weight:bold}
+#moi-surmoi{right:0px;bottom:43%;width:450px;}
 </style>
-### L'inconscient selon Freud
 
-1) Des motifs psychiques inconscients
 
-<div data-marpit-fragment="0">>
+### Des pulsions inconscientes
 
-||||
-|:-:|:-:|:-:|
-<span data-marpit-fragment="1">Le Moi</span> | <span data-marpit-fragment="2">la salle de conférence</span> | <span data-marpit-fragment="3">= les fonctions conscientes <br>(agir, parler, réfléchir …)</span>
-<span data-marpit-fragment="4">Le Ça</span> | <span data-marpit-fragment="2">les personnes dehors <br>qui veulent rentrer <br>dans la salle</span> | <span data-marpit-fragment="5">= les pulsions inconscientes <br>(pulsions sexuelles <br>et agressives)</span>
-<span data-marpit-fragment="6">Le Surmoi</span> | <span data-marpit-fragment="7">un gardien qui <br>contrôle l'entrée</span> | <span data-marpit-fragment="8">= le refoulement des pulsions <br>qui ne correspondent pas <br>aux normes sociales et à un idéal du moi que nous avons intériorisés</span>
+
+<div id="ça">
+
+<span data-marpit-fragment="1">Pulsions agressives
+<span data-marpit-fragment="2">Pulsions sexuelles</span>
+
+<span data-marpit-fragment="3">**&rarr; le Ça**</span>
+
 </div>
 
-2) Une structuration psychique inconsciente, qui s'est constituée pendant l'enfance
+<div id="refoulement" data-marpit-fragment="4">
+
+Refoulement
+
+</div>
+
+<div id="moi-surmoi">
+
+<span data-marpit-fragment="5">Normes sociales intériorisées</span>
+<span data-marpit-fragment="6">Idéal du moi</span>
+
+<span data-marpit-fragment="7">**&rarr; le Surmoi**</span>
+
+</div>
+
+<!-- 
+/ Psychologie contemporaine :
+hypothèses spécifiques remises en causes mais idée générale conservée :
+=> l'absence de transparence à soi-même et l'importance de la verbalisation du vécu
+-->
+
+
+---
+<!-- _class: fm -->
+### Une structuration psychique inconsciente
+
+<span data-marpit-fragment="1">Cette structuration se construit principalement pendant l'enfance.</span>
+
+<span data-marpit-fragment="2">Il y a des étapes psychiques importantes <br>= des stades de développement.</span>
+
+<span data-marpit-fragment="3">La construction de soi se fait dans le rapport de soi …</span>
+1) au monde : <span data-marpit-fragment="1">sécurité psychique</span><span data-marpit-fragment="2">, intégration du principe de réalité ;</span>
+2) aux autres : <span data-marpit-fragment="1">intégration des règles sociales</span><span data-marpit-fragment="2">, identification et différenciation.</span>
+
+<!-- 
+/ Psychologie contemporaine :
+hypothèses spécifiques remises en causes mais idée générale souvent conservée :
+=> importance de l'enfance, importance de l'intersubjectivité
+ -->
 
 ---
 <!-- _class: i1t1 vertical -->
@@ -211,13 +253,20 @@ table td:nth-of-type(2){width:300px!important}
 Un film : _La tête haute_
 
 
+
 ---
-<!-- _class: fpppp -->
+<!-- _class: fpp -->
 #### Bilan
-<span data-marpit-fragment="1">Les hypothèses spécifiques de Freud sont remises en causes, mais la psychologie contemporaine conserve généralement certaines idées :</span>
-1) l'absence de transparence à soi-même et l'importance de la verbalisation du vécu
-2) l'importance de l'intersubjectivité pour se construire
-3) l'importance de l'enfance dans la construction de soi
+
+Les hypothèses spécifiques de Freud sont remises en cause.
+
+<span data-marpit-fragment="1">Cependant, la psychologie contemporaine maintient deux principes essentiels :</span>
+
+1) ce que nous sommes est en partie déterminé par des facteurs inconscients ;
+2) il est possible, au moins en partie, de se libérer de l'emprise de ces facteurs :
+	1) par la verbalisation du vécu
+	2) par le soutien psychique d'autrui
+
 
 ---
 <!-- _class: souspartie -->
@@ -283,6 +332,16 @@ Deuxième partie
 
 <!-- ici : déterminisme = hypothèses déterministes des sciences humaines -->
 
+
+---
+<!-- _class: citationC fppppp -->
+
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/1/1d/Gaston_Bachelard.jpg)
+
+> « En somme, tout déterminisme est partiel, particulier, régional. [...] [Q]uand on a ainsi compris que la pensée scientifique pose le déterminisme dans toutes les régions de ses études, il ne s’ensuit pas que, selon la formule philosophique, _tout soit déterminé_. »
+>> **Bachelard**, _L'activité rationaliste de la physique contemporaine_, Conclusion, V
+
+
 ---
 <!-- _class:  -->
 Le déterminisme décrit des tendances générales, des probabilités, et des régularités au niveau d'un groupe d'individus en observant le passé et le présent.
@@ -317,30 +376,36 @@ img{height:570px;}
 
 
 ---
-<!-- _class: definition -->
+<!-- _class: definition fpppppp-->
 #### Définition
-- Le **fatalisme** suppose l'existence d'un destin face auquel nous sommes impuissants. C'est l'idée que **ce qui doit arriver arrivera**, quoi que l'on fasse.
+* Le **fatalisme** affirme l'existence d'un **destin** : ce qui doit arriver arrivera nécessairement, quoi que l'on fasse.
+* Nous ne pouvons rien faire face au destin : nous sommes **impuissants**
+
 
 ---
 <!-- _class: citationC f-->
-<style scoped>
-figure {margin-right:-2em!important}
-blockquote{padding:12px 20px}
-blockquote blockquote{margin-top:10px!important; padding:0;}
-</style>
-![bg left:29% Photographie d'Émile Durkheim](https://upload.wikimedia.org/wikipedia/commons/2/23/%C3%89mile_Durkheim.jpg)
+
+![bg left:25%](https://upload.wikimedia.org/wikipedia/commons/c/c0/Pierre_Bourdieu_%281%29.jpg)
+
+> « Plus la sociologie est avancée, plus elle tend à donner une impression de déterminisme. […] [Mais] la connaissance des lois sociales est la condition de toute transformation du monde social. Personne n'a jamais eu l'idée de reprocher à Galilée de détruire le rêve de vol ; c'est au contraire parce que Galilée a découvert la loi de la pesanteur que l'on a pu voler. C'est en tout cas dans la mesure où nous connaissons les lois selon lesquelles le capital culturel se transmet d'une génération à une autre, que nous avons quelque chance de suspendre partiellement les effets de ces mécanismes.  »
+>> Pierre **Bourdieu**, « Ce que peut faire la sociologie »
+
+
+<!-- 
+Autre texte : Durkheim
 
 >« [D]epuis que les sciences positives de la nature se sont constituées […], que de changements n'avons-nous pas introduits dans l'univers ! Il en sera de même dans le règne social. […] [C]'est la sociologie qui, en découvrant les lois de la réalité sociale, nous permettra de diriger avec plus de réflexion que par le passé l'évolution historique ; car nous ne pouvons changer la nature, morale ou physique, qu'en nous conformant à ses lois. […] Les sciences, en même temps qu'elles proclament la nécessité des choses, nous mettent entre les mains les moyens de la dominer. »
->>Émile **Durkheim**, _Sociologie et sciences sociales_
-
-
+>>Émile **Durkheim**, _Sociologie et sciences sociales_ -->
 
 
 ---
 <!-- _class: -->
 
-Si on peut expliquer les facteurs qui peuvent exercer une influence sur nous,<span data-marpit-fragment="1"> alors on peut savoir comment agir sur ces facteurs pour les maîtriser.</span>
+Le fatalisme est une croyance, tandis que le déterminisme est une démarche rationelle d'explication du réel.
 
+<span data-marpit-fragment="1">Et si on peut expliquer les facteurs qui exercent une influence sur nous</span><span data-marpit-fragment="2">, alors on peut agir sur ces facteurs.</span>
+
+<span data-marpit-fragment="3">&rArr; D'après le déterminisme, il n'y a pas de destin face auquel nous ne pouvons rien.</span><span data-marpit-fragment="4"> Au contraire, la connaissance nous donne plus de possibilités d'agir.</span>
 
 ---
 <!-- _class: partie -->
