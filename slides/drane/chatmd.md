@@ -134,9 +134,8 @@ aside a{color:lightgrey}
 <aside>
 
 [1/Assistance](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/KgiRUrr8Ttq9-CxZGmxmmg), [2/IGN](https://ignf-ma-carte.github.io/chatbot/)
+[3/ Accessibilité](https://chatmd.forge.apps.education.fr/#https://horvathjulie.forge.apps.education.fr/bot/comprehension.md)
 </aside>
-
-<!-- TODO: Ajouter d'autres exemples de chatbot -->
 
 ---
 <!-- _class:  -->
@@ -154,10 +153,12 @@ aside a{color:lightgrey}
 
 <aside>
 
-[1/Philosophie](https://chatmd.forge.apps.education.fr/#dissertation-philo), [2/Maths](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/89_9jQXNRga1mbGgXOUuJw)
+[1/Philosophie](https://chatmd.forge.apps.education.fr/#dissertation-philo), 
+[2/ Microscope](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/xGNHIJSeTVCk6FHas-_71g)
+[3/Maths](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/89_9jQXNRga1mbGgXOUuJw)
+[4/ Orientation](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/UB1xium-TSqpdHEqdxipTw)
+[5/ Sartre](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/39v880G4Siu9Xw93UOTF0g)
 </aside>
-
-<!-- TODO: Ajouter d'autres exemples de chatbot -->
 
 ---
 <!-- _class: invert -->
@@ -249,7 +250,12 @@ li{margin-bottom:0.5em;}
 
 ---
 <!-- _class:  -->
-Connexion au portail Apps Éducation
-Utilisation de CodiMD
-Récupération d'un contenu type
-Adaptation
+<style scoped>
+section{font-size:4em;}
+strong{font-size:1.75em}
+li{text-align:left;}
+</style>
+**Prérequis**
+
+1) Connexion au portail Apps Éducation
+2) Connexion à CodiMD
