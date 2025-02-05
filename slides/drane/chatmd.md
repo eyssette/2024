@@ -252,10 +252,56 @@ li{margin-bottom:0.5em;}
 <!-- _class:  -->
 <style scoped>
 section{font-size:4em;}
-strong{font-size:1.75em}
+h3{font-size:1.75em}
 li{text-align:left;}
 </style>
-**Prérequis**
+### Prérequis
 
 1) Connexion au portail Apps Éducation
 2) Connexion à CodiMD
+
+
+
+---
+<!-- _class:  -->
+<style scoped>
+section{padding:0 30px; font-size: 2.8em}
+h3{font-size:2em}
+p, li{text-align:left; font-size:0.9em}
+p strong{font-weight:bold}
+</style>
+
+### Proposition
+
+**Objectif :** créer un chatbot pour accompagner les élèves dans la compréhension de la méthode ou d'un point de cours particulier
+
+* **1er niveau** : mettre en place la structure de base
+* **2e niveau** : personnaliser l'affichage et mettre en forme le contenu
+* **3e niveau** : questionner les élèves et évaluer leurs réponses
+
+<!--
+se rappeler
+=> se tester, se questionner
+
+** Gestion contenus particuliers :
+insertion image avec Codi
+encadrés
+maths: true
+
+Personnalisation :
+clavier: false
+avatar
+avatarCercle: true
+footer
+
+
+** Utiliser ChatMD pour évaluer :
+- Clic sur un bouton :
+1) [intitulé]​(lien) au lieu de 1. [intitulé]​(lien)
+obfuscate: true
+utiliser ---
+ou une variable
+- Réponse simple (détection de mots clés):
+!​Next: Titreréponse
+- Evaluation par un LLM
+-->
