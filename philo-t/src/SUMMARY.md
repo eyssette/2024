@@ -12,11 +12,9 @@
 		- [Q1 – De quel droit l'État exerce-t-il un pouvoir sur nous ?](s1-ch2-q1.md)
 			- [Q1a – L’État n'est-il qu'un moyen de domination ?](s1-ch2-q1a.md)
 			- [Q1b – Quels droits accordons-nous à l'État ?](s1-ch2-q1b.md)
-		<!--
 		- [Q2 – Qu'est-ce que la justice sociale ?](s1-ch2-q2.md)
 			- [Q2a – La politique doit-elle être guidée par un idéal moral ?](s1-ch2-q2a.md)
-			- [Q2b – Comment peut-on parvenir à une société plus juste ?](s1-ch2-q2b.md)
-	 -->
+			<!-- - [Q2b – Comment peut-on parvenir à une société plus juste ?](s1-ch2-q2b.md)	 -->
 <!--
 - [Séquence 2 : Philosophie de la connaissance](s2.md)
 	- [Chapitre 3 : La vérité](s2-ch3.md)
