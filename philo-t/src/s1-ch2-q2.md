@@ -1,5 +1,5 @@
 # Q2 – Qu'est-ce que la justice sociale ?
 
-### Sous-questions
+Reformulation plus précise :
 
-<script>subPages()</script>
+[diapo:s1-ch2-q2]
