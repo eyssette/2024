@@ -50,20 +50,23 @@ La **théorie de la justice** de Rawls permet de mieux comprendre le principe de
 p:nth-of-type(1) {border:none}
 </style>
 
-L'égalité des droits est un **principe de justice** fondamental, neutre et acceptable pour tout le monde. Ce n'est pas une **conception du bien**.
+L'égalité des droits est un **principe de justice** fondamental, neutre et acceptable pour tout le monde. <span data-marpit-fragment="1">Ce n'est pas une **conception du bien**.</span>
+
+<span data-marpit-fragment="2">
 
 ### Définition
 
-<span data-marpit-fragment="1">Une conception du bien est une vision spécifique de ce qu'est une vie bonne ou valable.</span>
+Une conception du bien est une vision spécifique de ce qu'est une vie bonne ou valable.
+</div>
 
 <!-- Le Juste ≠ le bien -->
 
 ---
 <!-- _class:  -->
 
-Pour assurer la justice, une société ne doit **pas imposer une conception particulière du bien**.
+Une société ne doit **pas imposer une conception particulière du bien**.
 
-<span data-marpit-fragment="1">Elle doit plutôt garantir l'égalité des droits, qui permet à chacun de suivre sa propre conception du bien et le protège contre les autres.</span>
+<span data-marpit-fragment="1">Elle doit garantir l'égalité des droits, qui permet à chacun de suivre sa propre conception du bien et le protège contre les autres.</span>
 
 * Mais l'égalité des droits est-elle suffisante ?
 
@@ -74,6 +77,14 @@ Pour assurer la justice, une société ne doit **pas imposer une conception part
 
 > « Pour que j’aie la liberté de faire ce que je veux de ma vie […], il ne suffit […] pas que j’aie le droit de faire cela […]. Il faut encore que j’aie le pouvoir de le faire, du fait que j’ai accès à suffisamment de ressources pour pouvoir effectivement réaliser ce que je désire. Car à quoi sert-il d’avoir le droit de partir en vacances, par exemple, si je n’ai pas les moyens d’en prendre ? Pour user d’une distinction souvent utilisée dans la critique du libéralisme, la liberté à laquelle il est important de faire une place est la liberté réelle de mener sa vie à sa guise, pas seulement la liberté formelle de le faire. »
 >> Philippe **Van Parijs**, _Qu’est-ce qu’une société juste ?_, Le Seuil, 1991, p.187)
+
+---
+<!-- _class:  -->
+L'égalité des droits est une **égalité formelle**, de statut entre les individus.
+
+<span data-marpit-fragment="1">Mais elle ne garantit pas **l'égalité réelle**.</span>
+
+<span data-marpit-fragment="2">&rarr; avoir un droit d'agir ≠ avoir la capacité et les moyens dagir</span>
 
 ---
 <!-- _class: souspartie -->
