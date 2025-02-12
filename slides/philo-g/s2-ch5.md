@@ -94,9 +94,9 @@ ol ul {margin-left:-1.5em}
 
 1) Proposer un plan général de l'œuvre : titre des parties + résumé très rapide de chaque partie
 2) Choisir un des textes et faire un plan détaillé du texte
-	- Thème / Question directrice / Thèse
-	- Plan général : ce que fait / ce que dit l'auteur par partie 
-	- Contenu de chaque sous-partie : formulation de l'idée principale et repérage des concepts importants
+	* Thème / Question directrice / Thèse
+	* Plan général : ce que fait / ce que dit l'auteur par partie 
+	* Contenu de chaque sous-partie : formulation de l'idée principale et repérage des concepts importants
 
 
 ---
