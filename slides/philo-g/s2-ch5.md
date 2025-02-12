@@ -45,15 +45,35 @@ Un intellectuel engagé : <span data-marpit-fragment="1">la philosophie ≠ cont
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fmmmm pp -->
+<style scoped>
+table{margin-top:1.5em}
+</style>
 ### Un philosophe en discussion avec son temps
 
-1) Par rapport au marxisme
-1) Par rapport à l'idéalisme
-1) Par rapport au christianisme et à l'humanisme classique
-1) Par rapport au nihilisme
-1) Par rapport à la phénoménologie
 
+#### 1/ Les choix de l'être humain
+
+||||
+|:-:|:-:|:-:|
+|<span data-marpit-fragment="1">**Marxisme**</span>|<span data-marpit-fragment="2">Déterminisme des structures sociales</span>|<span data-marpit-fragment="3">Liberté <br>et responsabilité <br>de l'individu</span>|
+|<span data-marpit-fragment="4">**Idéalisme moral**</span>|<span data-marpit-fragment="5">Choix guidé par des principes rationnels et universels</span>|<span data-marpit-fragment="6">Confrontation à une situation concrète <br>sans refuge possible derrière des principes</span>|
+
+---
+<!-- _class: fmmmmmmm pp -->
+<style scoped>
+table{padding:40px}
+td:nth-of-type(3){width:300px;padding-left:0.75em}
+</style>
+
+#### 2/ La nature de l'être humain et le sens de son existence
+
+||||
+|:-:|:-:|:-:|
+|<span data-marpit-fragment="1">**Christianisme**</span>|<span data-marpit-fragment="2">Une nature humaine et un sens de l'existence, définis par Dieu</span>|<span data-marpit-fragment="3">Pas de nature humaine, pas de sens préalable</span>|
+|<span data-marpit-fragment="4">**Humanisme classique**</span>|<span data-marpit-fragment="5">Dignité de l'être humain, fondée sur l'essence <br>de l'être humain</span>|<span data-marpit-fragment="6">Pas de valeurs préalables, mais une responsabilité <br>de ses choix</span>|
+|<span data-marpit-fragment="7">**Nihilisme**</span>|<span data-marpit-fragment="8">Pas de sens <br>à l'existence</span>|<span data-marpit-fragment="9">Pas de sens préalable, mais création de sens <br>par ses choix</span>|
+|<span data-marpit-fragment="10">**Phénoménologie**</span>|<span data-marpit-fragment="11">L'être humain est <br>une conscience</span>|<span data-marpit-fragment="12">L'être humain est une conscience engagée <br>dans le monde</span>|
 
 ---
 <!-- _class: partie -->
