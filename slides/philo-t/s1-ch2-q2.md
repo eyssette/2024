@@ -7,7 +7,7 @@ size: 4:3
 
 <!-- _class: titre -->
 
-# Q2 - La justice <br>signifie-t-elle<br>l'égalité ? <!-- fit -->
+# Q2 – <br>Qu'est-ce que la <br>justice sociale ? <!-- fit -->
 Cédric Eyssette (2024-2025)
 https://eyssette.forge.apps.education.fr/
 
@@ -26,7 +26,7 @@ img {width:700px!important; margin:auto!important; display:block;}
 
 ---
 <!-- _class: partie -->
-# I – La justice repose sur l'égalité
+# I – <br>La justice sociale, <br>c'est l'égalité <!-- fit -->
 Première partie
 
 
@@ -172,7 +172,7 @@ Notion d'équité
 
 ---
 <!-- _class: partie -->
-# II - L'égalité des <br> droits et l'égalité<br> des chances ne <br> suffisent pas <!-- fit -->
+# II - Mais l'égalité des <br> droits et l'égalité<br> des chances ne <br> suffisent pas <!-- fit -->
 Deuxième partie
 
 ---
