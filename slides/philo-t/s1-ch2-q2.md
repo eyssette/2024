@@ -13,6 +13,21 @@ https://eyssette.forge.apps.education.fr/
 
 
 ---
+<!-- _class: fpp -->
+<style scoped>
+ul{margin-left:-1.75em}
+</style>
+### Deux sens de la notion de justice
+1) La justice comme institution
+	* “être poursuivi en justice”
+	* = le pouvoir juridique (procès, tribunaux, juges …)
+	* norme de la légalité (d'après des textes de loi)
+2) La justice comme valeur
+	* “c'est injuste !”
+	* = une révolte face à une situation inacceptable
+	* norme de la légitimité (d'après des valeurs)
+
+---
 <!-- _class: i1t0 pp -->
 <style scoped>
 img {width:700px!important; margin:auto!important; display:block;}
@@ -45,21 +60,11 @@ La **théorie de la justice** de Rawls permet de mieux comprendre le principe de
 <span data-marpit-fragment="4">Les individus feront ainsi des **choix impartiaux**, qui ne seront **pas fondés sur un intérêt particulier**.</span>
 
 ---
-<!-- _class: definition fpppppppppp -->
-<style scoped>
-p:nth-of-type(1) {border:none}
-</style>
+<!-- _class: -->
 
-L'égalité des droits est un **principe de justice** fondamental, neutre et acceptable pour tout le monde. <span data-marpit-fragment="1">Ce n'est pas une **conception du bien**.</span>
+L'égalité des droits est un **principe de justice** fondamental, neutre et acceptable pour tout le monde.
 
-<span data-marpit-fragment="2">
-
-### Définition
-
-Une conception du bien est une vision spécifique de ce qu'est une vie bonne ou valable.
-</div>
-
-<!-- Le Juste ≠ le bien -->
+<span data-marpit-fragment="1">Ce n'est pas une **conception du bien** (une conception particulière de la manière dont on doit mener sa vie).</span>
 
 ---
 <!-- _class:  -->
@@ -128,8 +133,12 @@ h3 {margin-top:0}
 
 Contre les inégalité socio-économiques de départ, une société juste doit garantir **l'égalité des chances**.
 
+
+
 ### Définition
-<span data-marpit-fragment="1">Il y a **égalité formelle des chances** quand les places sociales ne sont pas réservées à un groupe particulier mais ouvertes à tout le monde, et que la sélection se fonde sur les compétences des individus.</span>
+<span data-marpit-fragment="">Il y a **égalité formelle des chances** quand les places sociales ne sont pas réservées à un groupe particulier mais ouvertes à tout le monde</span><span data-marpit-fragment="2">, et que la sélection se fonde sur les compétences des individus.</span>
+
+
 
 <!-- 
 => Lutte contre les discriminations
@@ -147,7 +156,7 @@ h3 {margin-top:0}
 L'égalité formelle des chances est au fondement de ce qu'on appelle **la méritocratie**.
 
 ### Définition
-<span data-marpit-fragment="1">La **méritocratie** est un système dans lequel les individus sont sélectionnés et promus en fonction de leurs mérites et de leurs capacités, plutôt que de leur naissance ou de leur statut social</span>
+<span data-marpit-fragment="1">La **méritocratie** est un système dans lequel les individus sont sélectionnés et promus en fonction de leurs mérites et de leurs capacités</span><span data-marpit-fragment="2">, plutôt que de leur naissance ou de leur statut social.</span>
 
 
 ---
@@ -192,7 +201,8 @@ Deuxième partie
 
 ---
 <!-- _class:  -->
-Même l'égalité réelle des chances peut conduire à de fortes inégalités à l'arrivée entre les différentes places sociales.
+Même l'égalité réelle des chances peut conduire à de fortes inégalités à l'arrivée entre les différentes places sociales. [:link:](https://mkorostoff.github.io/1-pixel-wealth/
+)
 
 * Ces inégalités sont-elles justifiées ?
 * Pourrait-on proposer un revenu horaire identique quel que soit le métier ?
@@ -200,7 +210,7 @@ Même l'égalité réelle des chances peut conduire à de fortes inégalités à
 
 ---
 <!-- _class: fmm -->
-Le plus souvent, les inégalités entre places sociales sont justifiées par :
+Le plus souvent, on cherche à justifier les inégalités entre places sociales par :
 
 1) La difficulté, la pénibilité du travail
 2) Les compétences, le niveau de qualification
