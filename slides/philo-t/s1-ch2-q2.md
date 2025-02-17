@@ -227,21 +227,33 @@ Le plus souvent, on cherche à justifier les inégalités entre places sociales 
 
 
 ---
-<!-- _class: fp -->
+<!-- _class: fmmmmmmm -->
 <style scoped>
 h3 {margin-bottom:0}
+ol {margin-left:0.5em; margin-top:0.25em}
+ul {margin-left:-1em}
 </style>
 
 ### Différentes propositions
 
 1) **Le suffisantisme** : <span data-marpit-fragment="1">les inégalités entre les places sociales ne sont justifiées que si on garantit un niveau suffisant de ressources et de libertés réelles pour tout le monde.</span>
-2) **Rawls** : <span data-marpit-fragment="2">les inégalités entre les places sociales ne sont justifiées que si elles sont nécessaires pour assurer un progrès social et améliorer la situation de tous et surtout des plus défavorisés.</span>
+	* « un minimum pour tout le monde »
+	* Exemple : revenu minimum garanti
+2) **Rawls** : <span data-marpit-fragment="2">les inégalités entre les places sociales ne sont justifiées que dans la mesure où elles incitent et conduisent réellement à un développement de ressources ou de services qui profitent à toute la société et surtout aux plus défavorisés</span>
+	* « un maximum pour les plus défavorisés »
+	* Exemple : taxation progressive
 3) **L'égalitarisme radical** : <span data-marpit-fragment="3">les inégalités entre les places sociales ne sont pas justifiées, il faut les supprimer.</span>
+	* « un maximum pour tout le monde »
+	* Exemple : entreprise en autogestion avec décision collective et pas de hiérarchie salariale
 
 <!-- 
 Exemples :
-Pour le suffisantisme
+Pour le suffisantisme :
 le revenu universel, revenu d'existence, revenu minimum garanti
+Pour Rawls :
+taxation progressive
+Pour l'égalitarisme radical :
+autogestion des travailleurs, participation de tout le monde aux décisions, pas de hiérarchie salariale
 -->
 
 ---
@@ -287,7 +299,7 @@ ol ul {margin-left:-1em}
 Par opposition, la reconnaissance est une forme de réaffirmation des minorités au niveau des représentations et dans leurs droits, qui prend en compte la spécificité de la situation sociale de ces minorités.
 
 <!-- 
-au-delà donc de la simple considération abstrait de l'égalité des droits
+au-delà donc de la simple considération abstraite de l'égalité des droits
 
 Voir les différentes formes de cette prise en compte
 -->
