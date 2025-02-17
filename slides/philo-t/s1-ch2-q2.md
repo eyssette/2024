@@ -271,38 +271,30 @@ Un constat : l'existence d'une autre forme d'injustice = **les injustices cult
 
 
 ---
-<!-- _class: definition fpppp-->
+<!-- _class: definition fpp-->
 ### Définition
-* Les **injustices culturelles** sont les injustices qui reposent sur des représentations sociales associées à un groupe particulier de personnes
+* Les **injustices culturelles** reposent sur des représentations sociales qui dévalorisent un groupe particulier de personnes
 * **Exemples :** les injustices subies en raison de représentations sexistes, racistes, homophobes, transphobes …
 
 
 ---
-<!-- _class: fpppppp -->
+<!-- _class: fm -->
 <style scoped>
 h3 {margin-bottom:0}
-ol ul {margin-left:-1em}
+ol{margin-top:0.5em}
+ol ul {margin-left:-1.5em}
+span {font-size:0.9em}
 </style>
 
-### Différentes formes :
+### Quelles injustices ?
 
-1) Domination culturelle
-	* &rArr; invisibilisation, absence de représentation des minorités
+1) Marginalisation <span>(= mise à l'écart)</span>
+	* Discriminations socio-économiques <span data-marpit-fragment="1"><br>≠ privilèges pour les groupes valorisés</span>
+	* Invisibilisation, absence de représentation<span data-marpit-fragment="1"><br>≠ domination culturelle des groupes valorisés</span>
 2) Mépris
-	* Violence symbolique (dévalorisation, stigmatisation, stéréotypes infériorisants)
-	* Marginalisation (mise à l'écart), discriminations
+	* Violence symbolique : <span data-marpit-fragment="1">insultes</span><span data-marpit-fragment="2">, stigmatisation (enfermement dans des stéréotypes)</span><span data-marpit-fragment="3">, silenciation <span>(on n'écoute pas ce que quelqu'un dit et on le réduit ainsi au silence)</span></span>
 	* Violence physique
 
-
----
-<!-- _class:  -->
-Par opposition, la reconnaissance est une forme de réaffirmation des minorités au niveau des représentations et dans leurs droits, qui prend en compte la spécificité de la situation sociale de ces minorités.
-
-<!-- 
-au-delà donc de la simple considération abstraite de l'égalité des droits
-
-Voir les différentes formes de cette prise en compte
--->
 
 
 ---
@@ -312,3 +304,20 @@ Voir les différentes formes de cette prise en compte
 >>Nancy **Fraser**, _Qu'est-ce que la justice sociale ?_, chapitre 2
 
 <!-- Approche bidimensionnelle -->
+
+---
+<!-- _class: fpppp -->
+Face aux injustices culturelles, la lutte contre les inégalités économiques est importante, mais ne suffit pas.
+
+<span data-marpit-fragment="1">**Les politiques de la reconnaissance** visent à lutter contre ces injustices, ce qui implique de :</span>
+
+1) reconnaître la situation particulière des groupes sociaux dévalorisés
+2) faire reconnaître l'égalité des droits et l'égalité en valeur
+
+
+<!-- 
+Exemples : 
+contre le racisme
+contre le sexisme
+
+-->
