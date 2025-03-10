@@ -208,23 +208,15 @@ h3{margin-bottom:0; text-align:justify; font-size:1em}
 ### 3) Imposer le respect d'un canon de beauté, n'est-ce pas limiter la créativité artistique ?
 
 ---
-<!-- _class: i1t1 vertical fpppppppp-->
-<style scoped>
-p:nth-of-type(1) {margin:0px 30px!important;}
-img {height:300px; margin-top:20px!important}
-</style>
-
-Les musiciens doivent-ils nécessairement respecter les règles harmoniques de la musique classique ?
-
-![](https://www.apprendrelesolfege.com/_cache/img_responsive/280/_dl/images/regle-redoublement-sons.webp)
-
----
-<!-- _class: i1t1 vertical fppppp-->
+<!-- _class: i1t1 horizontal fppp-->
 <style scoped>
 p:nth-of-type(1) {margin:0px 30px!important;}
 img {height:500px; margin-top:10px!important}
+ul{margin-left:1.5em!important}
+ul li{text-align:left!important;margin-top:0.75em!important}
 </style>
 
-Les chorégraphes doivent-ils se plier aux formes du ballet classique ?
+* Les chorégraphes doivent-ils se plier aux règles du ballet classique ?
+* Le propre des artistes n'est-il pas d'inventer de nouvelles formes artistiques ?
 
 ![](https://lh6.googleusercontent.com/BkkwPjVvH9PgP-leJF5O3ky2tdZM731VMrF-8DMaNvS1ua9NopgoGPZyMtNzE9rS-cq4jg9rzwG0OxaMyk-u9G8Vsl7fe-Htm188Rp2Acb1kfb4ZCiEDBI1LnCqS0I-g8UXv80xPPsE)
