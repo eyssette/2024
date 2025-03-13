@@ -189,6 +189,18 @@ Montrer les éléments clés d'un projet :
 descriptif, README, licence …
 -->
 
+
+---
+<!-- _class: i1t1 pp-->
+<style scoped>
+h3{text-align:center}
+img{margin:auto;display:block;height:600px}
+</style>
+
+### La boîte à rêves
+
+[![](boiteareves.png)](https://laboiteareves.forge.apps.education.fr/)
+
 ---
 <!-- _class: pp -->
 <style scoped>
@@ -211,12 +223,17 @@ Niveau 2
 1) S'inscrire sur la plateforme
 	- https://docs.forge.apps.education.fr/
 2) S'inscrire dans les groupes Tchap de la communauté de la forge
+	- Salon principal : [LaForgeÉdu](https://tchap.gouv.fr/#/room/!fnVhKrpqraWfsSirBK:agent.education.tchap.gouv.fr?via=agent.education.tchap.gouv.fr&via=agent.collectivites.tchap.gouv.fr)
+	- [TEST LaForgeÉdu](https://tchap.gouv.fr/#/room/!FMbqDmwePWphQDroBV:agent.education.tchap.gouv.fr?via=agent.education.tchap.gouv.fr&via=agent.diplomatie.tchap.gouv.fr&via=agent.dinum.tchap.gouv.fr)
+	- [DEV LaForgeÉdu](https://tchap.gouv.fr/#/room/!BXZZsyWklktciNEDbM:agent.education.tchap.gouv.fr?via=agent.education.tchap.gouv.fr)
+	- [IA LaForgeÉdu](https://tchap.gouv.fr/#/room/!IpZpqVTFcNrhUNUAJc:agent.education.tchap.gouv.fr?via=agent.education.tchap.gouv.fr)
 3) Créer un ticket pour faire un rapport de bug ou une suggestion d’amélioration pour un projet
+	- [Bac à sable](https://forge.apps.education.fr/drane-lyon/ian/sandbox/test)
+
 
 <!-- 
-https://forge.apps.education.fr/drane-lyon/ian/sandbox/test
+Montrer un exemple de projet avec des tickets traités pour faire évoluer l'application
 -->
-
 
 ---
 <!-- _class:  -->
@@ -229,8 +246,8 @@ h2 {background:rgba(0,0,0,0.9); color:white; padding:90px 130px;}
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fpppppppp -->
 
-1) Choix du projet et répartition dans les groupes de travail
+1) Choix du projet et répartition dans les groupes de travail : [s'inscrire dans ce pad](https://lightpad.forge.apps.education.fr/#https://codimd.apps.education.fr/kMUkZK9HTIyhzj_mrR_TYA)
 2) Utilisation de l'éditeur en ligne (WebIDE) pour faire des modifications
 3) Organisation du travail collaboratif sur la Forge
