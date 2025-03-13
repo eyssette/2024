@@ -19,7 +19,23 @@ h1 {margin-left:270px; padding-right:30px!important; line-height:1.15; text-alig
 Drane Site de Lyon – Formation IAN
 13 mars 2025
 
+---
 
+<!-- _class: pp  -->
+<style scoped>
+*{font-size:0.9525em}
+section{padding:0px}
+p {font-size:0.3em;opacity:0.75;margin-top:0.75em}
+td,th{border:none!important}
+td:nth-of-type(2){padding-left:40px; line-height:1.25em; padding-right:0px}
+img{width:240px}
+</style>
+
+|||
+|:-:|:-|
+|![Panda](https://drane-lyon.forge.apps.education.fr/diaporama/img/panda.svg)|<span data-marpit-fragment="1">- Je ne sais pas ce que c'est !</span><br><span data-marpit-fragment="2">- Je n'ai pas envie ou ça me semble trop compliqué</span><br><span data-marpit-fragment="3">- Je suis sceptique, voire très critique</span>|
+|![Chat](https://drane-lyon.forge.apps.education.fr/diaporama/img/chat.svg)|<span data-marpit-fragment="1">- Je veux bien tester, voire j'ai testé</span><br><span data-marpit-fragment="2">- Je ne vois pas bien ce que ça peut m'apporter dans ma pratique</span>|
+|![Corneille](https://drane-lyon.forge.apps.education.fr/diaporama/img/corneille.svg)|<span data-marpit-fragment="1">- J'ai testé et j'ai repéré des usages intéressants</span><br><span data-marpit-fragment="2">- Je souhaite les intégrer dans ma pratique, voire je l'ai déjà fait</span>|
 
 
 ---
