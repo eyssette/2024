@@ -13,6 +13,11 @@
 			- [Q1a – L’État n'est-il qu'un moyen de domination ?](s1-ch2-q1a.md)
 			- [Q1b – Quels droits accordons-nous à l'État ?](s1-ch2-q1b.md)
 		- [Q2 – Qu'est-ce que la justice sociale ?](s1-ch2-q2.md)
+- [Séquence 2 : Philosophie de la connaissance](s2.md)
+	- [Chapitre 3 : La technique](s2-ch3.md)
+		- [Q1 – La technique permet-elle de maîtriser la nature ?](s2-ch3-q1.md)
+		<!-- - [Q2 – Le développement technique transforme-t-il les êtres humains ?](s2-ch3-q2.md) -->
+
 <!--
 - [Séquence 2 : Philosophie de la connaissance](s2.md)
 	- [Chapitre 3 : La vérité](s2-ch3.md)
