@@ -16,7 +16,7 @@
 - [Séquence 2 : Philosophie de la connaissance](s2.md)
 	- [Chapitre 3 : La technique](s2-ch3.md)
 		- [Q1 – La technique permet-elle de maîtriser la nature ?](s2-ch3-q1.md)
-		<!-- - [Q2 – Le développement technique transforme-t-il les êtres humains ?](s2-ch3-q2.md) -->
+		- [Q2 – Le développement technique transforme-t-il les êtres humains ?](s2-ch3-q2.md)
 
 <!--
 - [Séquence 2 : Philosophie de la connaissance](s2.md)
