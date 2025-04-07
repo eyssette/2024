@@ -40,7 +40,7 @@ maths: false
 25. Is professional sport just a show?
 26. Can handisport events challenge societal perceptions of disability?
 27. Does sport include or exclude people with disabilities?
-28. What could explain the use of doping?
+28. What could explain the use of doping? What is wrong with doping in sport?
 29. Is sport a model of meritocracy, in which success is simply a reflection of personal merit?
 30. Should we sometimes boycott certain sporting events? Why?
 31. Are the Olympic Games still a symbol of peace and unity?
@@ -48,3 +48,8 @@ maths: false
 33. Does the idea of a sporting record only make sense in relation to oneself?
 34. Is pain normal in sport?
 35. Is sport for everybody?
+36. Is there too much technology in sport?
+37. Does sport discriminate against transsexual and transgender athletes?
+38. Is sport a moral educator?
+39. Is it wrong to be patriotic in sport?
+40. What is the value of sport?
