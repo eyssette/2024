@@ -71,26 +71,16 @@ Première partie
 
 ---
 <!-- _class:  -->
-<style scoped>
-section {font-size:4.3em}
-</style>
 **Rappel**
 
-Le mythe de Prométhée souligne le statut essentiel de la technique pour l'être humain
+Le mythe de Prométhée soulignait déjà l'importance de la technique pour **l'existence** même de l'être humain.
 
-
----
-<!-- _class: fppp -->
-**En effet :**
-1) **Par comparaison avec les animaux**, la technique semble jouer un rôle fondamental pour l'être humain
-2) **L'histoire de l'humanité** montre que la technique a toujours joué un rôle essentiel :
-    1) dès la Préhistoire, les êtres humains ont façonné des outils
-    2) la technique est un facteur important de changements historiques
+<span data-marpit-fragment="1">Mais la technique ne fait-elle pas partie de **l'essence** (= les caractéristiques fondamentales) de l'être humain ?</span>
 
 ---
 <!-- _class: citationC fppp-->
 <style scoped>
-span[data-marpit-fragment]{position:absolute; top:10px; left:40px; background:#EEE; width:580px; padding:100px 30px; border:1px solid black; height:480px;}
+span[data-marpit-fragment]{position:absolute; top:10px; left:40px; background:#EEE; width:580px; padding:100px 30px; border:1px solid black; height:480px;font-size:0.94em}
 </style>
 
 ![bg left:26%](https://upload.wikimedia.org/wikipedia/commons/e/ed/Henri_Bergson_%28Nobel%29.jpg)
@@ -98,18 +88,7 @@ span[data-marpit-fragment]{position:absolute; top:10px; left:40px; background:#E
 >« En ce qui concerne l’intelligence humaine, on n’a pas assez remarqué que l’invention mécanique a d’abord été sa démarche essentielle […] Si nous pouvions nous dépouiller de tout orgueil, si, pour définir notre espèce, nous nous en tenions strictement à ce que l’histoire et la préhistoire nous présentent comme la caractéristique constante de l’homme et de l’intelligence, nous ne dirions peut-être pas _Homo sapiens_, mais _Homo faber_ »
 >> **Bergson**, _L'évolution créatrice_, chapitre II 
 
-<span data-marpit-fragment="1">Bergson affirme en ce sens qu'on devrait nommer notre espèce _homo faber_ plutôt qu'_homo sapiens_ afin de mettre en évidence le caractère central de la technique dans l'évolution humaine.</span>
-
-<!-- 
-
-Faire noter : 
-En ce sens, Bergson affirme que l'être humain ne devrait pas être nommé _homo sapiens_ (capable de penser), mais _homo faber_ (capable de fabriquer).
-
----
-On caractérise souvent la spécificité de l'être humain par son intelligence, raison pour laquelle notre espèce est nommée _homo sapiens_. Mais l'intelligence des êtres humains ne se manifeste-t-elle pas avant tout dans la capacité à inventer des techniques, des moyens efficaces pour parvenir à ses fins, des outils et des objets qui sont les produits de cette intelligence pratique ?
-
-Bergson suggère en ce sens qu'on devrait nommer notre espèce _homo faber_ plutôt qu'_homo sapiens_ afin de mettre en évidence le caractère central de la technique dans l'évolution humaine.
--->
+<span data-marpit-fragment="1">Bergson affirme en ce sens qu'on ne devrait pas nommer notre espèce _homo sapiens_, mais _homo faber_. <br><br>Ce qui nous caractérise, ce n'est pas tant l'intelligence abstraite (_sapiens_ = sage, savant), mais la capacité à inventer des outils et à transformer le monde (_faber_ = fabricant)</span>
 
 
 ---
@@ -206,7 +185,7 @@ h2{font-size:1.6em}
 
 ---
 <!-- _class: i1t0 pp-->
-![](../../images/modern-times.png)
+![](../images/modern-times.png)
 
 
 
@@ -439,7 +418,7 @@ ol {margin-top:-15px}
 ### 2) La technologie peut-elle transformer<br> la psychologie des individus <!-- fit -->
 
 &rarr; réutilisation possible du cours sur le bonheur
-<span>[(Q1b – Schopenhauer & Épicure)](https://eyssette.forge.apps.education.fr/2024/philo-g/c/s1-ch1-q1b.html)</span>
+<span>[(Chapitre 1 / Q1b : « Nos désirs nous condamnent-ils à être toujours insatisfaits ? »)](https://eyssette.forge.apps.education.fr/2024/philo-g/c/s1-ch1-q1b.html)</span>
 
 1) L'image du tonneau percé
 2) La critique de la société de consommation (court métrage : _Happiness_)

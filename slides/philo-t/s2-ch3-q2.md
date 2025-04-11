@@ -47,16 +47,6 @@ nous avons longtemps subi les limites biologiques de notre corps
 -->
 
 ---
-<!-- _class: f -->
-
-Le but n'est pas simplement de guérir un être humain diminué par une maladie.
-
-<span data-marpit-fragment="1">Contre les **bioconservateurs**, le transhumanisme vise l'avènement d'un être humain augmenté grâce à des modifications biologiques et l'intégration en nous de la technologie.</span>
-
-1) **Le but :** vivre plus longtemps (voire être immortel), être plus fort, étendre notre perception, augmenter notre mémoire, être plus intelligent, mieux contrôler nos émotions … <!-- capacités biologiques/physiques ; capacités cognitives ; capacités émotionnelles -->
-2) **Les moyens envisagés :** prendre une pilule, modifier l'ADN, utiliser des prothèses, des nano-implants, des interfaces entre notre cerveau et l'IA.
-
----
 <!-- _class:  -->
 ### Deux questions
 1) L'idéal transhumaniste est-il un objectif à poursuivre ?
@@ -71,26 +61,16 @@ Première partie
 
 ---
 <!-- _class:  -->
-<style scoped>
-section {font-size:4.3em}
-</style>
 **Rappel**
 
-Le mythe de Prométhée souligne le statut essentiel de la technique pour l'être humain
+Le mythe de Prométhée soulignait déjà l'importance de la technique pour **l'existence** même de l'être humain.
 
-
----
-<!-- _class: fppp -->
-**En effet :**
-1) **Par comparaison avec les animaux**, la technique semble jouer un rôle fondamental pour l'être humain
-2) **L'histoire de l'humanité** montre que la technique a toujours joué un rôle essentiel :
-    1) dès la Préhistoire, les êtres humains ont façonné des outils
-    2) la technique est un facteur important de changements historiques
+<span data-marpit-fragment="1">Mais la technique ne fait-elle pas partie de **l'essence** (= les caractéristiques fondamentales) de l'être humain ?</span>
 
 ---
 <!-- _class: citationC fppp-->
 <style scoped>
-span[data-marpit-fragment]{position:absolute; top:10px; left:40px; background:#EEE; width:580px; padding:100px 30px; border:1px solid black; height:480px;}
+span[data-marpit-fragment]{position:absolute; top:10px; left:40px; background:#EEE; width:580px; padding:100px 30px; border:1px solid black; height:480px;font-size:0.94em}
 </style>
 
 ![bg left:26%](https://upload.wikimedia.org/wikipedia/commons/e/ed/Henri_Bergson_%28Nobel%29.jpg)
@@ -98,18 +78,7 @@ span[data-marpit-fragment]{position:absolute; top:10px; left:40px; background:#E
 >« En ce qui concerne l’intelligence humaine, on n’a pas assez remarqué que l’invention mécanique a d’abord été sa démarche essentielle […] Si nous pouvions nous dépouiller de tout orgueil, si, pour définir notre espèce, nous nous en tenions strictement à ce que l’histoire et la préhistoire nous présentent comme la caractéristique constante de l’homme et de l’intelligence, nous ne dirions peut-être pas _Homo sapiens_, mais _Homo faber_ »
 >> **Bergson**, _L'évolution créatrice_, chapitre II 
 
-<span data-marpit-fragment="1">Bergson affirme en ce sens qu'on devrait nommer notre espèce _homo faber_ plutôt qu'_homo sapiens_ afin de mettre en évidence le caractère central de la technique dans l'évolution humaine.</span>
-
-<!-- 
-
-Faire noter : 
-En ce sens, Bergson affirme que l'être humain ne devrait pas être nommé _homo sapiens_ (capable de penser), mais _homo faber_ (capable de fabriquer).
-
----
-On caractérise souvent la spécificité de l'être humain par son intelligence, raison pour laquelle notre espèce est nommée _homo sapiens_. Mais l'intelligence des êtres humains ne se manifeste-t-elle pas avant tout dans la capacité à inventer des techniques, des moyens efficaces pour parvenir à ses fins, des outils et des objets qui sont les produits de cette intelligence pratique ?
-
-Bergson suggère en ce sens qu'on devrait nommer notre espèce _homo faber_ plutôt qu'_homo sapiens_ afin de mettre en évidence le caractère central de la technique dans l'évolution humaine.
--->
+<span data-marpit-fragment="1">Bergson affirme en ce sens qu'on ne devrait pas nommer notre espèce _homo sapiens_, mais _homo faber_. <br><br>Ce qui nous caractérise, ce n'est pas tant l'intelligence abstraite (_sapiens_ = sage, savant), mais la capacité à inventer des outils et à transformer le monde (_faber_ = fabricant)</span>
 
 
 ---
@@ -206,9 +175,7 @@ h2{font-size:1.6em}
 
 ---
 <!-- _class: i1t0 pp-->
-![](../../images/modern-times.png)
-
-
+![](../images/modern-times.png)
 
 ---
 <!-- _class:  -->
@@ -223,85 +190,6 @@ L'introduction des machines s'accélère avec la mise en place du **taylorisme**
 <span data-marpit-fragment="2">[![](https://i.ibb.co/Df0QqXz/image.png)](https://eyssette.github.io/myMarkmap/#https://github.com/eyssette/mindmap/blob/main/double-division-du-travail-2.md)</span>
 
 
----
-<!-- _class: fppppppp -->
-**Objectif visé :** <span data-marpit-fragment="1">la productivité (production rapide en masse, avec un coût le plus faible possible)</span>
-
-<span data-marpit-fragment="2">**Mais conséquence sur le travail :**</span><span data-marpit-fragment="3"> le travail lui-même devient mécanique ; l'ouvrier devient une sorte de machine.</span>
-
-<!-- L'ouvrier sera d'ailleurs remplacé par des machines dès que ce sera possible
--->
-
-<span data-marpit-fragment="4">Le taylorisme produit ce qu'on appelle de **l'aliénation**.</span>
-
-
----
-<!-- _class: fpppp -->
-<style scoped>
-div {font-size:0.9em}
-</style>
-
-La notion d'aliénation provient de l'analyse que fait Marx du travail (avant même la mise en place du taylorisme).
-
-<span data-marpit-fragment="1">De manière générale, l'aliénation désigne le fait de ne plus avoir quelque chose.</span> <span data-marpit-fragment="2">C'est une perte, une privation, une dépossession.</span>
-
-<!-- alius : autre / -nus : appartenance, provenance -->
-
-<div>
-
-<span data-marpit-fragment="2">“aliénation mentale” : ne plus avoir la raison</span>
-<span data-marpit-fragment="3">“aliénation juridique” : transmission d'un bien (on ne l'a plus)</span>
-<span data-marpit-fragment="4">“droits inaliénables” : on ne peut pas nous les enlever (on les a toujours)</span>
-</div>
-
----
-<!-- _class: citationC fp -->
-<style scoped>
-figure {margin-left:-100px!important}
-</style>
-
-![bg left:25%](https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg)
-
-> « Dans la manufacture et le métier, l’ouvrier se sert de son outil ; dans la fabrique il sert la machine […] [L]e travail mécanique […] empêche le jeu varié des muscles et comprime toute activité libre du corps et de l’esprit. […] [L]a machine ne délivre pas l’ouvrier du travail mais dépouille le travail de son intérêt. […] L'habileté de l'ouvrier apparaît chétive devant la science prodigieuse, les énormes forces natu­relles, […] incorporées au système mécanique […]. La subordination technique de l'ouvrier […] [crée] une discipline de caserne »
->> Karl **Marx**, _Le Capital_, I, XV, IV
-
-
----
-<!-- _class: fp -->
-Marx distingue deux formes possibles d'aliénation dans le travail.
-
-### <span data-marpit-fragment="1">a) L'aliénation par rapport au produit du travail</span> <!-- fit -->
-
-<span data-marpit-fragment="2">“L'objet produit n'est pas de moi”</span>
-
-<span data-marpit-fragment="3">= je ne me reconnais pas dans l'objet car il n'exprime rien de moi (aucune capacité physique ou intellectuelle).</span>
-
-<span data-marpit-fragment="4">&rArr; **sentiment d'insignifiance** : perte de sens.</span>
-
-<span data-marpit-fragment="5">C'est ce que produit la **division horizontale** du travail en réduisant le travail à une tâche élémentaire et mécanique.</span>
-
----
-<!-- _class: fpppp -->
-### b) L'aliénation par rapport à l'acte de travail
-
-<span data-marpit-fragment="1">“La manière de travailler n'est pas de moi”</span>
-
-<span data-marpit-fragment="2">= je ne décide pas de ma manière de travailler, je ne contrôle pas ce que je fais.</span>
-
-<span data-marpit-fragment="3">&rArr; **sentiment d'impuissance** : perte de contrôle.</span>
-
-<span data-marpit-fragment="4">C'est ce que produit la **division verticale** du travail en codifiant de manière stricte ce que l'ouvrier doit faire.</span>
-
-
-<!-- 
-
-= aliénation subjective
-+ aliénation objective ("habileté… apparaît chétive devant la science prodigieuse, les énormes forces naturelles,… incorporées au système mécanique")
-aliénation du monde même dans lequel je vis
-
-les forces productives s'autonomisent et deviennent étrangères aux hommes : plus de maîtrise
--->
-
 
 ---
 
@@ -311,7 +199,7 @@ Avec la tertiarisation des activités : ?
 Mais en fait : extension du taylorisme à d'autres domaines, notamment dans les services
 -->
 
-[![](../../images/commande-vocale.png)](https://ladigitale.dev/digiview/#/v/645cb56d1efff)
+[![](../images/commande-vocale.png)](https://ladigitale.dev/digiview/#/v/645cb56d1efff)
 
 Usage de la commande vocale pour les préparateurs de commande : extrait du documentaire _Travail, ton univers impitoyable_ [+](https://ladigitale.dev/digiview/#/v/645cb56d1efff)
 
@@ -344,10 +232,10 @@ Une nouvelle forme d'organisation du travail : le **post-taylorisme** (ou “pos
     p:last-child{margin:10px; margin-top:-10px;}
 </style>
 
-[![](../../images/teleperformance.png)](https://drive.google.com/file/d/0B1WGm8LGlYXzREgyaDg5enVTNU9BNWJRYUNTaHBiZw/view)
+[![](../images/teleperformance.png)](https://nuage03.apps.education.fr/index.php/s/GLCCfLoMFtaPWRw)
 
 Usage de l'informatique pour surveiller les performances : 
-extrait du documentaire _Attention Danger Travail_ [+](https://drive.google.com/file/d/0B1WGm8LGlYXzREgyaDg5enVTNU9BNWJRYUNTaHBiZw/view)
+extrait du documentaire _Attention Danger Travail_ [+](https://nuage03.apps.education.fr/index.php/s/GLCCfLoMFtaPWRw)
 
 
 
@@ -430,15 +318,16 @@ Notion d'eugénisme
 -->
 
 ---
-<!-- _class: fpp -->
+<!-- _class: fmm -->
 <style scoped>
-span {font-size:0.6em;}
+span {font-size:0.6em;display:block; text-align:right;}
 ol {margin-top:-15px}
 </style>
 
 ### 2) La technologie peut-elle transformer<br> la psychologie des individus <!-- fit -->
 
-**Rappel** (cours sur le bonheur <span>[Q1b&nbsp;:&nbsp;&laquo;&nbsp;Désirer, est-ce souffrir ? &raquo;](https://eyssette.github.io/cours/philo22g/c/s1-ch1-q1.html#q1b--le-d%C3%A9sir-nous-fait-il-n%C3%A9cessairement-souffrir-)</span>)
+&rarr; réutilisation possible du cours sur la liberté
+<span>[(Chapitre 1 / Q1a : « Sommes-nous esclaves de nos désirs ? »)](https://eyssette.forge.apps.education.fr/2024/philo-t/c/s1-ch1-q1a.html)</span>
 
 1) L'image du tonneau percé
 2) La critique de la société de consommation (court métrage : _Happiness_)
@@ -456,3 +345,30 @@ figure{margin-right:-100px!important}
 
 >« Notre environnement technologique en pleine évolution engendre  un besoin de stimulation toujours croissant. […] Notre vie mentale est plus décousue, et plus vulnérable aux sollicitations du moments. […] Notre dispersion mentale ne peut pas simplement être attribuée à la publicité, à Internet, … […] il s’agit d’un phénomène plus global qui relève de tout un style de vie. […] Si nous ne sommes pas capables de maîtriser l'orientation de notre attention, nous sommes à la merci de ceux qui souhaitent l'orienter en fonction de leurs intérêts. »
 >> Matthew B. **Crawford**, _Contact_
+
+
+---
+<!-- _class: partie -->
+# Mise en<br> pratique <!-- fit -->
+
+---
+<!-- _class: exercice application fmmmmmm -->
+<style scoped>
+h3 {margin-bottom:15px}
+ul {margin-left:24px;}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%;}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+	- La technique est-elle libératrice ?
+	- Le progrès technique est-il source de bonheur ?
+	- La technique sert-elle nos désirs ?
+	- Doit-on soumettre le progrès technique à des limites morales ?
+	- Le progrès technique nous libère-t-il du travail ?
+	- La technique dénature-t-elle le travail ?
+	- Doit-on faire du travail une valeur ?
+	- L'être humain se réalise-t-il dans le travail ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>
