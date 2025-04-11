@@ -311,7 +311,7 @@ Avec la tertiarisation des activités : ?
 Mais en fait : extension du taylorisme à d'autres domaines, notamment dans les services
 -->
 
-[![](../../images/commande-vocale.png)](https://ladigitale.dev/digiview/#/v/645cb56d1efff)
+[![](../images/commande-vocale.png)](https://ladigitale.dev/digiview/#/v/645cb56d1efff)
 
 Usage de la commande vocale pour les préparateurs de commande : extrait du documentaire _Travail, ton univers impitoyable_ [+](https://ladigitale.dev/digiview/#/v/645cb56d1efff)
 
@@ -344,10 +344,10 @@ Une nouvelle forme d'organisation du travail : le **post-taylorisme** (ou “pos
     p:last-child{margin:10px; margin-top:-10px;}
 </style>
 
-[![](../../images/teleperformance.png)](https://drive.google.com/file/d/0B1WGm8LGlYXzREgyaDg5enVTNU9BNWJRYUNTaHBiZw/view)
+[![](../images/teleperformance.png)](https://nuage03.apps.education.fr/index.php/s/GLCCfLoMFtaPWRw)
 
 Usage de l'informatique pour surveiller les performances : 
-extrait du documentaire _Attention Danger Travail_ [+](https://drive.google.com/file/d/0B1WGm8LGlYXzREgyaDg5enVTNU9BNWJRYUNTaHBiZw/view)
+extrait du documentaire _Attention Danger Travail_ [+](https://nuage03.apps.education.fr/index.php/s/GLCCfLoMFtaPWRw)
 
 
 
@@ -430,15 +430,16 @@ Notion d'eugénisme
 -->
 
 ---
-<!-- _class: fpp -->
+<!-- _class: fmm -->
 <style scoped>
-span {font-size:0.6em;}
+span {font-size:0.6em;display:block; text-align:right;}
 ol {margin-top:-15px}
 </style>
 
 ### 2) La technologie peut-elle transformer<br> la psychologie des individus <!-- fit -->
 
-**Rappel** (cours sur le bonheur <span>[Q1b&nbsp;:&nbsp;&laquo;&nbsp;Désirer, est-ce souffrir ? &raquo;](https://eyssette.github.io/cours/philo22g/c/s1-ch1-q1.html#q1b--le-d%C3%A9sir-nous-fait-il-n%C3%A9cessairement-souffrir-)</span>)
+&rarr; réutilisation possible du cours sur le bonheur
+<span>[(Q1b – Schopenhauer & Épicure)](https://eyssette.forge.apps.education.fr/2024/philo-g/c/s1-ch1-q1b.html)</span>
 
 1) L'image du tonneau percé
 2) La critique de la société de consommation (court métrage : _Happiness_)
@@ -456,3 +457,30 @@ figure{margin-right:-100px!important}
 
 >« Notre environnement technologique en pleine évolution engendre  un besoin de stimulation toujours croissant. […] Notre vie mentale est plus décousue, et plus vulnérable aux sollicitations du moments. […] Notre dispersion mentale ne peut pas simplement être attribuée à la publicité, à Internet, … […] il s’agit d’un phénomène plus global qui relève de tout un style de vie. […] Si nous ne sommes pas capables de maîtriser l'orientation de notre attention, nous sommes à la merci de ceux qui souhaitent l'orienter en fonction de leurs intérêts. »
 >> Matthew B. **Crawford**, _Contact_
+
+
+---
+<!-- _class: partie -->
+# Mise en<br> pratique <!-- fit -->
+
+---
+<!-- _class: exercice application fmmmmmm -->
+<style scoped>
+h3 {margin-bottom:15px}
+ul {margin-left:24px;}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%;}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+	- La technique est-elle libératrice ?
+	- Le progrès technique est-il source de bonheur ?
+	- La technique sert-elle nos désirs ?
+	- Doit-on soumettre le progrès technique à des limites morales ?
+	- Le progrès technique nous libère-t-il du travail ?
+	- La technique dénature-t-elle le travail ?
+	- Doit-on faire du travail une valeur ?
+	- L'être humain se réalise-t-il dans le travail ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>
