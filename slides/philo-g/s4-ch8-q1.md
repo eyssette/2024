@@ -152,7 +152,7 @@ section.sanspuces ul li:before{content:""}
 </style>
 ### 1/ Les fondements du marxisme
 
-#### <span data-marpit-fragment="1">Première idée : le déterminisme économique</span> <!-- fit -->
+#### <span data-marpit-fragment="1">Le déterminisme économique</span>
 * Les phénomènes humains s'expliquent essentiellement par des facteurs économiques.
 * C'est une forme de matérialisme : pour comprendre les humains, il faut se focaliser sur les conditions matérielles d'existence.
 
@@ -161,7 +161,7 @@ section.sanspuces ul li:before{content:""}
 
 ---
 <!-- _class: sanspuces fpppp -->
-#### Deuxième idée : la lutte des classes
+#### La lutte des classes
 
 * La société est divisée en classes sociales distinctes : <span data-marpit-fragment="1">une classe dominante qui possède des moyens économiques, et une classe dominée, qui ne possède que sa force de travail.</span>
 * La classe dominante lutte pour conserver et prolonger sa position de domination. <span data-marpit-fragment="1">La classe dominée a intérêt à s'opposer à la domination qu'elle subit.</span>
@@ -174,7 +174,7 @@ h4 {text-align:justify!important}
 </style>
 ### 2/ Qu'est-ce que l'État <br>d'après le marxisme ?
 
-#### <span data-marpit-fragment="1">Première idée : l'Etat comme prolongement de la lutte des classes</span>
+#### <span data-marpit-fragment="1">L'État au service de la classe dominante</span>
 * Le pouvoir politique de l'Etat sert à maintenir et renforcer la domination économique de la classe sociale dominante.
 
 
@@ -219,7 +219,7 @@ h4 {text-align:justify!important}
 </style>
 ### 3/ Que faut-il faire d'après le marxisme ?
 
-#### <span data-marpit-fragment="1">Première idée : la lutte pour une société sans domination</span>
+#### <span data-marpit-fragment="1">La lutte pour une société sans domination</span>
 * Le marxisme défend une position révolutionnaire et non pas réformiste.
 * Mais la classe dominante a pour intérêt d'empêcher cette révolution.
 
@@ -229,7 +229,7 @@ croyance aux pouvoirs de l'argumentation, de la parole : naïveté politique
 
 ---
 <!-- _class: sanspuces fppppp  -->
-#### Deuxième idée : la dictature du prolétariat <!-- fit -->
+#### La dictature du prolétariat
 * La classe dominée doit s'emparer du pouvoir de l'État.
 * Ce n'est censé être qu'une phase temporaire afin de mettre en place progressivement une société sans domination.
 
