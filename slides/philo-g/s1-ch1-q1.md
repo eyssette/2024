@@ -13,8 +13,13 @@ https://eyssette.forge.apps.education.fr/
 
 
 ---
-<!-- _class: i1t1 fpppppp -->
-![](https://indepest.com/wp-content/uploads/2022/10/img_20221006_161429.jpg)
+<!-- _class: i1t1 fppp  vertical pp -->
+<style scoped>
+img{height:550px}
+ol{margin:auto!important}
+li{text-align:left!important}
+</style>
+![](https://raw.githubusercontent.com/eyssette/images/refs/heads/main/img/secret-of-happiness.jpg)
 
 1) Comment être heureux ?
 2) Quels sont les obstacles au bonheur ? 
