@@ -115,13 +115,13 @@ ol ul li {font-weight:normal; margin-top:0em}
 </style>
 ### B. Quel est l'intérêt des ressources libres ?<!-- fit -->
 
-1) droit de consulter
+1) Droit de consulter
 	* diffusion des connaissances
 	* transparence, confiance, sécurité
-2) droit de rediffuser
+2) Droit de rediffuser
 	* pérennité
 	* hébergement souverain
-3) droit de remixer et modifier
+3) Droit de remixer et modifier
 	* favoriser la contribution collaborative
 	* favoriser l'innovation
 
@@ -232,3 +232,29 @@ img{height:1.25em; margin-left:1em}
 1) [Magistère](https://portail.apps.education.fr/services/wHS2Ly6uhb5WAko7N/magistere) ![](https://portail.apps.education.fr/objects/services/2pAmB2R7T3mBtCGtp/logo_oejubbN67TptXxEsG.png)
 1) [Réseau des concepteurs](https://portail.apps.education.fr/services/wHS2Ly6uhb5WAko7N/reseau-des-concepteurs) ![](https://portail.apps.education.fr/objects/services/vfjG8Du2ejp8JSJ5N/logo_vPRTzJANDCsBMDJ2j.png)
 2) [Forge des Communs Numériques Éducatifs](https://portail.apps.education.fr/services/forge-des-communs-numeriques-educatifs) ![](https://portail.apps.education.fr/objects/services/LzKZHzoxvb6KCdK9u/logo_eifTF6ANaigNWNdza.png)
+
+
+---
+<!-- _class: invert -->
+## III – <br>Focus sur <br>_#LaForgeÉdu_<!-- fit -->
+
+
+---
+<!-- _class:  -->
+#### A. Qu'est-ce que la Forge ?
+
+1) Pas un simple espace de stockage et de partage de ressources
+2) Un outil conçu au départ pour le développement logiciel
+3) Un outil dont on peut détourner l'usage au profit de la communauté enseignante
+
+---
+<!-- _class:  -->
+<style scoped>
+section{padding:0;padding-left:10px}
+img{margin-left:0.85em}
+</style>
+
+
+[![](https://eyssette.forge.apps.education.fr/mindmap/usages-possibles-forge.svg)](https://mymarkmap.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/mindmap/usages-possibles-forge.md)
+
+
