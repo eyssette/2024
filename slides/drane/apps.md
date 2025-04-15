@@ -202,7 +202,7 @@ img{height:1em; margin-left:1em}
 <style scoped>
 h3{font-size:1.25em}
 ol{margin-top:1em}
-ol > li{margin-top:0.5em; margin-left:1em; padding-left:0.5em}
+ol > li{margin-top:0.35em; margin-left:1em; padding-left:0.5em; font-weight:500}
 ul{margin-top:0.25em}
 ul li {margin-left:1em;}
 img{height:1em; margin-left:0.25em}
@@ -210,9 +210,9 @@ img{height:1em; margin-left:0.25em}
 
 
 ### C. Pour gérer des fichiers
-1) Stocker et partager :
+1) Stocker et partager
 	- [Nuage](https://portail.apps.education.fr/services/nuage) ![](https://portail.apps.education.fr/objects/services/FLXmQM6rXhgLK5n4C/logo_P4M8xEkGz9gs5uPrY.png)
-2) Envoyer des fichiers lourds :
+2) Envoyer des fichiers lourds
 	- [Filesender](https://portail.apps.education.fr/services/filesender) ![](https://portail.apps.education.fr/objects/services/jJ9DZmcwSS8wHp4Qy/logo_YmucsPkY8pWPSvtSm.png)
 	- [France Transfert](https://portail.apps.education.fr/services/france-transfert) ![](https://portail.apps.education.fr/objects/services/vaCHX8wd8foch7g2K/logo_DD5Dki8nLGtCYuMmA.png)
 3) Diffuser des vidéos ou des audios
@@ -258,3 +258,43 @@ img{margin-left:0.85em}
 [![](https://eyssette.forge.apps.education.fr/mindmap/usages-possibles-forge.svg)](https://mymarkmap.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/mindmap/usages-possibles-forge.md)
 
 
+
+---
+<!-- _class:  -->
+<style scoped>
+ol{margin-top:0.5em}
+li{margin-top:0.25em; margin-left:1.5em; padding-left:0.5em}
+ol > li{margin-top:0.75em; font-weight:500}
+ul li{margin-left:0.75em}
+img{height:1.25em; margin-left:1em}
+</style>
+
+#### B. Des exemples
+
+1) Cours / exercices
+	- [CodEx](https://codex.forge.apps.education.fr/) ![](https://codex.forge.apps.education.fr/logo_robot_128x128.png)
+	- [MathAléa](https://coopmaths.fr/alea/) ![](https://forge.apps.education.fr/uploads/-/system/project/avatar/451/logo-coopmaths-carr%C3%A9-final.png?width=48)
+2) Des applications pratiques
+	- [QRprint](https://qrprint.forge.apps.education.fr/app/) ![](https://qrprint.forge.apps.education.fr/app/img/logo.svg)
+	- [FacePrivacy](https://faceprivacy.forge.apps.education.fr/app/) ![](https://faceprivacy.forge.apps.education.fr/app/logo.svg)
+	- [Marklab](https://marklab.forge.apps.education.fr/) ![](https://marklab.forge.apps.education.fr/assets/logo/logo.svg)
+
+
+---
+<!-- _class:  -->
+
+<style scoped>
+h3{font-size:1.25em}
+ol{margin-top:1em}
+ol > li{margin-top:1em; margin-left:0.5em; padding-left:0.5em; font-weight:500}
+ul{margin-top:0.25em}
+ul li {margin-left:0.75em;}
+img{height:1em; margin-left:0.25em}
+</style>
+
+3) Catalogues pour se repérer sur la Forge :
+	- [La cartographie](https://docs.forge.apps.education.fr/cartographie/)
+	- [Le portail primaire](https://primaire.forge.apps.education.fr/)
+4) Une communauté :
+	- [Salon Tchap généraliste](https://www.tchap.gouv.fr/#/room/!fnVhKrpqraWfsSirBK:agent.education.tchap.gouv.fr)<br>[Salon Tchap AideTech](https://www.tchap.gouv.fr/#/room/!BXZZsyWklktciNEDbM:agent.education.tchap.gouv.fr)
+	- [La boîte à rêves](https://laboiteareves.forge.apps.education.fr/)
