@@ -31,6 +31,17 @@ cedric.eyssette@ac-lyon.Fr
 
 
 ---
+<!-- _class:  -->
+<style scoped>
+img{width:680px;display:block;margin:auto}
+a{display:block;text-align:center}
+</style>
+
+![](https://minio.apps.education.fr/codimd-prod/uploads/2b62439c063b7b1b31dcfaf82.png)
+
+http://url.forge.apps.education.fr/#32
+
+---
 <!-- _class: invert -->
 ## I – <br>Pourquoi ?<!-- fit -->
 
