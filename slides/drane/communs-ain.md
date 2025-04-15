@@ -245,6 +245,15 @@ img{height:1.25em; margin-left:1em}
 2) [Forge des Communs Numériques Éducatifs](https://portail.apps.education.fr/services/forge-des-communs-numeriques-educatifs) ![](https://portail.apps.education.fr/objects/services/LzKZHzoxvb6KCdK9u/logo_eifTF6ANaigNWNdza.png)
 
 
+<!--
+À venir : outils de La Digitale
+- Digiboard
+- Digipad
+- Digiscreen
+- Digistorm
+- Digiquiz
+-->
+
 ---
 <!-- _class: invert -->
 ## III – <br>Focus sur <br>_#LaForgeÉdu_<!-- fit -->
