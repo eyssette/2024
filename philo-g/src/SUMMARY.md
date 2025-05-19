@@ -42,7 +42,12 @@
 	- [Chapitre 9 : La justice](s4-ch9.md)
 		- [Q1 – La politique doit-elle être guidée par un idéal moral ?](s4-ch9-q1.md)
 		- [Q2 – La justice sociale signifie-t-elle l'égalité ?](s4-ch9-q2.md)
-
+- [Séquence 5 : Épistémologie et métaphysique](s5.md)
+	- [Chapitre 10 : La vérité](s5-ch10.md)
+		- [Q1 – Peut-on vraiment parvenir à la vérité ?](s5-ch10-q1.md)
+			- [Q1a – Peut-on dire « à chacun sa vérité » ?](s5-ch10-q1a.md)
+			- [Q1b – Faut-il douter tout ?](s5-ch10-q1b.md)
+			- [Q1c – Le langage est-il un obstacle à la connaissance ?](s5-ch10-q1c.md)
 
 ---
 - [Méthode de la dissertation](methode-dissertation.md)
