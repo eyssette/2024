@@ -84,49 +84,18 @@ Croire qu'il y a des vérités, ce n'est pas croire qu'on a la vérité : on peu
 
 ---
 <!-- _class: souspartie -->
-## C. Deux objections majeures <br>contre le relativisme <!-- fit -->
+## C. Une objection <br>majeure <!-- fit -->
 
 ---
-<!-- _class: etape -->
+<!-- _class: fppppp i1t1 vertical-->
 <style scoped>
-h3 {padding-bottom:0.6em!important; margin-bottom:1.15em}
-p {text-align:justify!important}
+p{text-align:left!important; margin:30px!important}
+img{height:300px;display:block;}
 </style>
 
-### 1/ Une confusion entre vérité et opinion <!-- fit -->
-
-“Chacun sa vérité” signifie en fait “chacun son opinion”.
-
-<span data-marpit-fragment="1">Le relativisme refuse de distinguer l'opinion et la vérité.</span>
-
-<span data-marpit-fragment="2">Or : il y a des opinions vraies et des opinions fausses (p.ex. “2+2=5”).</span>
-
----
-<!-- _class: etape fppppp -->
-### 2/ Le relativisme conduit à une contradiction <!-- fit -->
-<style scoped>
-h3 {padding-bottom:0.6em!important; margin-bottom:1.15em}
-p {text-align:justify!important}
-</style>
-
-Le relativisme affirme que la vérité n'existe pas
-<span data-marpit-fragment="1">&rArr; il affirme que c'est vrai que la vérité n'existe pas</span>
-<span data-marpit-fragment="2">&rArr; il y a au moins une vérité !</span>
-
-<span data-marpit-fragment="3">**Autre formulation :**</span>
-
-<span data-marpit-fragment="4">Le relativisme affirme qu'il n'y a pas de vérité, donc le relativisme n'est pas une thèse vraie.</span>
-
----
-<!-- _class: i1t1 horizontal contain -->
-<style scoped>
-p {font-size:2em; text-align:left!important}
-</style>
-
-
-Le relativisme
-de la vérité est
-auto-réfutant :
-il se réfute lui-même.
+Le relativisme conduit à une contradiction <!-- fit -->
+<span data-marpit-fragment="1">Il affirme qu'il n'y a pas de vérité, donc d'après le relativisme, le relativisme n'est pas une thèse vraie.</span>
 
 ![contain image d'un serpent qui se mord la queue](https://i.ibb.co/6Wq0mxh/Ouroboros-simple.jpg)
+
+

@@ -34,13 +34,11 @@ Première partie
 
 ---
 <!-- _class: fppp -->
-Le doute semble nécessaire pour affirmer l'autonomie de notre pensée, pour réfléchir par soi-même.
+Le doute semble nécessaire pour affirmer **l'autonomie** de sa pensée, pour réfléchir par soi-même au lieu de simplement suivre des **autorités** extérieures.
 
 <span data-marpit-fragment="1">Il s'agit, comme le dit Kant, d'avoir “le courage de se servir de son propre entendement”.</span>
 
-<span data-marpit-fragment="2">Sinon nous sommes comme des mineurs sous tutelle, c'est-à-dire que nous sommes dirigés par d'autres, soumis à des préjugés et aux idées dominantes.</span>
-
-<span data-marpit-fragment="3">L'enjeu c'est donc ici la liberté et la lutte contre la domination.</span>
+<span data-marpit-fragment="2">L'enjeu c'est donc ici la liberté et la lutte contre la domination.</span>
 
 ---
 <!-- _class: souspartie -->
@@ -61,6 +59,13 @@ Le doute semble nécessaire pour affirmer l'autonomie de notre pensée, pour ré
 1) Nos facultés (nos sens, notre mémoire, …) peuvent nous tromper : nous pouvons être dans l'illusion [:link:](https://docs.google.com/document/d/1k0PyEjEYlJVcNk23j-RAzZANood-5VWihYIhd9ERlJ8/edit)
 2) Il peut y avoir un désaccord entre différentes théories
 3) On peut imaginer un “scénario sceptique” dans lequel notre expérience est identique, mais ce qu'on croit vrai est faux : on pourrait imaginer que nous sommes en fait dans un rêve, ou dans un univers virtuel.
+
+<!-- 
+perception ≠ réception de données brutes
+= interprétation
+
+même s'il y a une seule théorie => argument de la méta-induction pessimiste
+-->
 
 ---
 <!-- _class: i1t1 vertical contain -->
