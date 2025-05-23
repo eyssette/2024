@@ -65,7 +65,7 @@ Le doute semble nécessaire pour affirmer l'autonomie de notre pensée, pour ré
 ---
 <!-- _class: i1t1 vertical contain -->
 
-[![photogramme du film _Dark Star_ de John Carpenter : dialogue entre un homme et une bombe qui va exploser](https://i.ibb.co/PGrW6WP/dark-star-r.png)](https://ladigitale.dev/digiview/#/v/6481b0a8aa5fe)
+[![photogramme du film _Dark Star_ de John Carpenter : dialogue entre un homme et une bombe qui va exploser](https://i.ibb.co/PGrW6WP/dark-star-r.png)](https://ladigitale.dev/digiview/#/v/68308092e8374)
 
 John Carpenter, _Dark Star_ (1974)
 <span style="font-size:1.7rem; margin-top:-5px; display:block;">(Cliquer sur l'image pour voir la vidéo)</span>
