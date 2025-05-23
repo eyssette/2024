@@ -254,6 +254,9 @@ Pour Rawls :
 taxation progressive
 Pour l'égalitarisme radical :
 autogestion des travailleurs, participation de tout le monde aux décisions, pas de hiérarchie salariale
+
+Pour Rawls : mettre plus l'accent sur l'idée de “progrès social”. Reprendre le "slogan" pour qu'il soit plus clair : “le progrès social pour tout le monde” (en l'évaluant par la situation des plus défavorisés)
+reformuler l'idée directrice de manière plus claire également : les inégalités entre les places sociales ne sont justifiées que si elles permettent un progrès social en encourageant les individus à agir d'une manière qui bénéficie à tout le monde, et surtout aux plus défavorisés
 -->
 
 ---
