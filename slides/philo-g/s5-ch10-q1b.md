@@ -163,3 +163,7 @@ Le doute est nécessaire face aux théories qui ne se confrontent pas avec l'exp
 
 <span data-marpit-fragment="1">Mais le doute n'est pas légitime s'il conduit à ne pas se confronter avec l'expérience ou avec la communauté scientifique.</span>
 
+
+<!-- 
+ajouter : science => institutionnalisation et organisation sociale du doute
+-->
