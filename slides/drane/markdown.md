@@ -176,7 +176,7 @@ Créer un nouveau document CodiMD et reprendre ce modèle : <a href="https://cod
 
 ### En ligne
 – <a href="https://codimd.apps.education.fr/" target="_blank">CodiMD</a> pour nous
-– <a href="https://digipad.app/" target="_blank">Digipad</a> pour les élèves
+– <a href="https://digipage.app/" target="_blank">Digipage</a> pour les élèves
 
 ### En local
 – Un éditeur spécialisé Markdown : <a href="https://www.marktext.cc/" target="_blank">Marktext</a>
