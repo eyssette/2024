@@ -104,8 +104,10 @@ input_file = sys.argv[1]
 # Traitement du fichier Markdown
 content = process_file(input_file)
 
+print(content.rstrip())
+pyperclip.copy(content.rstrip())
+
 # Création du fichier RAW
 
 output_file = input_file.rsplit('.', 1)[0] + '-RAW.md'
 
-pyperclip.copy(content.rstrip())

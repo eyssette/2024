@@ -14,4 +14,9 @@
 		"./slides/themes/moja-teal.css",
 		"./slides/themes/a4-3c.css",
 	  ],
+	"terminal.integrated.env.linux": {
+    "GTK_PATH": "/usr/lib/x86_64-linux-gnu/gtk-3.0",
+    "LD_LIBRARY_PATH": null,
+    "GIO_MODULE_DIR": null
+  }
 }
