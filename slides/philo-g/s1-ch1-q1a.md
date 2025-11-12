@@ -161,7 +161,7 @@ DEUXIÈME PARTIE
 
 <!-- _class: citationC fpppp -->
 <style scoped>
-.comment {background:rgba(0, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; position:absolute; height:100%; width:100%}
+.comment {background:rgba(0, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; position:absolute; height:100%; width:100%; top:0;}
 .comment ol {list-style-type:none; background:white; border:1px solid black; border-radius:30px; width:370px; padding:30px;}
 </style>
 
@@ -181,7 +181,7 @@ DEUXIÈME PARTIE
 ---
 <!-- _class: citationC fmm -->
 <style scoped>
-.comment {background:rgba(0, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; position:absolute; height:100%; width:100%}
+.comment {background:rgba(0, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; position:absolute; height:100%; width:100%; top:0;}
 .comment ol {list-style-type:none; background:white; border:1px solid black; border-radius:30px; width:350px; padding:30px; margin:auto; font-size:1.1em}
 </style>
 
@@ -204,7 +204,7 @@ Importance de la discussion + d'un modèle -->
 ---
 <!-- _class: citationC fppp -->
 <style scoped>
-.comment {background:rgba(0, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; position:absolute; height:100%; width:100%}
+.comment {background:rgba(0, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; position:absolute; height:100%; width:100%; top:0;}
 .comment ol {list-style-type:none; background:white; border:1px solid black; border-radius:30px; width:370px; padding:30px; font-size:0.8em}
 .comment ol span {font-size:0.9em}
 </style>
