@@ -1,5 +1,5 @@
 # 2024
-Cours et formations 2024-2025
+Cours et formations 2024-2025, par Cédric Eyssette, professeur de philosophie.
 
 Hormis pour les textes cités et les images utilisés, ainsi que pour certains documents qui peuvent avoir une licence propre (indiquée dans le document en question), les contenus textuels de ce site sont sous licence libre CC-BY.
 
