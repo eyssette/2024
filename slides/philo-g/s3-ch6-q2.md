@@ -56,10 +56,11 @@ figure {margin-right:-40px!important}
 ---
 <!-- _class: exercice tableau colonnes fmmmmmm -->
 <style scoped>
-table {position:absolute; top:-170px; }
+table {position:absolute; top:-170px;}
 td {font-size:80%}
-ol {position:absolute; top:-10px; max-height:350px!important; }
-ol li {padding-top:10px!important; font-size:1.2em;}
+ol {position:absolute; max-height:320px; top:-5px;padding:10px!important;}
+ol li {padding-top:10px!important; font-size:1em;padding-right:1em!important;}
+
 </style>
 
 |Le génie|Le contraire du génie|
@@ -71,13 +72,13 @@ ol li {padding-top:10px!important; font-size:1.2em;}
 |?|?|
 
 1. inventer
-2. La créativité de l'imagination
-3. Le mécanisme de l'instruction
-4. produire originellement son monde
+2. La créativité <br>de l'imagination
+3. Le mécanisme <br>de l'instruction
+4. produire <br>originellement<br> son monde
 5. se servir de modèles
 6. l'originalité
-7. reproduire ce que d'autres ont fait
-8. la conformité aux règles (la discipline)
+7. reproduire ce que <br>d'autres ont fait
+8. la conformité aux règles <br>(la discipline)
 9. imiter
 10. servir de modèles
 
