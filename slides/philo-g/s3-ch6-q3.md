@@ -57,7 +57,7 @@ https://ladigitale.dev/digiplay/#/v/623134548bc65
 ---
 <!-- _class: exercice tableau colonnes fmmmmm -->
 <style scoped>
-table {position:absolute; top:-12.5em;  }
+table {position:absolute; top: -170px;}
 td {font-size:80%}
 ol {position:absolute; top:-25px; max-height:350px!important; }
 ol li {padding-top:10px!important; font-size:1.2em;}
