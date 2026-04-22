@@ -57,7 +57,7 @@ https://ladigitale.dev/digiplay/#/v/623134548bc65
 ---
 <!-- _class: exercice tableau colonnes fmmmmm -->
 <style scoped>
-table {position:absolute; top:-170px; }
+table {position:absolute; top:-12.5em;  }
 td {font-size:80%}
 ol {position:absolute; top:-25px; max-height:350px!important; }
 ol li {padding-top:10px!important; font-size:1.2em;}
@@ -127,7 +127,7 @@ blockquote blockquote {font-size:1em}
 blockquote {font-size:1.35em}
 blockquote blockquote {font-size:1em}
 </style>
-![bg left:36%](https://upload.wikimedia.org/wikipedia/commons/8/8a/Schopenhauer.jpg)
+![bg left:36%](https://upload.wikimedia.org/wikipedia/commons/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
 
 >« La musique révèle tous les mouvements les plus intimes de notre être. »
 >>**Schopenhauer**
@@ -143,7 +143,7 @@ blockquote blockquote {font-size:1em}
 <style scoped>
 figure  {margin-right:-200px!important}
 </style>
-![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Martha_Nussbaum_wikipedia_10-10.jpg/520px-Martha_Nussbaum_wikipedia_10-10.jpg)
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/f/f1/Martha_Nussbaum_wikipedia_10-10.jpg)
 
 >« La littérature est une extension de la vie, non seulement horizontalement, mettant le lecteur en contact avec des événements ou des lieux ou des personnes ou des problèmes qu’il n’a pas rencontrés en dehors de cela, mais également, pour ainsi dire, verticalement, donnant au lecteur une expérience qui est plus profonde, plus aiguë et plus précise qu’une bonne partie des choses qui se passent dans la vie »
 >>Martha **Nussbaum**, _Love’s Knowledge. Essays on Philosophy and Literature_, p. 48 [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQbsMblhX843Y0amKLY4kA_c9M78drMFwpfMQM9deLqKGlh5uM1i5RV-ZAkhtdseMuMkmzaIpPesIOS/pub?start=false&loop=false&delayms=60000)
@@ -209,7 +209,7 @@ En définitive, tous les jugements de valeur sur l'art ne se valent pas et le go
 <style scoped>
 blockquote blockquote {padding-top:0.5em}
 </style>
-![bg left:23%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/520px-Painting_of_David_Hume.jpg)
+![bg left:23%](https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg)
 
 >« Deux de mes parents furent un jour appelés à donner leur opinion sur un tonneau de vin qu’on supposait excellent, vu son âge et son bon cru. L’un des deux le goûte, le considère et, après mûre réflexion, déclare que le vin est bon, si ce n’est un léger goût de cuir qu’il perçoit en lui. L’autre, après avoir usé des mêmes précautions, donne aussi son verdict en faveur du vin mais avec cette réserve : un goût de fer qu’il peut aisément distinguer. Vous ne sauriez imaginer comme leurs jugements furent tournés en ridicule. Mais qui fut le dernier à rire ? Quand le vin fut bu, on trouva au fond du tonneau une vieille clef attachée à une lanière de cuir. »
 >>**Hume**, _De la norme du goût_
